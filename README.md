@@ -11,7 +11,7 @@ Learn how Purple works in our [Purple Paper](https://docs.google.com/document/d/
 Discover the mapps that run on Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
 
 
-Try the first cXc.world Mapp using Purple, [cXc.world](https://music.cxc.world)
+Try the first cXc.world Mapp using Purple, **cXc Music** [music.cXc.world](https://music.cxc.world)
 
 > cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online.
 
@@ -62,7 +62,11 @@ Legal
 
 ## Eco-Friendly
 
-Purple lives on WAX, an EOSIO blockchain that is over 60,000 times more energy efficient than blockchain. *Nobody mines WAX!*
+Purple lives on WAX, an EOSIO blockchain.
+
+“EOSIO is 66,000 times more energy efficient than Bitcoin and 17,000 times more energy efficient than Ethereum” [GenerEOS](https://www.genereos.io/eosenergyconsumption/), 2018.
+
+ *Nobody mines WAX!*
 
 
 ## No Keys to lose, No Wallet to Download
