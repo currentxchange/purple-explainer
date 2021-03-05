@@ -15,6 +15,20 @@ Try the first cXc.world Mapp using Purple, [cXc.world](https://music.cxc.world)
 
 > cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online.
 
+# Table of Contents
+
+Tokens
+- [PURPLE](Purple.md)
+- [BLU + BLUx](Blu.md)
+- [SOL](Sol.md)
+
+Listing Info
+- [Exchange Listing](Exchange-Listing.md)
+
+Legal
+- [Disclaimer](Legal/Legal-Agreement.md)
+- [Legal Agreement](Legal/Legal-Agreement.md)
+
 # Quick Definitions
 
 **Purple** - Positive Attention Economy developed by cXc
