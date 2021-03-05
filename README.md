@@ -13,7 +13,7 @@ Discover the mapps that run on Purple in the [Mapps](https://docs.google.com/doc
 
 Try the first cXc.world Mapp using Purple, **cXc Music** [music.cXc.world](https://music.cxc.world)
 
-> cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online.
+> cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online starting April 17, 2021.
 
 # Table of Contents
 
@@ -78,7 +78,7 @@ If you prefer to be responsible for your private keys, any EOSIO wallet can hold
 
 
 # Aquire PURPLE with WAX
-WAX can be traded directly on the exchanges [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) and Newdex.
+WAX can be traded directly on the exchanges [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) and Newdex starting April 17, 2021.
 
 > Alcor has 0 transaction fees, Newdex has higher trading volume.
 
