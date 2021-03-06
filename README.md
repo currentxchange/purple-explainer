@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="640" height="640" src="https://ipfs.pink.gg/ipfs/QmeUb3LA7AaxEUdYJFoRaiQ1g1Y3XMeN4e2fmuFkCcDiUf">
+</p>
+
+
+https://ipfs.pink.gg/ipfs/QmeUb3LA7AaxEUdYJFoRaiQ1g1Y3XMeN4e2fmuFkCcDiUf
 
 # Purple runs on PURPLE
 
@@ -26,7 +32,7 @@ Listing Info
 - [Exchange Listing](Exchange-Listing.md)
 
 Legal
-- [Disclaimer](Legal/Legal-Agreement.md)
+- [Disclaimer](Legal/Disclaimer.md)
 - [Legal Agreement](Legal/Legal-Agreement.md)
 
 # Quick Definitions
