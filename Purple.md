@@ -1,5 +1,7 @@
 # $PURPLE
-
+<p align="center">
+  <img width="240" height="240" src="https://ipfs.pink.gg/ipfs/Qmd4BmQHkmWS1e5wMw63FzbncrXiPZnZe9f3NUazkLbTpT">
+</p>
 [$PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) is the [WAX](https://wax.io/) blockchain token at the center of Purple running on cXc.world.
 
 To learn more about the economics of cXc.world apps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview), and to see the first cXc.world app, cXc Music, visit [cXc.world](https://music.cxc.world)

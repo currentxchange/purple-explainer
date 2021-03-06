@@ -1,9 +1,7 @@
 <p align="center">
-  <img width="640" height="640" src="https://ipfs.pink.gg/ipfs/QmeUb3LA7AaxEUdYJFoRaiQ1g1Y3XMeN4e2fmuFkCcDiUf">
+  <img width="240" height="240" src="https://ipfs.pink.gg/ipfs/Qmd4BmQHkmWS1e5wMw63FzbncrXiPZnZe9f3NUazkLbTpT">
 </p>
 
-
-https://ipfs.pink.gg/ipfs/QmeUb3LA7AaxEUdYJFoRaiQ1g1Y3XMeN4e2fmuFkCcDiUf
 
 # Purple runs on PURPLE
 
