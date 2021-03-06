@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="240" height="240" src="https://ipfs.pink.gg/ipfs/QmXSevesv6tanu4AuybSR3f1xHetozHYqjz1QEGbT2ghX5">
+</p>
+
+
 # SOL
 [$SOL](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) is a fungible token using the [Simple Assets](https://github.com/CryptoLions/SimpleAssets) standard on the WAX blockchain.
 
