@@ -2,27 +2,27 @@
   <img width="240" height="240" src="https://ipfs.pink.gg/ipfs/Qmd4BmQHkmWS1e5wMw63FzbncrXiPZnZe9f3NUazkLbTpT">
 </p>
 
-# $PURPLE
-[$PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) is the [WAX](https://wax.io/) blockchain token at the center of Purple running on cXc.world.
+# PURPLE
+[PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) is the [WAX](https://wax.io/) blockchain token at the center of Purple running on cXc.world.
 
 
 # Supply of PURPLE
-Purple has a **unchangeable maximum supply** of 12^7 (**35,831,808**) tokens, comparable with bitcoin (21,000,000) in terms of scarcity. [proof](https://wax.bloks.io/transaction/2e9499407094dbcd521f7c7b012d3a38a20fc847707a0f6e90f4e7164dd95ea5)
+PURPLE has a **unchangeable maximum supply** of 12^7 (**35,831,808**) $PURPLE tokens, comparable with bitcoin (21,000,000) in terms of scarcity. [proof](https://wax.bloks.io/transaction/2e9499407094dbcd521f7c7b012d3a38a20fc847707a0f6e90f4e7164dd95ea5)
 
 *There is no inflation, but burned $PURPLE may be re-minted.*
 
 
 # PURPLE on cXc.world
-PURPLE is given to artists that make the Top Music charts for time periods one day or greater.  
+$PURPLE is given to artists that make the Top Music charts for time periods one day or greater.  
 
-PURPLE is also supplied to the BLU / PRP **Time-Pooling Exchange**.
+$PURPLE is also supplied to the BLU / PRP **Time-Pooling Exchange**.
 
 
 ## Chart Rewards
 Artists are **rewarded in $PURPLE for reaching the top of local and global charts.** The amount of this reward will change depending on the amount in the rewards pool. The rewards pool has a minimum size of 288 $PURPLE per day, pre-funded for the next 9+ years. [see it]()
 
 ## Time-Pooling Exchange ($BLU / $PURPLE)
-Time-pools are a type of exchange independent from DEXs like Newdex and Alcor.exchange. They pool and swap ALL resources in the pools. This implies a **diminishing return**, such that the less you put in the better exchange rate you (and everyone else) gets. The exchange is funded with $PURPLE (288 PURPLE per day) by cXc + anyone else, and all $BLU is exchanged with all PURPLE. This pool is budgeted for 9+ years but **not slated for release in Beta**.
+Time-pools are a type of exchange independent from DEXs like Newdex and Alcor.exchange. They pool and swap ALL resources in the pools. This implies a **diminishing return**, such that the less you put in the better exchange rate you (and everyone else) gets. The exchange is funded with $PURPLE (288 $PURPLE per day) by cXc + anyone else, and all BLU is exchanged with all PURPLE. This pool is budgeted for 9+ years but **not slated for release in Beta**.
 
 
 # Staking of PURPLE via NFTs
@@ -41,7 +41,7 @@ Thus, creators who want their music to be heard have a huge **incentive for long
 
 Staking 1 Purple will ensure a piece of content will **show up on the map and on daily charts forever**.
 
-When a user stakes 1 or more $PURPLE, they will receive a $PURPLE-backed NFT that holds mutable information about what content they want to shine a spotlight on, and the time of day for the Up to occur.
+When a user stakes 1 or more $PURPLE, they will receive a PURPLE-backed NFT that holds mutable information about what content they want to shine a spotlight on, and the time of day for the Up to occur.
 
 This NFT is called an **Everstone**. *Yes, like the one you gave your [Pikachu](https://bulbapedia.bulbagarden.net/wiki/Everstone).*
 
@@ -62,7 +62,7 @@ Everdust must be **burned** to unlock its Upping functionality, constantly lower
 
 
 
-# Purple Direct Listing
+# PURPLE Direct Listing
 $PURPLE will be Direct Listed on Alcor and Newdex on April 17, 2021. For more information, see [OTHER PAGE]
 
 ## Minted
@@ -82,4 +82,4 @@ bluupcurrent
 
 
 
-To learn more about the economics of cXc.world apps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) and [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and to see the first cXc.world mapp, cXc Music, visit [cXc.world](https://music.cxc.world)
+>To learn more about the economics of cXc.world apps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) and [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and to see the first cXc.world mapp, cXc Music, visit [cXc.world](https://music.cxc.world)
