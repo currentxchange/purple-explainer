@@ -10,13 +10,13 @@
 Purple is a **Positive Attention Economy (PAE)** where participants get paid daily for sharing their opinion of what content they enjoy, and their opinion also pays creators. Purple consists of three eosio.token tokens; **$PURPLE**, **$BLU** / **$BLUx**, and **SOL**, an Atomic Assets fungible token.
 
 
-Learn how Purple works by exploring the component tokens in [Purple.md](Purple.md), [Blu.md](Blu.md), [Sol.md](Sol.md).
+Learn how Purple works by exploring the component tokens in [Purple.md](Purple.md), [Blu.md](Blu.md), and [Sol.md](Sol.md).
 
 
-Discover the mapps that run on Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
+Discover the dapps that run on Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
 
 
-Try the first cXc.world Mapp using Purple, **cXc Music** [music.cXc.world](https://music.cxc.world)
+Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](https://music.cxc.world)
 
 > cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online starting April 17, 2021.
 
@@ -61,13 +61,13 @@ Legal
 
 **cXc** - Current X Change LLC, Maryland, USA
 
-**cXc.world** - Holds Mapps, cXc Music (music.cXc.world) is released.
+**cXc.world** - Holds All Mapps, currently redirects to cXc Music (music.cXc.world)
 
 # Features
 
 ## Eco-Friendly
 
-Purple lives on WAX, an EOSIO blockchain.
+Purple lives on [**WAX**](https://on.wax.io/wax-io/), an [EOSIO](https://eos.io/about/) blockchain.
 
 “EOSIO is 66,000 times more energy efficient than Bitcoin and 17,000 times more energy efficient than Ethereum” [GenerEOS](https://www.genereos.io/eosenergyconsumption/), 2018.
 
