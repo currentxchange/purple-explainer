@@ -40,6 +40,24 @@ Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less t
 
 *As this is pre-beta, consider all elements subject to modifications*
 
+# Founder Pay Freeze Period  
+Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by incremental % starting at 1%. All values in PURPLE and rounded.
+
+2021 = 1% = 29,859
+2022 = 2% = 59,719
+2023 = 3% = 89,580
+2024 = 4% = 119,439
+2025 = 5% = 149,299
+2026 = 6% = 179,159
+2027 = 7% = 209,018
+2028 = 8% = 238,878
+2029 = 9% = 268,738
+2030 = 10% = 298,598
+2031 = 11% = 328,458
+2032 = 12% = 358,318
+2033 = 13% = 388,177
+2034 = 14% = 268,738 (Remaining balance)
+
 
 # Proceeds
 Funds will be used to pay for all end-user transactions on cXc.world, and also purchase RAM for accounts who receive our NFTs.  

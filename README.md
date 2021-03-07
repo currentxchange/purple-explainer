@@ -7,10 +7,11 @@
 
 > This repo will cover $PURPLE, including acquiring the token, BLU, BLUx, and SOL, staking preview, and legal disclaimers.
 
-Purple is a **Positive Attention Economy (PAE)** where participants get paid daily for sharing their opinion of what content they enjoy, and their opinion also pays creators. Purple consists of $PURPLE, $BLU and $BLUx, and $SOL.
+Purple is a **Positive Attention Economy (PAE)** where participants get paid daily for sharing their opinion of what content they enjoy, and their opinion also pays creators. Purple consists of three eosio.token tokens; **$PURPLE**, **$BLU** / **$BLUx**, and **SOL**, an Atomic Assets fungible token.
 
 
-Learn how Purple works in our [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview).
+Learn how Purple works by exploring the component tokens in [Purple.md](Purple.md), [Blu.md](Blu.md), [Sol.md](Sol.md).
+
 
 Discover the mapps that run on Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
 
@@ -105,4 +106,4 @@ Participating in the direct listing requires that you adhere and agree to the re
 
 > Please note: Staking and Everstones are not scheduled for the first release of cXc Music Beta (0.2.0), but are slated for soon after.
 
-*As this is pre-beta, consider all elements subject to modifications except the total supply of tokens*
+*As this is pre-beta, consider all elements subject to modifications except the total supply of tokens, founder pay, and liquidity promise*

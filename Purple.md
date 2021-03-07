@@ -5,10 +5,8 @@
 # $PURPLE
 [$PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) is the [WAX](https://wax.io/) blockchain token at the center of Purple running on cXc.world.
 
-To learn more about the economics of cXc.world apps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview), and to see the first cXc.world app, cXc Music, visit [cXc.world](https://music.cxc.world)
 
 # Supply of PURPLE
-
 Purple has a **unchangeable maximum supply** of 12^7 (**35,831,808**) tokens, comparable with bitcoin (21,000,000) in terms of scarcity. [proof](https://wax.bloks.io/transaction/2e9499407094dbcd521f7c7b012d3a38a20fc847707a0f6e90f4e7164dd95ea5)
 
 *There is no inflation, but burned $PURPLE may be re-minted.*
@@ -80,3 +78,8 @@ bluupcurrent
 - 3/12 (8,957,952) to Future direct-listing sell orders as described here. @dplug4purple
 - Fixed Daily Mint (or transfer from pre-minted fund) of 288 $PURPLE to rewards pools for top charts
 - Unallocated $PURPLE will be minted as needed for rewards / promotion of future cXc.world mapps, or any purpose other than listing on exchanges
+
+
+
+
+To learn more about the economics of cXc.world apps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) and [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and to see the first cXc.world mapp, cXc Music, visit [cXc.world](https://music.cxc.world)
