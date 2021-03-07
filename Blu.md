@@ -1,11 +1,11 @@
-# $BLU + BLUx
+# Blu ($BLU + BLUx)
 
 [$BLU](https://wax.bloks.io/account/blublublublu) is a [WAX](https://wax.io/) token used to **reward** participants in the Purple Positive Attention Economy.
 
 > Blu or BLU may refer to both $BLUx and $BLU, which are separate tokens with similar functionality
 
 # Functionality
-$BLU and BLUx are **burned for BLU Ups**. This form of Ups is recorded separately than Sol Ups, but both are combined to rank charts and determine what music shows up on the mapp.
+BLU and BLUx are **burned for Blu Ups**. This form of Ups is recorded separately than Sol Ups, but both are combined to rank charts and determine what music shows up on the mapp.
 
 # Earning $BLU
 BLU/BLUx is paid (1:1) to creators when they earn an Up. cXc Music (music.cXc.world) uses the **Google account of the Youtube video*** to determine which account to pay. A creator MUST link their Google account to their WAX account on-site to receive this payment, and MUST have a youtube video.
@@ -30,7 +30,7 @@ When a user is paid BLU, they either receive $BLU or $BLUx **depending on if the
 # Supply of $BLU and $BLUx
 $BLU and $BLUx have a maximum supply of 2^62-1, the highest possible on EOSIO. Circulating supply fluctuates, with $BLUx predicted to have a much higher circulating supply than $BLU at all times.
 
-**BLU is indivisible** (0 percision) token, matching it's functionality of being worth exactly 1 Up.
+**BLU is indivisible** (0 percision) token, matching it's functionality of being **worth exactly 1 Up.**
 
 # Smart Contracts
 $BLU - [blublublublu](https://wax.bloks.io/account/blublublublu)
@@ -40,9 +40,9 @@ $BLUx - [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux)
 
 # $BLU + $BLUx Distribution
 
-Minting of $BLU operates under strict CONDITIONS defined in the Mapps and Purple papers.
+Minting of BLU operates under strict CONDITIONS defined in the Mapps and Purple papers.
 
-$BLU may only be distributed by certain pre-defined actions on the site involving **verified** users, specifically role tasks and receiving upvotes on content you created.
+BLU may only be distributed by certain pre-defined actions on the site involving **verified** users, specifically role tasks and receiving upvotes on content you created.
 
 $BLUx is distributed to **non-verified** users, and also pre-minted at launch to fund airdrops and giveaways.
 
@@ -60,4 +60,4 @@ $BLUx is also minted periodically for Airdrops and promotional budgets. All mint
 - 1,000,000 BLUX to Airdrop fund
 
 
-> $BLU and $BLUx may be pre-minted and stored in a holding account to save on resource costs. 
+> $BLU and $BLUx may be pre-minted and stored in a holding account to save on resource costs.
