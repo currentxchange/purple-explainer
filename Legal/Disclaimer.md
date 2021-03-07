@@ -1,6 +1,6 @@
 # Disclaimer
 
-"PURPLE" refers to the cryptographic token found at address [purplepurple](https://wax.bloks.io/account/purplepurple) on the WAX blockchain, and any distinctions, restrictions, and terms defined for PURPLE also apply to the tokens BLUx [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) and BLU [blublublublu](https://wax.bloks.io/account/blublublublu) and SOL
+"PURPLE or $PURPLE" refers to the cryptographic token found at address [purplepurple](https://wax.bloks.io/account/purplepurple) on the WAX blockchain, and any distinctions, restrictions, and terms defined for PURPLE also apply to the tokens BLUx or $BLUx [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) and BLU or $BLUX [blublublublu](https://wax.bloks.io/account/blublublublu) and SOL
 "Purple" refers to the Positive Attention Economy that is a combination of PURPLE BLUx BLU and SOL
 "Current X Change", cXc refer to Current X Change LLC, registered in Maryland, USA.
 "Mapps", "mapp" and "cXc.world" refer to launched and planned mapping applications hosted on subdomains of https://cxc.world
@@ -24,7 +24,7 @@ Current X Change makes no guarantee that the mechanisms described in this repo a
 # Current X Change LLC Members in the System
 All members and associates of the Current X Change LLC organization are NOT barred from participating in the Purple economy, including but not limited to earning rewards according to the [Mapps paper](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and trading $PURPLE, $BLU and $BLUx.
 
-> The founder will only receive 1% of their pay in $PURPLE in 2021, and 2% in 2022. 
+> The founder will only receive 1% of their pay in $PURPLE in 2021, and 2% in 2022.
 
 # PURPLE is not a security.
 PURPLE is not a security asset. PURPLE and Current X Change LLC use the terminology used by many ICOs, cryptocurrencies and other token sales, but do not follow the investment model of other tokens that may be securities. The PURPLE token is for use only in cXc Mapps, with the opportunity to be incorporated later on by other applications. This token is integral to the utility of the application, such that the application would not be possible without it. Current X Change LLC makes no promise or suggestion that this token will make the owner’s money.
