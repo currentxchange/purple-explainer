@@ -7,13 +7,18 @@
 
 > This repo will cover $PURPLE, including acquiring the token, BLU, BLUx, and SOL, staking preview, and legal disclaimers.
 
-Purple is a **Positive Attention Economy (PAE)** where participants get paid daily for sharing their opinion of what content they enjoy, and their opinion also pays creators. Purple consists of three eosio.token tokens; **$PURPLE**, **$BLU** / **$BLUx**, and **SOL**, an Atomic Assets fungible token.
+Purple is a **Positive Attention Economy (PAE)** where participants get paid daily for sharing their opinion of what content they enjoy, and their opinion also pays creators.
+
+## Purple Overview
+Purple consists of three [eosio.token](https://wax.bloks.io/account/eosio.token) tokens; **PURPLE**, **BLU**, and **BLUx**, and an [Atomic Assets](https://wax.bloks.io/account/atomicassets) fungible token, **SOL**.
+
+Free daily **SOL** enables positive attention distribution via Ups, which pay creators in Blu. Anyone can trade **BLU** (or WAX) for **PURPLE** (scarce) which can be staked for ultra-rare **Everstone NFTs**. Everstones help creations to **shine forever** with daily Ups.
 
 
 Learn how Purple works by exploring the component tokens in [Purple.md](Purple.md), [Blu.md](Blu.md), and [Sol.md](Sol.md).
 
 
-Discover the dapps that run on Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
+Discover the dapps that we're making with Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
 
 
 Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](https://music.cxc.world)
