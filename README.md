@@ -5,7 +5,7 @@
 
 # Purple runs on PURPLE
 
-> This repo will cover cXc's biomimetic economy "Purple" made of the tokens PURPLE, BLU, BLUx, and SOL, staking PURPLE preview, and legal disclaimers.
+> This repo will cover cXc.world's biomimetic engine, Purple, made of the tokens PURPLE, BLU, BLUx, and SOL, staking PURPLE preview, and legal disclaimers.
 
 Purple is a **Positive Attention Economy (PAE)** where participants get paid daily for sharing their opinion of what content they enjoy, and their opinion also pays creators.
 
