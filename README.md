@@ -3,13 +3,13 @@
 </p>
 
 
-# Purple Pays People
+# Purple Pays Creators
 
 > This repo will cover cXc.world's biomimetic engine, Purple, made of the tokens PURPLE, BLU, BLUx, and SOL, staking PURPLE preview, and legal disclaimers.
 
 Purple is a **Positive Attention Economy (PAE)** where participants shine their light on content they enjoy, and that positive attention pays the creators of that content.
 
-> Above you will see Purple's gears. Sol, Blu, and PURPLE.
+> Above you will see Purple's gears: Sol, Blu, and PURPLE.
 
 ## Purple Overview
 Purple consists of three [eosio.token](https://wax.bloks.io/account/eosio.token)s on [WAX](https://on.wax.io/wax-io/); **PURPLE**, **BLU**, and **BLUx**, and an [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **SOL**.
