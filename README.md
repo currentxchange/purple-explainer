@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="240" height="240" src="https://ipfs.pink.gg/ipfs/Qmd4BmQHkmWS1e5wMw63FzbncrXiPZnZe9f3NUazkLbTpT">
+  <img width="100%" height="auto" src="https://ipfs.pink.gg/ipfs/QmVfCQoypmWsnubp3W4ufRMnkgvpyAGgx9DFPgqTReQQrJ">
 </p>
 
 
@@ -7,7 +7,7 @@
 
 > This repo will cover cXc.world's biomimetic engine, Purple, made of the tokens PURPLE, BLU, BLUx, and SOL, staking PURPLE preview, and legal disclaimers.
 
-Purple is a **Positive Attention Economy (PAE)** where participants get paid daily for sharing their opinion of what content they enjoy, and their opinion also pays creators.
+Purple is a **Positive Attention Economy (PAE)** where participants get rewarded daily for sharing their opinion of what content they enjoy, and their opinion also pays the creator of that content.
 
 ## Purple Overview
 Purple consists of three [eosio.token](https://wax.bloks.io/account/eosio.token) tokens; **PURPLE**, **BLU**, and **BLUx**, and an [Atomic Assets](https://wax.bloks.io/account/atomicassets) fungible token, **SOL**.
