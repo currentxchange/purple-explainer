@@ -3,19 +3,25 @@
 </p>
 
 
-# Purple runs on PURPLE
+# Purple Pays People
 
 > This repo will cover cXc.world's biomimetic engine, Purple, made of the tokens PURPLE, BLU, BLUx, and SOL, staking PURPLE preview, and legal disclaimers.
 
-Purple is a **Positive Attention Economy (PAE)** where participants get rewarded daily for sharing their opinion of what content they enjoy, and their opinion also pays the creator of that content.
+Purple is a **Positive Attention Economy (PAE)** where participants shine their light on content they enjoy, and that positive attention pays the creators of that content.
+
+> Above you will see Purple's gears. Sol, Blu, and PURPLE.
 
 ## Purple Overview
-Purple consists of three [eosio.token](https://wax.bloks.io/account/eosio.token) tokens; **PURPLE**, **BLU**, and **BLUx**, and an [Atomic Assets](https://wax.bloks.io/account/atomicassets) fungible token, **SOL**.
+Purple consists of three [eosio.token](https://wax.bloks.io/account/eosio.token)s on [WAX](https://on.wax.io/wax-io/); **PURPLE**, **BLU**, and **BLUx**, and an [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **SOL**.
 
-Free daily **SOL** enables positive attention distribution via Ups, which pay creators in Blu. Anyone can trade **BLU** (or WAX) for **PURPLE** (scarce) which can be staked for ultra-rare **Everstone NFTs**. Everstones help creations to **shine forever** with daily Ups.
+Free daily **SOL** enables positive attention shining via Ups, which pay creators 1:1 in **BLU**. Anyone can use **BLU** (Abundant) to Up again, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **Everstone NFTs**, which help creations to **shine forever** with daily Ups.
+
+> Read about Everstone NFTs in [Purple.md](Purple.md)
+
+Mapps (defined below) are **geotemporal**, and every result has a timespan where Ups are counted. *No Ups, it won't show up.* The latest displays will only look at Ups in the last day, making **Everstones** an easy way to not disappear, and **BLU** Ups a shot to be seen at the top of local charts.
 
 
-Learn how Purple works by exploring the component tokens in [Purple.md](Purple.md), [Blu.md](Blu.md), and [Sol.md](Sol.md).
+Learn how **Purple** works by exploring the component tokens in [Purple.md](Purple.md), [Blu.md](Blu.md), and [Sol.md](Sol.md).
 
 
 Discover the dapps that we're making with Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
@@ -25,7 +31,7 @@ Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](
 
 > cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online starting April 17, 2021.
 
-# Table of Contents
+# Learn Everything About Purple
 
 Tokens
 - [PURPLE](Purple.md)
@@ -58,7 +64,6 @@ Legal
 **BLU** - Abundant token distributed to recipients of Sol Ups, and for completion of Role-based tasks. Burnt 1:1 to give Blu Ups
 
 **PURPLE** - Scarce token that can be staked for Everstones
-
 
 **Everstone** - $PURPLE-backed NFT that Ups a specific piece of content on a mapp periodically automatically
 
