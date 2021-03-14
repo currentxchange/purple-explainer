@@ -7,7 +7,7 @@
 
 > This repo will cover cXc.world's biomimetic engine, Purple, made of the tokens PURPLE, BLU, BLUx, and SOL, staking PURPLE preview, and legal disclaimers.
 
-Purple is a **Positive Attention Economy (PAE)** where participants shine their light on content they enjoy, and that positive attention pays the creators of that content.
+Purple is a **Positive Attention Economy (PAE)** where participants shine their light on content they love, and that positive attention pays the creator(s).
 
 > Above you will see Purple's gears: Sol, Blu, and PURPLE.
 
