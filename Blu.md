@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="240" height="240" src="https://ipfs.pink.gg/ipfs/QmTuUZvHmZwjAfJWSGgXAWV279rFBMcaZAuRbMDM3L7zUk">
+</p>
+
 # Blu ($BLU + BLUx)
 
 [$BLU](https://wax.bloks.io/account/blublublublu) is a [WAX](https://wax.io/) token used to **reward** participants in the Purple Positive Attention Economy.
