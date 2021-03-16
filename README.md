@@ -91,8 +91,8 @@ You can use [WAX Cloud Wallet](https://all-access.wax.io/) to sign up for a free
 
 If you prefer to be responsible for your private keys, any EOSIO wallet can hold your $PURPLE, $BLU and $SOL.
 
-# Aquire PURPLE
-## Aquire PURPLE with WAX
+# Acquire PURPLE
+## Acquire PURPLE with WAX
 WAX can be traded directly on the exchanges [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) and Newdex starting April 17, 2021.
 
 > Alcor has 0 transaction fees, Newdex has higher trading volume.
@@ -102,7 +102,7 @@ WAX can be traded directly on the exchanges [Alcor](https://wax.alcor.exchange/t
 3. Visit the $PURPLE / $WAXP trading pair
 4. Place your order. Your PURPLE will show up automatically in your WAX wallet.
 
-## Aquire PURPLE with FIAT (Credit / Debit), BTC, ETH
+## Acquire PURPLE with FIAT (Credit / Debit), BTC, ETH
 To acquire PURPLE without an existing WAX wallet, follow these steps:
 1. Get a free WAX wallet [here](https://all-access.wax.io/)
 2. Click "**Buy Wax**" in your [dashboard](https://all-access.wax.io/dashboard)
