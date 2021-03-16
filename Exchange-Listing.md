@@ -3,6 +3,8 @@
 # Overview
 $PURPLE is listed starting **April 17, 2021** on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) and [Newdex](https://newdex.io) under the WAX markets section. Because of the very limited supply of $PURPLE, ascending price sell orders will be used to ensure that hoarding doesn't happen, so that everyone has a chance to acquire the $PURPLE they need to benefit fully from cXc.world.  
 
+
+
 > As $BLU and $BLUx are also eosio.token(s), they can show up on exchanges also, but these markets will not be interacted with by Current X Change LLC
 
 # Digital Advertising's bitcoin
@@ -16,8 +18,9 @@ Furthermore, **PURPLE** need only be unstaked for the holder to receive back the
 $PURPLE has a unique utility for musicians as **cXc Music** is the first [**cXc.world**](https://cxc.world) mapp, but this utility will expand to all creators and creative collectives when **cXc Video**, **cXc Photo**, **cXc Scribe**, **cXc Art** + more mapps are available.  
 
 # First Ascending Sell Orders.
-At launch, the first ascending sell order will be placed with pricing from **20 - 240 WAX** per token.
+On 4/17/2021, the first sell order will be placed with pricing of **20 WAXP** per PURPLE.
 Amount of Tokens Available: 1/12 Max Supply (12^6)
+
 
 
 # Second, Third, and Fourth Sell Orders
@@ -55,7 +58,7 @@ Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by increm
 2030 = 10% = 298,598
 2031 = 11% = 328,458
 2032 = 12% = 358,318
-2033 = 13% = 388,177
+2033 = 13% = 388,177 
 2034 = 14% = 268,738 (Remaining balance)
 
 
