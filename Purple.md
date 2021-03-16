@@ -66,18 +66,17 @@ Everdust must be **burned** to unlock its Upping functionality, constantly lower
 $PURPLE will be Direct Listed on Alcor and Newdex on April 17, 2021. For more information, see [OTHER PAGE]
 
 ## Minted
-- 1/12 (2,985,984) Direct Listed on Exchanges (Alcor + Newdex). @dplug4purple
-- 100,000 to Promo account @thx4dapurple
-solupcurrent
-bluupcurrent
+- 1/12 (2,985,984) Direct Listed on Exchanges (Alcor + Newdex). [dplug4purple](https://wax.bloks.io/account/dplug4purple)
+- 100,000 to Promo account [thx4dapurple](https://wax.bloks.io/account/thx4dapurple)
 
 ## To Be Minted
-- 1,000,000 to Creators fund (rewards pool for Top charts) @createpurple @creatorsfund
-- 1,000,000 to BLU / PURPLE Time Pooling xChange @pxcblupurple exchangepool
+- 1,000,000 to Creators fund (rewards pool for Top charts) [creatorsfund](https://wax.bloks.io/account/thx4dapurple)
+- 1,000,000 to BLU / PURPLE Time Pooling xChange [exchangepool](https://wax.bloks.io/account/thx4dapurple)
+- 885,984 to future promotion budget [thx4dapurple](https://wax.bloks.io/account/thx4dapurple)
 - 1/12 (2,985,984) to founder, distributed over 14 years by incremental % starting at 1% (2021 = 1% [29,859], 2022 = 2% [59,719]...)
-- 3/12 (8,957,952) to Future direct-listing sell orders as described here. @dplug4purple
+- 3/12 (8,957,952) to Future direct-listing sell orders as described here. [dplug4purple](https://wax.bloks.io/account/dplug4purple)
 - Fixed Daily Mint (or transfer from pre-minted fund) of 288 $PURPLE to rewards pools for top charts
-- Unallocated $PURPLE will be minted as needed for rewards / promotion of future cXc.world mapps, or any purpose other than listing on exchanges
+- Unallocated $PURPLE will be minted as needed for rewards / promotion of future cXc.world mapps, pay for future team members, or any purpose other than listing on exchanges.
 
 
 

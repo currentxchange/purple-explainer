@@ -12,7 +12,7 @@ Purple is a **Positive Attention Economy (PAE)** where participants shine their 
 > Above you will see Purple's gears: Sol, Blu, and PURPLE.
 
 ## Purple Overview
-Purple consists of three [eosio.token](https://wax.bloks.io/account/eosio.token)s on [WAX](https://on.wax.io/wax-io/); **PURPLE**, **BLU**, and **BLUx**, and an [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **SOL**.
+Purple consists of three [eosio.token](https://wax.bloks.io/account/eosio.token)s on [WAX](https://on.wax.io/wax-io/); **PURPLE**, **BLU**, and **BLUx**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **SOL**.
 
 Free daily **SOL** enables positive attention shining via Ups, which pay creators 1:1 in **BLU**. Anyone can use **BLU** (Abundant) to Up again, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **Everstone NFTs**, which help creations to **shine forever** with daily Ups.
 
