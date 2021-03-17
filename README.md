@@ -35,6 +35,14 @@ Legal
 - [Disclaimer](Legal/Disclaimer.md)
 - [Legal Agreement](Legal/Legal-Agreement.md)
 
+# Purple in the Wild
+Discover the dapps that we're making with Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
+
+
+Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](https://music.cxc.world)
+
+> cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online starting April 17, 2021.
+
 # Quick Definitions
 
 **Purple** - Positive Attention Economy developed by cXc
@@ -63,13 +71,6 @@ Legal
 
 **cXc.world** - Holds All Mapps, currently redirects to cXc Music (music.cXc.world)
 
-# Purple in the Wild
-Discover the dapps that we're making with Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
-
-
-Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](https://music.cxc.world)
-
-> cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online starting April 17, 2021.
 
 # Features
 
