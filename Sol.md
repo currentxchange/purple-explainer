@@ -4,7 +4,7 @@
 
 
 # Sol
-SOL is a fungible token using the [Simple Assets](https://github.com/CryptoLions/SimpleAssets) standard on the WAX blockchain.
+[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) is a fungible token using the [Simple Assets](https://github.com/CryptoLions/SimpleAssets) standard on the WAX blockchain.
 
 SOL is a [time token](https://github.com/dougbutner/web-4#time-issued-cryptocurrency-time-tokens), freely given to each member of cXc.world. A SOL must be burnt to make an Up on the site. Each SOL is linked to one Time Unit.
 
