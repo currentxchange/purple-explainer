@@ -4,7 +4,9 @@
 
 # Blu ($BLU + BLUx)
 
-[$BLU](https://wax.bloks.io/account/blublublublu) is a [WAX](https://wax.io/) token used to **reward** participants in the Purple Positive Attention Economy.
+[$BLU](https://wax.bloks.io/account/blublublublu) is a [WAX](https://wax.io/) token used to **reward musicians** on cXc.world.
+
+All participants in the Purple Positive Attention Economy can earn BLU for qualified actions, including posting original creations, Upping content, moderation, and trading in time-pools.
 
 > Blu or BLU may refer to both $BLUx and $BLU, which are separate tokens with similar functionality
 
@@ -53,15 +55,19 @@ $BLUx is distributed to **non-verified** users, and also pre-minted at launch to
 ## $BLU Minted
 0 (Zero) $BLU is minted outside of paying for actions defined in [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) and [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) **ONLY to verified accounts.**
 
+Note: BLU is minted to [blublublublu](https://wax.bloks.io/account/blublublublu) 1,000,000 at a time, in advance, where it is then distributed.  
+
 
 ## $BLUx Minted
 $BLUx is minted according to the same conditions as $BLU, but to unverified accounts.
+
+Note: BLUx is minted to [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) 1,000,000 at a time, in advance, where it is then distributed.
 
 $BLUx is also minted periodically for Airdrops and promotional budgets. All mintings of $BLUx are public knowledge via the [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) contract.
 
 **Current Slated $BLUx mints:**
 
-- 1,000,000 BLUX to Airdrop fund
+- 1,000,000 BLUX to Promo fund [thx4dapurple](https://wax.bloks.io/account/thx4dapurple)
 
 
 > $BLU and $BLUx may be pre-minted and stored in a holding account to save on resource costs.
