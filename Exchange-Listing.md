@@ -1,32 +1,35 @@
 # Purple Market Making + Incentives
 
 # Overview
-$PURPLE is listed starting **April 17, 2021** on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) and [Newdex](https://newdex.io) under the WAX markets section. Because of the very limited supply of $PURPLE, ascending price sell orders will be used to ensure that hoarding doesn't happen, so that everyone has a chance to acquire the $PURPLE they need to benefit fully from cXc.world.  
+PURPLE's initial release starts **April 17, 2021** on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) and [Newdex](https://newdex.io). **You may place buy orders now.**
 
 
+Because of the very limited supply of PURPLE, ascending price sell orders will be used to ensure that hoarding doesn't happen, so everyone has a chance to acquire the PURPLE they need to benefit fully from cXc.world.  
 
-> As $BLU and $BLUx are also eosio.token(s), they can show up on exchanges also, but these markets will not be interacted with by Current X Change LLC
 
-# Digital Advertising's bitcoin
-> Why would one want to HODL PURPLE?
+> BLUx is also listed on [Alcor](https://wax.alcor.exchange/trade/blux-bluxbluxblux_wax-eosio.token)
 
-Since **PURPLE** can be staked for continual attention to a piece of content, it's a rare form of digital advertising purchase that allows someone to buy once and hold **continual attention** for all of time. This attention means huge value, particularly to independent creators and creative organizations such as record labels and artist collectives.
+# Functionality: Digital Advertising Gold
+> Why would PURPLE?
+
+**PURPLE** can be staked for continual attention to a piece of content; a rare form of digital advertising purchase that allows someone to buy once and hold **continual attention** for all of time. This attention means huge value, particularly to independent creators and creative organizations such as record labels and artist collectives.
 
 Furthermore, **PURPLE** need only be unstaked for the holder to receive back the same amount of tokens. This means an artist can advertise their art and meanwhile hold something of increasing utility as each future cXc.world mapp is released.
 
 ## Today Musicians, Tomorrow All
-$PURPLE has a unique utility for musicians as **cXc Music** is the first [**cXc.world**](https://cxc.world) mapp, but this utility will expand to all creators and creative collectives when **cXc Video**, **cXc Photo**, **cXc Scribe**, **cXc Art** + more mapps are available.  
+PURPLE has a unique utility for musicians as **cXc Music** is the first [**cXc.world**](https://cxc.world) mapp, but this utility will expand to all creators and creative collectives when **cXc Video**, **cXc Photo**, **cXc Scribe**, **cXc Art** + more mapps are available.  
 
 # First Ascending Sell Orders.
-On 4/17/2021, the first sell order will be placed with pricing of **20 WAXP** per PURPLE.
-Amount of Tokens Available: 1/12 Max Supply (12^6)
+On 4/17/2021, the first sell order will begin be placed with pricing starting at **20 WAXP** per PURPLE. Then, each month for 11 months, another sell order will be placed with base price increasing 20 WAXP each month.
+
+> Amount of Tokens Per Sell Order: 1/12 Max Supply or 12^6 (2,985,984), released 12^5 (248,832) each month for 1 year.
 
 
 
 # Second, Third, and Fourth Sell Orders
-Once all tokens are sold, another 12^6 batch of sell orders will launch priced at **240 - 2880 WAX** per PURPLE. After that, a third batch will arrive priced **2880 - 34,560 WAX**, and a final sell order at **34,560 - 414,720 WAX**.
+Once all tokens are sold from the first orders, another 12^6 batch of 12^5 ascending sell orders will launch priced at **240 - 2880 WAX** per PURPLE. After that, a third batch will arrive priced **2880 - 34,560 WAX**, and a final sell order at **34,560 - 414,720 WAX**.
 
-> Prices may adjust according to market price of WAX
+> Prices subject to change / adjust with current WAX price. 
 
 ## Pricing Rationale
 It's easy to see that PURPLE's later sell orders go up rapidly in price. This is to ensure:
@@ -58,7 +61,7 @@ Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by increm
 2030 = 10% = 298,598
 2031 = 11% = 328,458
 2032 = 12% = 358,318
-2033 = 13% = 388,177 
+2033 = 13% = 388,177
 2034 = 14% = 268,738 (Remaining balance)
 
 
