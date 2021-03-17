@@ -66,8 +66,10 @@ Everdust must be **burned** to unlock its Upping functionality, constantly lower
 $PURPLE will be Direct Listed on Alcor and Newdex on April 17, 2021. For more information, see [OTHER PAGE]
 
 ## Minted
-- 1/12 (2,985,984) Direct Listed on Exchanges (Alcor + Newdex). [dplug4purple](https://wax.bloks.io/account/dplug4purple)
+- 1/12 (2,985,984) Direct Listed on Exchanges (Alcor + Newdex) Mint 12^5 Monthly for 12 Months [dplug4purple](https://wax.bloks.io/account/dplug4purple)
 - 100,000 to Promo account [thx4dapurple](https://wax.bloks.io/account/thx4dapurple)
+- 100,000 for Team + Freelance work [currentxchng](https://wax.bloks.io/account/currentxchng)
+- 29,859 Founder Pay 2021 [godsolislove](https://wax.bloks.io/account/godsolislove) 
 
 ## To Be Minted
 - 1,000,000 to Creators fund (rewards pool for Top charts) [creatorsfund](https://wax.bloks.io/account/thx4dapurple)
