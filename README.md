@@ -42,8 +42,6 @@ Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](
   <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/cXc-Music-Polaroid.png"></a>
 </p>
 
-Images/cXc-Music-Polaroid.png
-
 > cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online starting April 17, 2021.
 
 Discover more mapps we're bringing to Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
