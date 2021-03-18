@@ -118,7 +118,7 @@ To acquire PURPLE without an existing WAX wallet, follow these steps:
 
 # DEFI Liquidity Pools
 
-Liquidity will always be available via Alcor Swap here: [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token),  [WAX/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token), and [PURPLE/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=PURPLE-purplepurple).
+Instant Liquidity via Alcor Swap: [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token),  [WAX/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token), and [PURPLE/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=PURPLE-purplepurple).
 
 # Requirements & Restrictions
 Participating in the direct listing requires that you adhere and agree to the requirements, restrictions, terms and conditions laid out in [disclaimer.md](Legal/Disclaimer.md) and [legal-agreement.md](Legal/Legal-Agreement.md)
