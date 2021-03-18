@@ -38,8 +38,8 @@ Legal
 # Purple in the Wild
 Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](https://music.cxc.world)
 
-<p align="center">
-  <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/cXc-Music-Polaroid.png">
+<p align="center"><a href="https://music.cxc.world" alt="Experience cXc Music">
+  <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/cXc-Music-Polaroid.png"></a>
 </p>
 
 Images/cXc-Music-Polaroid.png
