@@ -110,6 +110,7 @@ WAX can be traded directly on the exchanges [Alcor](https://wax.alcor.exchange/t
   <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Buy-Wax-Fiat-3.png"></a>
 </p>
 To acquire PURPLE without an existing WAX wallet, follow these steps:
+
 1. Get a free WAX wallet [here](https://all-access.wax.io/)
 2. Click "**Buy Wax**" in your [dashboard](https://all-access.wax.io/dashboard)
 3. Choose Moonpay or Simplex to purchase the WAX
