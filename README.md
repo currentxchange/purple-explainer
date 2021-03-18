@@ -38,7 +38,7 @@ Legal
 # Purple in the Wild
 Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](https://music.cxc.world)
 
-<p align="center"><a href="https://music.cxc.world" alt="Experience cXc Music">
+<p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
   <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/cXc-Music-Polaroid.png"></a>
 </p>
 
@@ -106,13 +106,19 @@ WAX can be traded directly on the exchanges [Alcor](https://wax.alcor.exchange/t
 4. Place your order. Your PURPLE will show up automatically in your WAX wallet.
 
 ## Acquire PURPLE with FIAT (Credit / Debit), BTC, ETH
+
 To acquire PURPLE without an existing WAX wallet, follow these steps:
 1. Get a free WAX wallet [here](https://all-access.wax.io/)
 2. Click "**Buy Wax**" in your [dashboard](https://all-access.wax.io/dashboard)
+<p align="center"><a href="https://all-access.wax.io/dashboard" target="_blank" alt="Buy Wax with FIAT">
+  <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Buy-Wax-Fiat.png"></a>
+</p>
 3. Choose Moonpay or Simplex to purchase the WAX
 4. Trade the WAX for PURPLE on Alcor or Newdex (above)
 
+# DEFI Liquidity Pools
 
+Swap [PURPLE/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=PURPLE-purplepurple), [WAX/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token), and [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) on [Alcor](https://wax.alcor.exchange/swap)
 
 # Requirements & Restrictions
 Participating in the direct listing requires that you adhere and agree to the requirements, restrictions, terms and conditions laid out in [disclaimer.md](Legal/Disclaimer.md) and [legal-agreement.md](Legal/Legal-Agreement.md)
