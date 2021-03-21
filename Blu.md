@@ -60,21 +60,21 @@ BLU may only be distributed by certain pre-defined actions on the site involving
 BLUx is distributed to **non-verified** users, and also pre-minted at launch to fund airdrops and giveaways.
 
 ## BLU Minted
-0 (Zero) BLU is minted outside of paying for actions defined in [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) and [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) **ONLY to verified accounts.**
+BLU is ONLY minted for actions defined in [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) and [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) **ONLY to verified accounts.**
 
 Note: BLU is minted to [blublublublu](https://wax.bloks.io/account/blublublublu) 1,000,000 at a time, in advance, where it is then distributed.  
 
 
 ## BLUx Minted
-BLUx is minted according to the same conditions as BLU, but to unverified accounts.
+Normally, BLUx is minted according to the same conditions as BLU, but to unverified accounts.
+
+BLUx (unlike BLU) is also minted periodically for Airdrops and promotional budgets. All mintings of BLUx are public knowledge via the [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) contract, and listed below.
 
 Note: BLUx is minted to [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) 1,000,000 at a time, in advance, where it is then distributed.
 
-BLUx is also minted periodically for Airdrops and promotional budgets. All mintings of BLUx are public knowledge via the [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) contract.
+
 
 **Current Slated BLUx mints:**
 
 - 1,000,000 BLUX to Promo fund [thx4dapurple](https://wax.bloks.io/account/thx4dapurple)
-
-
-> BLU and BLUx may be pre-minted and stored in a holding account to save on resource costs.
+- 100,000 BLUx to fund [Alcor Liquidity pool](https://wax.alcor.exchange/swap) via [dplug4purple](https://wax.bloks.io/account/dplug4purple)
