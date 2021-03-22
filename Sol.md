@@ -27,7 +27,7 @@ SOL has a maximum supply of 2^62-1, the highest possible on EOSIO. **Circulating
 **SOL is indivisible** (0 precision) token, matching it's functionality of being worth exactly 1 Up.
 
 # Smart Contract
-SOL is a [simpleassets](https://wax.bloks.io/account/simpleassets) token and exists on their contract.
+SOL is a [simpleassets](https://wax.bloks.io/account/simpleassets) token and exists on their contract. You can view SOL on Simple Assets [here](https://wax.simplemarket.io/trading/ft/currentxchng/SOL).
 
 
 # SOL Distribution
