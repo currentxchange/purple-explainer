@@ -25,6 +25,11 @@ PURPLE is also supplied to the BLU / PRP **Time-Pooling Exchange**.
 ## Chart Rewards
 Artists are **rewarded in PURPLE for reaching the top of local and global charts.** The amount of this reward will change depending on the amount in the rewards pool. The rewards pool has a minimum size of 288 PURPLE per day, budgeted for 9+ years.
 
+<p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
+  <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Top-Charts-Beta.png"></a>
+</p>
+
+
 ## Time-Pooling Exchange (BLU / PURPLE)
 Time-pools are a type of exchange independent from DEXs like Newdex and Alcor.exchange. They pool and swap ALL resources in the pools EVERY time unit. Funded time-pools create a **diminishing return**, such that the less you put in the better exchange rate you (and everyone else) gets. The exchange is funded with PURPLE (288 PURPLE per day) by cXc + anyone else, and all BLU is exchanged with all PURPLE. This pool is budgeted for 9+ years, but **not slated for release in Beta**.
 
