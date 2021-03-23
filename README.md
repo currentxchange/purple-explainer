@@ -21,6 +21,18 @@ Free daily **SOL** enables positive attention shining via Ups, which pay creator
 Mapps (defined below) are **geotemporal**, and every result has a timespan where Ups are counted. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **Everstones** an easy way not to disappear, and **BLU** Ups a shot to be seen at the top of local charts.
 
 
+First, choose what region's music you want to explore. <small>Default is Global.</small>
+<p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
+  <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Geo-France.png"></a>
+</p>
+
+Next, choose the time period of Ups. You can look at the latest trends (Weekly, Daily, hourly, etc) or look into the past*. <small>Default is all-time.</small>
+<p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
+  <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Geo-France.png"></a>
+</p>
+
+\* - Past searches only work from the launch date of Purple onward.
+
 # Learn Everything About Purple
 
 Tokens
