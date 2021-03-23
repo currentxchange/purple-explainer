@@ -19,6 +19,10 @@ SOL is **burned (destroyed) for Sol Ups** 1:1.
 
 Sol Ups **determine most of the distribution of BLU** and also the **distribution of PURPLE** through the Top Charts.
 
+Here you'll see the Up button (center) Big Up (left) and Blu Up (right)
+<p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
+  <img width="auto" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/I-SE-USA.png"></a>
+</p>
 
 
 # Supply of SOL
