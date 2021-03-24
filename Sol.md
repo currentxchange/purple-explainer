@@ -21,7 +21,7 @@ Sol Ups **determine most of the distribution of BLU** and also the **distributio
 
 Here you'll see the Up button (center) Big Up (left) and Blu Up (right)
 <p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
-  <img width="auto" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/I-SE-USA.png"></a>
+  <img width="auto" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/UI-SE-USA.png"></a>
 </p>
 
 
