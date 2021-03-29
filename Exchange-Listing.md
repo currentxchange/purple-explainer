@@ -1,4 +1,4 @@
-# Purple Market Making + Incentives
+# PURPLE Exchange Listing April 17, 2021
 
 # Overview
 PURPLE's initial release starts **April 17, 2021** on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) and [Newdex](https://newdex.io). **You may place buy orders now.**
@@ -10,9 +10,9 @@ Because of the very limited supply of PURPLE, ascending price sell orders will b
 > BLUx is also listed on [Alcor](https://wax.alcor.exchange/trade/blux-bluxbluxblux_wax-eosio.token)
 
 # Functionality: Digital Advertising Gold
-> Why would PURPLE?
+> What can you do with PURPLE?
 
-**PURPLE** can be staked for continual attention to a piece of content; a rare form of digital advertising purchase that allows someone to buy once and hold **continual attention** for all of time. This attention means huge value, particularly to independent creators and creative organizations such as record labels and artist collectives.
+**PURPLE** can be staked for daily Ups to a piece of content; a rare form of digital advertising purchase that allows someone to buy once and hold **continual attention** for all of time. This attention means huge value, particularly to independent creators and creative organizations such as record labels and artist collectives.
 
 Furthermore, **PURPLE** need only be unstaked for the holder to receive back the same amount of tokens. This means an artist can advertise their art and meanwhile hold something of increasing utility as each future cXc.world mapp is released.
 
@@ -20,16 +20,32 @@ Furthermore, **PURPLE** need only be unstaked for the holder to receive back the
 PURPLE has a unique utility for musicians as **cXc Music** is the first [**cXc.world**](https://cxc.world) mapp, but this utility will expand to all creators and creative collectives when **cXc Video**, **cXc Photo**, **cXc Scribe**, **cXc Art** + more mapps are available.  
 
 # First Ascending Sell Orders.
-On 4/17/2021, the first sell order will begin be placed with pricing starting at **20 WAXP** per PURPLE. Then, each month for 11 months, another sell order will be placed with base price increasing 20 WAXP each month.
+On 4/17/2021, the first 1/12th of the first sell order will be with pricing starting at **20 WAX** per PURPLE. When this clears, another sell order will be placed with base price increasing 20 WAX, and then 10 more each increasing by 20 WAX.
 
-> Amount of Tokens Per Sell Order: 1/12 Max Supply or 12^6 (2,985,984), released 12^5 (248,832) each month for 1 year.
+
+> Amount of Tokens Per Sell Order: 1/12 Max Supply or 12^6 (2,985,984), issued + offered 12^5 (248,832) at a time. Here's how we'll price the 12^5 tokens.
+
+Price ~ # PURPLE Available (rounded)
+
+20 WAX ~ 3,190 🟣
+21 WAX ~ 6,380 🟣
+22 WAX ~ 9,570 🟣
+23 WAX ~ 12,760 🟣
+24 WAX ~ 15,950 🟣
+25 WAX ~ 19,140 🟣
+26 WAX ~ 22,330 🟣
+27 WAX ~ 25,520 🟣
+28 WAX ~ 28,710 🟣
+29 WAX ~ 31,900 🟣
+33 WAX ~ 35,090 🟣
+36 WAX ~ 38,280 🟣
 
 
 
 # Second, Third, and Fourth Sell Orders
 Once all tokens are sold from the first orders, another 12^6 batch of 12^5 ascending sell orders will launch priced at **240 - 2880 WAX** per PURPLE. After that, a third batch will arrive priced **2880 - 34,560 WAX**, and a final sell order at **34,560 - 414,720 WAX**.
 
-> Prices subject to change / adjust with current WAX price. 
+> Prices subject to change / adjust with current WAX price.
 
 ## Pricing Rationale
 It's easy to see that PURPLE's later sell orders go up rapidly in price. This is to ensure:
@@ -42,11 +58,10 @@ It's easy to see that PURPLE's later sell orders go up rapidly in price. This is
 
 
 # Liquidity Promise
-Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less than **500,000 WAX** will serve as liquidity on Newdex and Alcor exchanges.
+Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less than **500,000 WAX** will serve as liquidity on Newdex and Alcor exchanges and Alcor's DeFi swap.
 
-*As this is pre-beta, consider all elements subject to modifications*
 
-# Founder Pay Freeze Period  
+# Founder Pay Promise  
 Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by incremental % starting at 1%. All values in PURPLE and rounded.
 
 2021 = 1% = 29,859
@@ -62,14 +77,13 @@ Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by increm
 2031 = 11% = 328,458
 2032 = 12% = 358,318
 2033 = 13% = 388,177
-2034 = 14% = 268,738 (Remaining balance)
+2034 = <14% = 268,738 (Remaining balance)
 
 
 # Proceeds
 Funds will be used to pay for all end-user transactions on cXc.world, and also purchase RAM for accounts who receive our NFTs.  
 
-Remaining Proceeds from direct listing will go towards development of cXc.world, including the final 1.0.0 release of cXc Music, and then the creation of other cXc.world mapps like cXc Video, cXc Scribe, cXc Pueblo and More. Read more about Mapps [here](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview).
+Remaining Proceeds from direct listing will go towards development of cXc.world, including the final 1.0.0 release of cXc Music, native mobile apps, and the creation of other cXc.world [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) like cXc Video, cXc Art, cXc Ideas, cXc Pueblo and more. Funds will also pay for all other cXc operational costs, employees, promotion, events, etc.
 
 
-
-Proceeds can be tracked here: [dplug4purple](https://wax.bloks.io/account/dplug4purple).
+Proceeds and cXc spending are inherently transparent and can be tracked here: [dplug4purple](https://wax.bloks.io/account/dplug4purple) and here [currentxchng](https://wax.bloks.io/account/currentxchng).
