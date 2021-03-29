@@ -14,8 +14,7 @@
 - [ ] National + Local Top Charts Go Live 
 - [ ] Music NFT creator  
 - [ ] Top Chart rewards  
-- [ ] Changer rewards  
-- [ ] Guardian rewards  
+- [ ] Changer + Guardian role rewards  
 - [ ] Purple Staking via Everstone NFTs
 
 # Long-term Roadmap
