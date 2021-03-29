@@ -19,7 +19,7 @@ PURPLE can be **staked for NFTs** that enable special powers or privileges on cX
 # PURPLE on cXc.world
 PURPLE is given to artists that make the Top Music charts for time periods one day or greater.  
 
-PURPLE is also supplied to the BLU / PRP **Time-Pooling Exchange**.
+PURPLE is also supplied to the BLU / PRP **Time-Pooling Exchange** (coming after verification).
 
 
 ## Chart Rewards
@@ -50,7 +50,7 @@ Thus, creators who want their music to be heard have a huge **incentive for long
 
 Staking 1 Purple (one daily Up) will ensure any one piece of content will **show up on the map and on daily charts forever**.
 
-Everstone is a **PURPLE-backed NFT** that holds mutable information about what content to shine a spotlight on, and the time of day for the Up to occur. Each Everstone can hold between 1 and 288 PURPLE, and give 288 Ups per day. Users aren't allowed to hold two identical Everstones, placing a 1 person-per-day Everstone Up limit per account.  
+Everstone is a **PURPLE-backed NFT** that holds mutable information about what content to shine a spotlight on, and the time of day for the Up to occur. Each Everstone can hold between 1 and 288 PURPLE, and give 288 Ups per day. Users aren't allowed to hold two identical Everstones, placing a 288 Up / content limit per account.  
 
 This NFT is called an **Everstone**. *Yes, like the one you gave your [Pikachu](https://bulbapedia.bulbagarden.net/wiki/Everstone).*
 
@@ -61,14 +61,6 @@ This NFT is called an **Everstone**. *Yes, like the one you gave your [Pikachu](
 After a 24 hour wait period, the content indicated on the NFT will receive an Up from the Everstone using the Everstone's ID instead of a usual WAX account id.
 
 Unlike BLUx Ups, Ups from Everstones are **included in the main chart rankings** used to reward content creators for appearing on the Top Charts. There is also no verification requirement to
-
-# Everdust FTs
-Everdust is a short-term booster that gives 288 Ups over 12 hours, but costs one PURPLE (paid into rewards pool, not staked).
-
-**Only a small amount of Everdust is released into circulation daily.** *Everdust may be available on exchanges if the daily limit has been reached.*
-
-Everdust must be **burned** to unlock its Upping functionality, constantly lowering the supply.
-
 
 
 # PURPLE Direct Listing
@@ -89,9 +81,11 @@ PURPLE will be released on [Alcor](https://wax.alcor.exchange/trade/purple-purpl
 - Fixed Daily Mint (or transfer from pre-minted fund) of 288 PURPLE to rewards pools for top charts
 - Unallocated PURPLE will be minted as needed for rewards / promotion of future cXc.world mapps, pay for future team members, or any purpose other than listing on exchanges.
 
-# Buy PURPLE
+# Buy PURPLE on [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token)
 
-> Please note: Everdust, Everstones, and time pools are not scheduled for the first release of cXc Music Beta (0.2.0) on April 17, 2021. Announcements to follow.
+# Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
+
+> Please note: Everstones and time pools are not scheduled for the first release of cXc Music Beta (0.2.0) on April 17, 2021. Announcements to follow.
 
 
 >To learn more about the economics of cXc.world apps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) and [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and to see the first cXc.world mapp, cXc Music, visit [cXc.world](https://music.cxc.world)
