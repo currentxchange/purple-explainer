@@ -20,7 +20,7 @@ Free daily **SOL** enables positive attention shining via Ups, which pay creator
 
 Mapps (defined below) are **geotemporal**, and every result has a timespan where Ups are counted. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **Everstones** an easy way not to disappear, and **BLU** Ups a shot to be seen at the top of local charts.
 
-### How does a Geotemporal app work?
+### How does a Geotemporal mapp work?
 You can look at the latest trends (Weekly, Daily, hourly, etc) or look into the past*. *Default is all-time.*
 <p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
   <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Temporal-Selected.png"></a>
@@ -87,7 +87,7 @@ Discover more mapps we're bringing to Purple in the [Mapps](https://docs.google.
 
 **cXc** - Current X Change LLC, Maryland, USA
 
-**cXc.world** - Holds All Mapps, currently redirects to cXc Music (music.cXc.world)
+**cXc.world** - Home of Mapps, like cXc Music (music.cXc.world) the first Mapp
 
 
 # Features
@@ -130,9 +130,9 @@ To acquire PURPLE without an existing WAX wallet, follow these steps:
 3. Choose Moonpay or Simplex to purchase the WAX
 4. Trade the WAX for PURPLE on Alcor or Newdex (above)
 
-# DEFI Liquidity Pools
+# DeFi Liquidity Pools
 
-Instant Liquidity via Alcor Swap: [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token),  [WAX/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token), and [PURPLE/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=PURPLE-purplepurple).
+Instant Liquidity via Alcor Swap: [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token), [WAX/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token), and [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple).
 
 # Requirements & Restrictions
 Participating in the direct listing requires that you adhere and agree to the requirements, restrictions, terms and conditions laid out in [disclaimer.md](Legal/Disclaimer.md) and [legal-agreement.md](Legal/Legal-Agreement.md)
