@@ -1,6 +1,6 @@
 # cXc Short-term Roadmap
 
-:heavy_check_mark: Purple + Mapps Whitepapers
+:heavy_check_mark: Purple + Mapps Whitepapers 
 :heavy_check_mark: cXc.world (Alpha) launched
 :heavy_check_mark: "Up" system with 5-minute Time Units
 :heavy_check_mark: Global + National Top Charts
@@ -15,4 +15,4 @@
 - [ ] Music NFT creator
 - [ ] Top Chart rewards
 - [ ] Changer rewards
-- [ ] Guardian rewards 
+- [ ] Guardian rewards
