@@ -11,7 +11,7 @@ PURPLE can be **staked for NFTs** that enable special powers or privileges on cX
 # Supply of PURPLE
 [PURPLE](https://wax.bloks.io/account/dplug4purple) has an [**unchangeable maximum supply**](https://wax.bloks.io/transaction/2e9499407094dbcd521f7c7b012d3a38a20fc847707a0f6e90f4e7164dd95ea5) of 12^7 (**35,831,808**) PURPLE tokens, comparable with bitcoin (21,000,000) in terms of scarcity.
 
-> The [circulating supply](https://wax.bloks.io/account/dplug4purple) of PURPLE is much smaller, currently well under one million.
+> The [circulating supply](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple) of PURPLE is much smaller, currently well under one million.
 
 *There is no inflation, but burned PURPLE may be re-minted.*
 
@@ -41,7 +41,7 @@ Time-pools are a type of exchange independent from DEXs like Newdex and Alcor.ex
 Instead of a % return over time, staked PURPLE enables periodic **Ups over time** on content on cXc Music apps.
 
 
-## The True Value of Everstone
+## The True Value of an Everstone
 **Content on cXc.world needs to have Ups to show up on the map**, so if music stops getting Ups, **it will disappear from the map**.
 
 *Staking = Ups every day = Music is always on the map = Exposure*
@@ -88,6 +88,8 @@ PURPLE will be released on [Alcor](https://wax.alcor.exchange/trade/purple-purpl
 - 3/12 (8,957,952) to Future direct-listing sell orders as described here. [dplug4purple](https://wax.bloks.io/account/dplug4purple)
 - Fixed Daily Mint (or transfer from pre-minted fund) of 288 PURPLE to rewards pools for top charts
 - Unallocated PURPLE will be minted as needed for rewards / promotion of future cXc.world mapps, pay for future team members, or any purpose other than listing on exchanges.
+
+# Buy PURPLE
 
 > Please note: Everdust, Everstones, and time pools are not scheduled for the first release of cXc Music Beta (0.2.0) on April 17, 2021. Announcements to follow.
 
