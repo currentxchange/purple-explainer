@@ -12,7 +12,7 @@ Because of the very limited supply of PURPLE, ascending price sell orders will b
 # Functionality: Digital Advertising Gold
 > What can you do with PURPLE?
 
-**PURPLE** can be staked for daily Ups to a piece of content; a rare form of digital advertising purchase that allows someone to buy once and hold **continual attention** for all of time. This attention means huge value, particularly to independent creators and creative organizations such as record labels and artist collectives.
+**PURPLE** can be staked for daily Ups to a piece of content; a rare form of digital advertising purchase that allows someone to buy once and hold **continual attention** for all of time. This attention means huge value, particularly to independent creators and creative organizations such as labels and artist collectives.
 
 Furthermore, **PURPLE** need only be unstaked for the holder to receive back the same amount of tokens. This means an artist can advertise their art and meanwhile hold something of increasing utility as each future cXc.world mapp is released.
 
@@ -27,18 +27,18 @@ On 4/17/2021, the first 1/12th of the first sell order will be with pricing star
 
 Price ~ # PURPLE Available (rounded)
 
-20 WAX ~ 3,190 🟣
-21 WAX ~ 6,380 🟣
-22 WAX ~ 9,570 🟣
-23 WAX ~ 12,760 🟣
-24 WAX ~ 15,950 🟣
-25 WAX ~ 19,140 🟣
-26 WAX ~ 22,330 🟣
-27 WAX ~ 25,520 🟣
-28 WAX ~ 28,710 🟣
-29 WAX ~ 31,900 🟣
-33 WAX ~ 35,090 🟣
-36 WAX ~ 38,280 🟣
+20 WAX ~ 3,190 🟣  
+21 WAX ~ 6,380 🟣  
+22 WAX ~ 9,570 🟣  
+23 WAX ~ 12,760 🟣  
+24 WAX ~ 15,950 🟣  
+25 WAX ~ 19,140 🟣  
+26 WAX ~ 22,330 🟣  
+27 WAX ~ 25,520 🟣  
+28 WAX ~ 28,710 🟣  
+29 WAX ~ 31,900 🟣  
+33 WAX ~ 35,090 🟣  
+36 WAX ~ 38,280 🟣  
 
 
 
@@ -64,19 +64,19 @@ Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less t
 # Founder Pay Promise  
 Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by incremental % starting at 1%. All values in PURPLE and rounded.
 
-2021 = 1% = 29,859
-2022 = 2% = 59,719
-2023 = 3% = 89,580
-2024 = 4% = 119,439
-2025 = 5% = 149,299
-2026 = 6% = 179,159
-2027 = 7% = 209,018
-2028 = 8% = 238,878
-2029 = 9% = 268,738
-2030 = 10% = 298,598
-2031 = 11% = 328,458
-2032 = 12% = 358,318
-2033 = 13% = 388,177
+2021 = 1% = 29,859  
+2022 = 2% = 59,719  
+2023 = 3% = 89,580  
+2024 = 4% = 119,439  
+2025 = 5% = 149,299  
+2026 = 6% = 179,159  
+2027 = 7% = 209,018  
+2028 = 8% = 238,878  
+2029 = 9% = 268,738  
+2030 = 10% = 298,598  
+2031 = 11% = 328,458  
+2032 = 12% = 358,318  
+2033 = 13% = 388,177  
 2034 = <14% = 268,738 (Remaining balance)
 
 
