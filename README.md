@@ -3,16 +3,16 @@
 </p>
 
 
-# Purple Pays Creators
+# Purple Empowers Creators
 
 > This repo will cover cXc.world's biomimetic engine, Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLU](https://wax.bloks.io/account/blublublublu), [BLUx](https://wax.bloks.io/account/bluxbluxblux), and SOL, staking PURPLE preview, and legal disclaimers.
 
-Purple is a **Positive Attention Economy (PAE)** where participants shine their light on content they love, and that positive attention pays the creator(s).
+Purple is a **Cocreative Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the creator(s).
 
 > Above you will see Purple's gears: Sol, Blu, and PURPLE.
 
 ## Purple Overview
-Purple consists of three [eosio.token](https://wax.bloks.io/account/eosio.token)-compatible tokens on [WAX](https://on.wax.io/wax-io/); **PURPLE**, **BLU**, and **BLUx**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **SOL**.
+Purple works with three tokens on [WAX](https://on.wax.io/wax-io/); **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, and **[BLUx](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
 
 Free daily **SOL** enables positive attention shining via Ups, which pay creators 1:1 in **BLU**. Anyone can use **BLU** (Abundant) to Up again, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **Everstone NFTs**, which help creations to **shine forever** with daily Ups.
 
@@ -37,12 +37,15 @@ You can see trends for any region also! *Default is Global.*
 
 # Learn Everything About Purple
 
+Project
+- [Roadmap](Roadmap.md)
+
 Tokens
 - [PURPLE](Purple.md)
 - [BLU + BLUx](Blu.md)
 - [SOL](Sol.md)
 
-Listing Info
+Financial Info
 - [Exchange Listing](Exchange-Listing.md)
 
 Legal
@@ -108,7 +111,7 @@ You can use [WAX Cloud Wallet](https://all-access.wax.io/) to sign up for a free
 
 If you prefer to be responsible for your private keys, any EOSIO wallet can hold your PURPLE, BLU and SOL.
 
-# Acquire PURPLE
+# Buy PURPLE
 ## Acquire PURPLE with WAX
 WAX can be traded directly on the exchanges [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) and Newdex starting April 17, 2021.
 
