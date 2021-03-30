@@ -5,7 +5,7 @@ This brief highlights key numbers and concepts in the Purple Economy in one plac
 
 # 🟣 PURPLE Financial Brief
 
-PURPLE will be offered directly on Alcor Exchange and Newdex starting April 17, 2021.
+ℹ️ PURPLE will be offered directly on Alcor Exchange and Newdex starting April 17, 2021.
 
 ## Tech
 WAX token (`eosio.token` contract)
@@ -50,6 +50,14 @@ After all sell orders clear, we'll list 248,832 more 🟣 PURPLE priced from 40 
 
 > Some PURPLE budgeted for sell orders will be added directly to the DeFi pools, taking supply from the most expensive sell orders first.
 
+# 🟣 Budget (Fraction of Total Supply)
+1/12 🟣  - Founder
+1/12 🟣  - Sell Orders
+1/12 🟣  - Promo 
+1/12 🟣  - Team Pay
+4/12 🟣  - Creators Fund (cXc.world Rewards)
+4/12 🟣  - TBD 
+
 # Buy 🟣 PURPLE on [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token)
 
 # Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
@@ -58,8 +66,11 @@ ___
 
 # 🔵 BLUx Financial Brief
 
+## Tech
+WAX token (`eosio.token` contract)  
+
 ## Utility
-BLUx is a reward given to creators that receive 1 Up on a piece of content they created. Guardian and Changer roles can also earn BLUx. 
+🔵 BLUx is a reward given to creators that receive 1 Up on a piece of content they created. Guardian and Changer roles can also earn BLUx. 
 
 1 BLUx can be spent to make 1 Blu Up. Ups make content appear bigger on the mapp, and higher on the charts. BLUx is indivisible.
 
@@ -72,7 +83,7 @@ Because SOL is limited, BLUx is the only way to Up a piece of content more than 
 1,000,000 🔵 - Promo Budget  
 100,000 🔵 - Liquidity pools
 
-We will issue up to 5,500,000 BLUx during the promotion of cXc.world Beta, 5,000,000 for promotion and 500,000 for liquidity. Also, we may add leftover Promo budget to liquidity pools.
+We will issue up to 5,500,000 BLUx during the promotion of [cXc.world](https://cxc.world) Beta, 5,000,000 for promotion and 500,000 for liquidity. Also, we may add leftover Promo budget to liquidity pools.
 
 Additionally, 1 BLUx is issued to be paid to artists for each Sol Up they receive  (batch pre-issued 1,000,000 at a time)
 
@@ -89,11 +100,13 @@ ___
 
 # ☀️ SOL Financial Brief
 
-[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) is a Simple Assets fungible token operated by [currentxchng](https://www.wax.bloks.io/account/currentxchng). SOL is freely given, but cannot be bought, sold, or traded, and each user can hold up to 288 SOL at a time. SOL is indivisible.
+## Tech
+
+[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) is a Simple Assets fungible (`[simpleassets](https://wax.bloks.io/account/simpleassets)` contract) token operated by [currentxchng](https://www.wax.bloks.io/account/currentxchng). 
 
 ## Utility
 
-SOL is spendable 1:1 for Sol Ups on cXc.world.
+☀️ SOL is spendable 1:1 for Sol Ups on [cXc.world](https://cxc.world). SOL is freely given, but cannot be bought, sold, or traded, and each user can hold up to 288 SOL at a time. SOL is indivisible.
 
 ## Max Supply = Max Possible on EOSIO (2^64-1) ☀️ SOL
 
