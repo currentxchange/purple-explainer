@@ -2,7 +2,7 @@
   <img width="240" height="240" src="https://ipfs.pink.gg/ipfs/QmTuUZvHmZwjAfJWSGgXAWV279rFBMcaZAuRbMDM3L7zUk">
 </p>
 
-# Blu (BLU + BLUx)
+# 🔵 Blu (BLU + BLUx)
 Blu tokens (BLU, BLUx) **reward musicians** on cXc.world who receive Ups, and reward role (Artist, Changer, Guardian) actions.
 
 > BLUx, not BLU, will be on cXc.world in Beta. BLU won't be released until users can be human-verified. After that, both will co-exist.
@@ -13,7 +13,7 @@ All cXc.world users can earn Blu for qualified actions, including posting origin
 # Functionality
 BLU and BLUx are **burned for Blu Ups**. This form of Ups is recorded separately than Sol Ups, but both are combined to rank charts and determine what music shows up on cXc.world.
 
-# Earning BLU
+# Earning 🔵 Blu
 BLU/BLUx is paid (1:1) to creators when they earn an Up. cXc Music (music.cXc.world) uses the **Google account of the Youtube video*** to determine which account to pay. A creator MUST link their Google account to their WAX account on-site to receive this payment, and MUST have a youtube video.
 
 BLU is also given for completing role-specific actions, as described in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
@@ -53,27 +53,28 @@ BLUx - [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux)
 
 # BLU + BLUx Distribution
 
-Minting of BLU operates under strict CONDITIONS defined in the Mapps and Purple papers.
+Issuances + distribution of 🔵 Blu operates under strict CONDITIONS defined in the Mapps and Purple papers.
 
 BLU may only be distributed by certain pre-defined actions on the site involving **verified** users, specifically role tasks and receiving upvotes on content you created.
 
-BLUx is distributed to **non-verified** users, and also pre-issued at launch to fund airdrops and giveaways.
+BLUx is distributed to **non-verified** users, and also pre-issued to fund airdrops and giveaways.
 
-## BLU Minted
+## BLU Issued
 BLU is ONLY issued for actions defined in [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) and [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) **ONLY to verified accounts.**
 
 Note: BLU is issued to [blublublublu](https://wax.bloks.io/account/blublublublu) 1,000,000 at a time, in advance, where it is then distributed.  
 
+**0 BLU has been issued** and none will be until verification system is in place.
 
-## BLUx Minted
-Normally, BLUx is issued according to the same conditions as BLU, but to unverified accounts.
+## BLUx Issued
+BLUx is issued according to the same conditions as BLU, but to unverified accounts.
 
-BLUx (unlike BLU) is also issued periodically for Airdrops and promotional budgets. All issuances of BLUx are public knowledge via the [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) contract, and listed below.
+BLUx is also issued periodically for Airdrops and other promotions. All issuances of BLUx are public knowledge via the [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) contract, and listed below.
 
 Note: BLUx is issued to [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) 1,000,000 at a time, in advance, where it is then distributed.
 
-- 5,000,000 BLUX to Promo fund [thx4dapurple](https://wax.bloks.io/account/thx4dapurple) (1/5m iss)
-- 500,000 BLUx to fund [Alcor Liquidity pool](https://wax.alcor.exchange/swap) 
+- 5,000,000 BLUX to Promo fund [thx4dapurple](https://wax.bloks.io/account/thx4dapurple) (1/5 issued so far)
+- 500,000 BLUx to fund [Alcor Liquidity pool](https://wax.alcor.exchange/swap) (1/5 issued so far)
 
 
 # Buy BLUx on [Alcor](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token)
