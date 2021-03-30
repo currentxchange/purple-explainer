@@ -1,7 +1,7 @@
 
 # Purple Financial Brief
 
-This document highlights key numbers and concepts in the Purple Economy in one place, covering 🟣 PURPLE, 🔵 BLUx, and ☀️ Sol.
+This brief highlights key numbers and concepts in the Purple Economy in one place, covering 🟣 PURPLE, 🔵 BLUx, and ☀️ Sol.
 
 # 🟣 PURPLE Financial Brief
 
@@ -11,7 +11,7 @@ PURPLE will be offered directly on Alcor Exchange and Newdex starting April 17, 
 WAX token (`eosio.token` contract)
 
 ## Utility
-🟣 PURPLE is stakable for 1 Upvote per day on 1 piece of content until the PURPLE is un-staked.[1] Up to 288 PURPLE can be staked per piece of content, per account. Purple is divisible up to 8 decimal places.
+🟣 PURPLE is stakable for 1 Upvote per day on 1 piece of content until the PURPLE is un-staked.[1] Up to 288 PURPLE can be staked per piece of content, per account. Purple is divisible up to 8 decimal places. PURPLE works across all current + future [cXc.world](https://cxc.world) mapps.
 
 ## Max Supply = 35,831,808 (12^7) 🟣 PURPLE
 
@@ -22,7 +22,7 @@ WAX token (`eosio.token` contract)
 100,000 🟣 - Messenger Program + Promo + Airdrops 🪂  
 248,832 🟣 - Initial Release on Alcor  
 _______
-*[478,691 Circulating 🟣 PURPLE](https://wax.bloks.io/account/purplepurple)*
+*[478,691 Circulating 🟣 PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)*
 
 
 **We won't issue any more PURPLE for sale until all 248,832 PURPLE are sold.**
@@ -76,6 +76,9 @@ We will issue up to 5,500,000 BLUx during the promotion of cXc.world Beta, 5,000
 
 Additionally, 1 BLUx is issued to be paid to artists for each Sol Up they receive  (batch pre-issued 1,000,000 at a time)
 
+*[1,100,000 Circulating 🔵 BLUx](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux)*
+
+
 **We will not issue any further BLUx until rewards systems are in place.**
 
 # Buy 🔵 BLUx on [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token)
@@ -96,4 +99,4 @@ SOL is spendable 1:1 for Sol Ups on cXc.world.
 
 **There is no trading of SOL.**
 
-[1] - Staking PURPLE will not be available on April 17th, see [roadmap](Roadmap.md).
+> Please Note: Staking PURPLE will not be available on April 17th, see [roadmap](Roadmap.md).
