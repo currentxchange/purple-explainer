@@ -14,7 +14,7 @@ Purple is a **Cocreative Economy** where participants receive daily SOL to shine
 ## Purple Overview
 Purple works with three tokens on [WAX](https://on.wax.io/wax-io/); **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, and **[BLUx](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
 
-Free daily **SOL** enables positive attention shining via Ups, which pay creators 1:1 in **BLU**. Anyone can use **BLU** (Abundant) to Up again, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **Everstone NFTs**, which help creations to **shine forever** with daily Ups.
+Free daily **SOL** facilitates collaboration via Ups, which pay creators 1:1 in **BLU**. Anyone can use **BLU** (Abundant) to Up again, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **Everstone NFTs**, which help creations to **shine forever** with daily Ups.
 
 > Read about Everstone NFTs in [Purple.md](Purple.md)
 
