@@ -5,14 +5,12 @@
 
 # Purple Empowers Creators
 
-> This repo will cover cXc.world's cocreative economy, Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLU](https://wax.bloks.io/account/blublublublu), [BLUx](https://wax.bloks.io/account/bluxbluxblux), and SOL, staking PURPLE preview, and legal disclaimers.
+> This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLU](https://wax.bloks.io/account/blublublublu), [BLUx](https://wax.bloks.io/account/bluxbluxblux), and [SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) (above), staking PURPLE preview, [roadmap](roadmap.md) and legal disclaimers.
 
 Purple is a **Cocreative Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the creator(s).
 
-> Above you will see Purple's gears: Sol, Blu, and PURPLE.
-
 ## Purple Overview
-Purple works with three tokens on [WAX](https://on.wax.io/wax-io/); **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, and **[BLUx](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
+Purple works with three `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, **[BLUx](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
 
 Free daily **SOL** facilitates collaboration via Ups, which pay creators 1:1 in **BLU**. Anyone can use **BLU** (Abundant) to Up again, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **Everstone NFTs**, which help creations to **shine forever** with daily Ups.
 
