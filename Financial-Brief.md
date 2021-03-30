@@ -11,7 +11,9 @@ This brief highlights key numbers and concepts in the Purple Economy in one plac
 WAX token (`eosio.token` contract)
 
 ## Utility
-🟣 PURPLE is stakable for 1 Upvote per day on 1 piece of content until the PURPLE is un-staked.[1] Up to 288 PURPLE can be staked per piece of content, per account. Purple is divisible up to 8 decimal places. PURPLE works across all current + future [cXc.world](https://cxc.world) mapps.
+🟣 PURPLE provides 1 Upvote per day on 1 piece of content when held by an Everstone NFT. Each Everstone can hold 288 PURPLE, equal to 288 daily Ups max. Everstones give content a boost, while also limiting how much influence one PURPLE holder can have on the Top Charts. 
+
+PURPLE will be used across all current + future [cXc.world](https://cxc.world) mapps. PURPLE is divisible up to 8 decimal places.
 
 ## Max Supply = 35,831,808 (12^7) 🟣 PURPLE
 
