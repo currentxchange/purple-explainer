@@ -51,12 +51,12 @@ After all sell orders clear, we'll list 248,832 more 🟣 PURPLE priced from 40 
 > Some PURPLE budgeted for sell orders will be added directly to the DeFi pools, taking supply from the most expensive sell orders first.
 
 # 🟣 Budget (Fraction of Total Supply)
-1/12 🟣  - Founder
-1/12 🟣  - Sell Orders
-1/12 🟣  - Promo 
-1/12 🟣  - Team Pay
-4/12 🟣  - Creators Fund (cXc.world Rewards)
-4/12 🟣  - TBD 
+1/12 🟣  - Founder  
+1/12 🟣  - Sell Orders  
+1/12 🟣  - Promo   
+1/12 🟣  - Team Pay  
+4/12 🟣  - Creators Fund (cXc.world Rewards)  
+4/12 🟣  - TBD   
 
 # Buy 🟣 PURPLE on [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token)
 
@@ -102,7 +102,7 @@ ___
 
 ## Tech
 
-[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) is a Simple Assets fungible (`[simpleassets](https://wax.bloks.io/account/simpleassets)` contract) token operated by [currentxchng](https://www.wax.bloks.io/account/currentxchng). 
+[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) is a Simple Assets fungible ([simpleassets](https://wax.bloks.io/account/simpleassets) contract) token operated by [currentxchng](https://www.wax.bloks.io/account/currentxchng). 
 
 ## Utility
 
