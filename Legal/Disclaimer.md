@@ -1,14 +1,14 @@
 # Disclaimer
 
-"PURPLE or $PURPLE" refers to the cryptographic token found at address [purplepurple](https://wax.bloks.io/account/purplepurple) on the WAX blockchain, and any distinctions, restrictions, and terms defined for PURPLE also apply to the tokens BLUx or $BLUx [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) and BLU or $BLUX [blublublublu](https://wax.bloks.io/account/blublublublu) and SOL
-"Purple" refers to the Positive Attention Economy that is a combination of PURPLE BLUx BLU and SOL
-"Current X Change", cXc refer to Current X Change LLC, registered in Maryland, USA.
+"PURPLE" refers to the cryptographic token found at address [purplepurple](https://wax.bloks.io/account/purplepurple) on the WAX blockchain, and any distinctions, restrictions, and terms defined for PURPLE also apply to the tokens BLUx [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) and BLU [blublublublu](https://wax.bloks.io/account/blublublublu) and [SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL).
+"Purple" refers to the Positive Attention Economy that is a combination of PURPLE, BLUx, BLU, and SOL.
+"Current X Change" and "cXc" refer to Current X Change LLC, registered in Maryland, USA.
 "Mapps", "mapp" and "cXc.world" refer to launched and planned mapping applications hosted on subdomains of https://cxc.world
 "Repo" refers to all documents in the same github repo this disclaimer.md is found.
 
-This is not an offer or solicitation to buy any digital assets or securities. PURPLE is a token whose functionality is integral to our applications as described in this paragraph. Current X Change does not promise to to make money for its holders. PURPLE seeks to provide the owners (including earners and investors) the power to promote media and other informational content on the Mapps (Mapps meaning Mapping Applications produced by Current X Change LLC) defined in this [whitepaper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview), including but not limited to cXc Music, cXc Video, cXc Lit, cXc Art, cXc News, cXc Games, cXc Ideas, cXc Solutions, and cXc Pueblo. We make no claim or predictions of the future PURPLE price in this or any other content produced by Current X Change LLC, employees, or associates.
+This is not an offer or solicitation to buy any digital assets or securities. PURPLE is a token whose functionality is integral to our applications as described in this repo. Current X Change does not promise to to make money for its holders. PURPLE seeks to provide the owners (including earners and investors) the power to promote media and other informational content on the Mapps (Mapps meaning Mapping Applications produced by Current X Change LLC) defined in this [whitepaper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview), including but not limited to cXc Music, cXc Video, cXc Scribe, cXc Art, cXc News, cXc Games, cXc Ideas, cXc Solutions, and cXc Pueblo. We make no claim or predictions of the future PURPLE price in this or any other content produced by Current X Change LLC, employees, or associates.
 
-We also make no effort to control or manipulate the market price of PURPLE on any markets, including but not limited to Alcor.exchange and Newdex.io, outside of the market orders described in [Exchange-Listing.md](../Exchange-Listing.md).
+cXc makes no effort to control or manipulate the market price of PURPLE o BLUx on any markets, but may engage in trading any of these tokens for any purpose at any time, including but not limited to Alcor.exchange and Newdex.io. Initial release market orders are described in [Exchange-Listing.md](../Exchange-Listing.md). Any trading is public knowledge via the [Team](https://github.com/currentxchange/WAX-accounts) accounts.
 
 If you choose to purchase PURPLE (PURPLE), you accept that you have read and agree to our token purchase agreement.
 
@@ -22,9 +22,9 @@ You are responsible for keeping your private key(s) safe. You are also responsib
 Current X Change makes no guarantee that the mechanisms described in this repo are functional or will be functional at any specific time in the future. Changes in Purple may take place at any time without notice. Only max supply of the Purple-related tokens cannot change, plus founder pay, and liquidity promise.
 
 # Current X Change LLC Members in the System
-All members and associates of the Current X Change LLC organization are NOT barred from participating in the Purple economy, including but not limited to earning rewards according to the [Mapps paper](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and trading $PURPLE, $BLU and $BLUx.
+All members and associates of the Current X Change LLC organization are NOT barred from participating in the Purple economy, including but not limited to earning rewards according to the [Mapps paper](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and trading PURPLE, BLU and BLUx.
 
-> The founder will only receive 1% of their pay in $PURPLE in 2021, and 2% in 2022.
+> The founder will only receive 1% of their pay in PURPLE in 2021, and 2% in 2022.
 
 # PURPLE is not a security.
 PURPLE is not a security asset. PURPLE and Current X Change LLC use the terminology used by many ICOs, cryptocurrencies and other token sales, but do not follow the investment model of other tokens that may be securities. The PURPLE token is for use only in cXc Mapps, with the opportunity to be incorporated later on by other applications. This token is integral to the utility of the application, such that the application would not be possible without it. Current X Change LLC makes no promise or suggestion that this token will make the owner’s money.
