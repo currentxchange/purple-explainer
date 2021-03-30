@@ -158,3 +158,5 @@ Participating in the direct listing requires that you adhere and agree to the re
 > Please note: Staking and Everstones are not scheduled for the first release of cXc Music Beta (0.2.0), but are slated for soon after.
 
 *As this is pre-beta, consider all elements subject to modifications except the total supply of tokens, founder pay, and liquidity promise*
+
+# [Roadmap](Roadmap.md)
