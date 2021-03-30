@@ -5,7 +5,7 @@
 
 # Purple Empowers Creators
 
-> This repo will cover cXc.world's biomimetic engine, Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLU](https://wax.bloks.io/account/blublublublu), [BLUx](https://wax.bloks.io/account/bluxbluxblux), and SOL, staking PURPLE preview, and legal disclaimers.
+> This repo will cover cXc.world's cocreative economy, Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLU](https://wax.bloks.io/account/blublublublu), [BLUx](https://wax.bloks.io/account/bluxbluxblux), and SOL, staking PURPLE preview, and legal disclaimers.
 
 Purple is a **Cocreative Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the creator(s).
 
