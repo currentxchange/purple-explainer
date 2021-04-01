@@ -86,4 +86,9 @@ Funds will be used to pay for all end-user transactions on cXc.world, and also p
 Remaining Proceeds from direct listing will go towards development of cXc.world, including the final 1.0.0 release of cXc Music, native mobile apps, and the creation of other cXc.world [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) like cXc Video, cXc Art, cXc Ideas, cXc Pueblo and more. Funds will also pay for all other cXc operational costs, employees, promotion, events, etc.
 
 
-Proceeds and cXc spending are inherently transparent and can be tracked here: [dplug4purple](https://wax.bloks.io/account/dplug4purple) and here [currentxchng](https://wax.bloks.io/account/currentxchng).
+cXc spending transactions are inherently transparent and can be tracked here: [dplug4purple](https://wax.bloks.io/account/dplug4purple) and here [currentxchng](https://wax.bloks.io/account/currentxchng).
+
+
+# Buy 🟣 PURPLE on [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token)
+
+# Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
