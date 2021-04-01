@@ -19,16 +19,18 @@ You receive 288 SOL tokens everyday, which enables you to “Up” creations you
 
 Your “Sol Up” is converted and received by the creator as 1 BLUx. This is like the Rain that brings life, as 1 BLUx can be spent for 1 “Blu Up”.  
 
-Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and also go up on the Top Charts.  
+Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are combined and counted to rank music on the Top Charts.  
 
-Content that makes it high on the daily Top Charts will earn rewards in PURPLE, the fruit from Sun and rain.  
+Content that makes it into the top 64 on the daily Top Charts will earn rewards in PURPLE, the fruit from Sun and rain.  
 
 In addition to liquidity for WAX, 1 PURPLE can forge an Everstone NFT, which will automatically send 1 Up every day, without costing any BLUx or SOL.  
 
 ## Purple Overview
 Purple works with three `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, **[BLUx](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
 
-Free daily **SOL** facilitates collaboration via Ups, which pay creators 1:1 in **BLU**. Anyone can use **BLU** (Abundant) to Up again, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **Everstone NFTs**, which help creations to **shine forever** with daily Ups.
+Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLU**/**BLUx**. Anyone can use **BLU**/**BLUx** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **Everstone NFTs**, which help creations to **shine forever** with daily Ups.
+
+All Ups (Blu, Sol + Everstone) are combined and counted to determine Top Charts.
 
 > Read about Everstone NFTs in [Purple.md](Purple.md)
 
@@ -80,19 +82,19 @@ Discover more mapps we're bringing to Purple in the [Mapps](https://docs.google.
 
 # Quick Definitions
 
-**Purple** - Positive Attention Economy developed by cXc
+**cXc.world** - Home of Mapps, like cXc Music (music.cXc.world) the first Mapp
 
-**Positive Attention Economy** - Rewards creators of freely-available content by providing each consumer a time-limited amount of token to reward (Up) content of their choice.
+**Mapp** - Mapping application, or "Map dapp" used to refer to the mapps created by cXc using Purple
 
-**Up** - One unit of Positive Attention given through burning SOL or BLU directed at a specific piece of content on a mapp
+**Purple** - CoCreative Economy developed by cXc
 
-**Mapp** - Mapping application, used to refer to the mapping applications created by cXc at cXc.world using Purple.
+**Up** - Signifies love and support of content. Comes as Sol Up or Blu Up. 
 
-**Top Charts** - Content sorted by Up count on a Mapp, used to distribute rewards in PURPLE and determine which content should appear most prominently on the map.
+**Top Charts** - Content sorted by Up count on a mapp, used to distribute rewards in PURPLE and determine which content should appear most prominently on the map. Top 64 content is rewarded daily. 
 
-**Time Unit** - Amount of time needed to faucet 1 SOL, 5 minutes on all cXc Mapps. Top Charts are calculated every time unit. Gregorian time spans (Month, Week, etc.) are calculated from aggregating time unit information and are used in Mapps to give rewards and offer users a familiar experience.
+**Time Unit** - 5-minute units used to run cXc geotemporal displays. 1 SOL signifies 1 time unit. Top Charts are calculated every time unit. Gregorian time spans (Month, Week, etc.) are calculated from aggregating time unit information and are used in Mapps to give rewards (ex. daily Top Chart rewards = 288 time units = 288 PURPLE).
 
-**SOL** - Abundant Time-Token that can be fauceted up to 288 SOL per day by any user of mapps. Burnt 1:1 to give Sol Ups
+**SOL** - Abundant Time-Token that can be received freely up to 288 SOL per day by any user of [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview). Spent 1:1 to give Sol Ups
 
 **BLU** - Abundant token distributed to recipients of Sol Ups, and for completion of Role-based tasks. Burnt 1:1 to give Blu Ups
 
@@ -104,7 +106,7 @@ Discover more mapps we're bringing to Purple in the [Mapps](https://docs.google.
 
 **cXc** - Current X Change LLC, Maryland, USA
 
-**cXc.world** - Home of Mapps, like cXc Music (music.cXc.world) the first Mapp
+
 
 
 # Features
