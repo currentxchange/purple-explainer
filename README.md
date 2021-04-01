@@ -55,6 +55,7 @@ You can see trends for any region also! *Default is Global.*
 
 Project
 - [Roadmap](Roadmap.md)
+- [Economic Brief](Economic-Brief.md)
 
 Tokens
 - [PURPLE](Purple.md)
