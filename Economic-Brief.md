@@ -1,9 +1,9 @@
 
-# Purple Financial Brief
+# Purple Economic Brief
 
 This brief highlights key numbers and concepts in the Purple Economy in one place, covering 🟣 PURPLE, 🔵 BLUx, and ☀️ Sol.
 
-# 🟣 PURPLE Financial Brief
+# 🟣 PURPLE Economic Brief
 
 ℹ️ PURPLE will be offered directly on Alcor Exchange and Newdex starting April 17, 2021.
 
@@ -66,7 +66,7 @@ After all sell orders clear, we'll list 248,832 more 🟣 PURPLE priced from 40 
 
 ___
 
-# 🔵 BLUx Financial Brief
+# 🔵 BLUx Economic Brief
 
 ## Tech
 `eosio.token`-based [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) contract on WAX blockchain
@@ -100,7 +100,7 @@ Additionally, 1 BLUx is issued to be paid to artists for each Sol Up they receiv
 
 ___
 
-# ☀️ SOL Financial Brief
+# ☀️ SOL Economic Brief
 
 ## Tech
 
