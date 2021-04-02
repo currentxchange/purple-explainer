@@ -3,17 +3,17 @@
 </p>
 
 
-# Sol
+# ☀️ Sol
 [SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) is a fungible token using the [Simple Assets](https://github.com/CryptoLions/SimpleAssets) standard on the WAX blockchain.
 
-SOL is a [time token](https://github.com/dougbutner/web-4#time-issued-cryptocurrency-time-tokens), freely given to each member of cXc.world. A SOL must be burnt to make an Up on the site. Each SOL is linked to one Time Unit.
+☀️ SOL is a [time token](https://github.com/dougbutner/web-4#time-issued-cryptocurrency-time-tokens), freely given to each member of cXc.world. A SOL must be burnt to make an Up on the site. Each SOL is linked to one Time Unit.
 
-SOL is **Non-transferable**, and **controlled** by the [currentxchng](https://wax.bloks.io/account/simpleassets) account according to the [simpleassets](https://wax.bloks.io/account/simpleassets) contract. This allows SOL to work more like an in-game currency than a real token, helping mapps prevent manipulation and Up farming with fake account.
+☀️ SOL is **Non-transferable**, and **controlled** by the [currentxchng](https://wax.bloks.io/account/simpleassets) account according to the [simpleassets](https://wax.bloks.io/account/simpleassets) contract. This allows SOL to work more like an in-game currency than a real token, helping mapps prevent manipulation and Up farming with fake account.
 
-> To learn more about the economics of cXc.world mapps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) and the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
+> To learn more about the workings of our mapps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) and the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
 
 # Functionality
-SOL is **burned (destroyed) for Sol Ups** 1:1.
+☀️ SOL is **burned (destroyed) for Sol Ups** 1:1.
 
 64 can be burned at a time for a **Big Up**, which is recorded as 64 Ups (1:1), but also 1 "Big Up" tracked alongside Ups.
 
@@ -26,7 +26,7 @@ Here you'll see the Up button (center) Big Up (left) and Blu Up (right)
 
 
 # Supply of SOL
-SOL has a maximum supply of 2^62-1, the highest possible on EOSIO. **Circulating supply fluctuates**, as it is constantly being inflated over time, and deflated through Sol Ups.
+☀️ SOL has a maximum supply of 2^62-1, the highest possible on EOSIO. **Circulating supply fluctuates**, as it is constantly being inflated over time, and deflated through Sol Ups.
 
 **SOL is indivisible** (0 precision) token, matching it's functionality of being worth exactly 1 Up.
 
@@ -37,7 +37,7 @@ SOL is a [simpleassets](https://wax.bloks.io/account/simpleassets) token and exi
 # SOL Distribution
 Each account must first receive a **Solar Disk** (Simple Assets NFT) in order to receive SOL from the SOL faucet. Sol is held on Solar Disk via the `attachf` action.
 
-One Solar Disk cannot hold more than **288 Sol** at one time, and Sol held outside of a Solar Disk is burned by cXc to prevent hoarding.
+One Solar Disk cannot hold more than **288 SOL** at one time, and Sol held outside of a Solar Disk is burned by cXc to prevent hoarding (remember, SOL is an asset controlled by cXc, not the user [unlike BLUx, PURPLE]).
 
 The amount of Sol a user has will **change the image on the Solar Disk NFT**, giving the user a visual representation of the SOL they have remaining anytime they look at their NFT wallet. This images matches the one shown on the UI on cXc.world beta.
 
