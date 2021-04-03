@@ -163,3 +163,5 @@ Participating in the direct listing requires that you adhere and agree to the re
 *As this is pre-beta, consider all elements subject to modifications except the total supply of tokens, founder pay, and liquidity promise*
 
 # [Roadmap](Roadmap.md)
+
+### Find all cXc links in the pinned message on our [Telegram](https://t.me/joinchat/RcfWf3iGr-XEl08B)
