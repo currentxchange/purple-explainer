@@ -49,7 +49,7 @@ You can see trends for any region also! *Default is Global.*
 
 
 
-\* - Past searches only work from the launch date of Purple onward.
+\* - Past searches work from Summer Solstice 2019 onward. Songs posted before Beta, all Ups are assigned to the post date of the music.
 
 # Learn Everything About Purple
 
