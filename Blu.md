@@ -74,7 +74,7 @@ BLUx is also issued periodically for Airdrops and other promotions. All issuance
 Note: BLUx is issued to [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) 1,000,000 at a time, in advance, where it is then distributed.
 
 - 5,000,000 BLUX to Promo fund [thx4dapurple](https://wax.bloks.io/account/thx4dapurple) (1/5 issued so far)
-- 500,000 BLUx to fund [Alcor Liquidity pool](https://wax.alcor.exchange/swap) (1/5 issued so far)
+- 500,000 BLUx to put into [Alcor Liquidity pool](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token) (1/5 issued so far)
 
 
 # Buy BLUx on [Alcor](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token)
