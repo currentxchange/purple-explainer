@@ -34,10 +34,10 @@ All Ups (Blu, Sol + Everstone) are combined and counted to determine Top Charts.
 
 > Read about Everstone NFTs in [Purple.md](Purple.md)
 
-Mapps (defined below) are **geotemporal**, and every result has a timespan where Ups are counted. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **Everstones** an easy way not to disappear, and **BLU** Ups a shot to be seen at the top of local charts.
+Mapps (map-dapps) are **geotemporal**, and every result has a timespan where Ups are counted. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **Everstones** an easy way not to disappear, and **BLU** Ups a shot to be seen at the top of local charts.
 
 ### How does a Geotemporal mapp work?
-You can look at the latest trends (Weekly, Daily, hourly, etc) or look into the past*. *Default is all-time.*
+You can look at the latest trends (Weekly, Daily, hourly, etc) or look into the past.* *Default is all-time.*
 <p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
   <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Temporal-Selected.png"></a>
 </p>
@@ -49,7 +49,7 @@ You can see trends for any region also! *Default is Global.*
 
 
 
-\* - Past searches work from Summer Solstice 2019 onward. Songs posted before Beta, all Ups are assigned to the post date of the music.
+\* - Past searches work from Summer Solstice 2019 onward. Songs posted before Beta, all Ups are assigned to the post date of the music. In Beta, the Time Machine will function with the time of the Up, and show trends down to 5-minutes. 
 
 # Learn Everything About Purple
 
