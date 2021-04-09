@@ -11,7 +11,7 @@
 - [ ] PURPLE [Launched](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) (April 17th)  
 - [ ] cXc.world Beta with Ups + BLUx rewards 
 - [ ] Messenger Program
-- [ ] [National + Local Top Charts](Images/Top-Charts-Beta.pg) Rewards 🟣 Go Live 
+- [ ] [National + Local Top Charts](Images/Top-Charts-Beta.png) Rewards 🟣 Go Live 
 - [ ] Music NFT creator  🖼️
 - [ ] Changer + Artist + Guardian [Guild](https://discord.gg/ZXmCpKszJR) rewards  🔵
 - [ ] Purple Staking via Everstone NFTs
