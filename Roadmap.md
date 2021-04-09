@@ -5,7 +5,7 @@
 :heavy_check_mark: "Up" system with 5-minute Time Tokens (☀️ SOL)  
 :heavy_check_mark: [National](Images/Geo-France.png) Top Charts + USA States, Counties, Cities
 :heavy_check_mark: cXc.world Silver Edition - New UI  
-:heavy_check_mark: cXc.world Gold Version - Hive -> Wax Transition  
+:heavy_check_mark: cXc.world Gold Version - Hive -> Wax transition begins 
 :heavy_check_mark: Purple Explainer on Github  
 :heavy_check_mark: BLUx Launched  
 - [ ] PURPLE [Launched](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) (April 17th)  
@@ -13,7 +13,7 @@
 - [ ] Messenger Program
 - [ ] [National + Local Top Charts](Images/Top-Charts-Beta.pg) Rewards 🟣 Go Live 
 - [ ] Music NFT creator  🖼️
-- [ ] Changer + Guardian [guild](https://discord.gg/ZXmCpKszJR) rewards  🔵
+- [ ] Changer + Artist + Guardian [Guild](https://discord.gg/ZXmCpKszJR) rewards  🔵
 - [ ] Purple Staking via Everstone NFTs
 
 # Long-term cXc Roadmap 🛣️ 
