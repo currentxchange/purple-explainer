@@ -41,7 +41,7 @@ When an account is paid Blu, they either receive BLU (verified users) or BLUx (n
 > BLUx, not BLU, will be the only Blu on cXc.world in Beta.
 
 # Supply of BLU and BLUx
-BLU and BLUx have a maximum supply of 2^62-1, the highest possible on EOSIO. Circulating supply fluctuates, with BLUx predicted to have a much higher circulating supply than BLU at all times.
+BLU and BLUx have a maximum supply of 2<sub>64</sub>-1, the highest possible on EOSIO. Circulating supply fluctuates, with BLUx predicted to have a much higher circulating supply than BLU at all times.
 
 **BLU is indivisible** (0 precision) token, matching it's functionality of being **worth exactly 1 Up.**
 

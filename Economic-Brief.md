@@ -15,7 +15,7 @@ This brief highlights key numbers and concepts in the Purple Economy in one plac
 
 PURPLE will be used across all current + future [cXc.world](https://cxc.world) mapps. PURPLE is divisible up to 8 decimal places.
 
-## Max Supply = 35,831,808 (12^7) 🟣 PURPLE
+## Max Supply = 35,831,808 (12<sup>7</sup>) 🟣 PURPLE
 
 ## Here's exactly how many PURPLE have been issued.
 
@@ -23,8 +23,8 @@ PURPLE will be used across all current + future [cXc.world](https://cxc.world) m
 100,000 🟣 - Team + Dev Pay  
 100,000 🟣 - Messenger Program + Promo + Airdrops 🪂  
 248,832 🟣 - Initial Release on Alcor  
-_______
-*[478,691 Circulating 🟣 PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)*
+
+# *[478,691 Circulating 🟣 PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)*
 
 
 **We won't issue any more PURPLE for sale until all 248,832 PURPLE are sold.**
@@ -79,7 +79,7 @@ ___
 Because SOL is limited, BLUx is the only way to Up a piece of content more than 288 times on one day. 
 
 
-## Max Supply = Max Possible on EOSIO (2^64-1) 🔵 BLUx
+## Max Supply = Max Possible on EOSIO (2<sup>64</sup>-1) 🔵 BLUx
 
 ## Here's exactly how many BLUx have been issued.
 1,000,000 🔵 - Promo Budget  
@@ -110,7 +110,7 @@ ___
 
 ☀️ SOL is spendable 1:1 for Sol Ups on [cXc.world](https://cxc.world). SOL is freely given, but cannot be bought, sold, or traded, and each user can hold up to 288 SOL at a time. SOL is indivisible.
 
-## Max Supply = Max Possible on EOSIO (2^64-1) ☀️ SOL
+## Max Supply = Max Possible on EOSIO (2^<sup>64</sup>-1) ☀️ SOL
 
 **There is no trading of SOL.**
 

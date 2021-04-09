@@ -22,7 +22,7 @@ PURPLE has a unique utility for musicians as **cXc Music** is the first [**cXc.w
 # IEO Sell Orders.
 On 4/17/2021, 1/12th of the 1/12 Max Supply to be sold will be listed with pricing starting at **20 WAX** per PURPLE. 
 
-> Tokens for Sale: 1/12 Max Supply or 12^6 (2,985,984), issued + offered 12^5 (248,832) at a time. Here's how we'll price the 12^5 tokens.
+> Tokens for Sale: 1/12 Max Supply or 12<sub>6</sub> (2,985,984), issued + offered 12<sub>5</sub> (248,832) at a time. Here's how we'll price the April 17th tokens.
 
 Price ~ # PURPLE Available (rounded)
 

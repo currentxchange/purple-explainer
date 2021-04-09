@@ -28,7 +28,7 @@ Here you'll see the Up button (center) Big Up (left) and Blu Up (right)
 
 
 # Supply of SOL
-☀️ SOL has a maximum supply of 2^62-1, the highest possible on EOSIO. **Circulating supply fluctuates**, as it is constantly being inflated over time, and deflated through Sol Ups.
+☀️ SOL has a maximum supply of 2<sup>64</sup>-1, the highest possible on EOSIO. **Circulating supply fluctuates**, as it is constantly being inflated over time, and deflated through Sol Ups.
 
 **SOL is indivisible** (0 precision) token, matching it's functionality of being worth exactly 1 Up.
 

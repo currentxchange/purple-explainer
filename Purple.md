@@ -9,7 +9,7 @@
 PURPLE can be **staked for NFTs** that enable special powers or privileges on cXc.world. PURPLE works across mapps, starting with [cXc Music](music.cXc.world)
 
 # Supply of 🟣 PURPLE
-[🟣 PURPLE](https://wax.bloks.io/account/dplug4purple) has an [**unchangeable maximum supply**](https://wax.bloks.io/transaction/2e9499407094dbcd521f7c7b012d3a38a20fc847707a0f6e90f4e7164dd95ea5) of 12^7 (**35,831,808**) PURPLE tokens, comparable with bitcoin (21,000,000) in terms of scarcity.
+[🟣 PURPLE](https://wax.bloks.io/account/dplug4purple) has an [**unchangeable maximum supply**](https://wax.bloks.io/transaction/2e9499407094dbcd521f7c7b012d3a38a20fc847707a0f6e90f4e7164dd95ea5) of 12<sup>7</sup> (**35,831,808**) PURPLE tokens, comparable with bitcoin (21,000,000) in terms of scarcity.
 
 > The [circulating supply](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple) of PURPLE is much smaller, currently well under one million.
 
