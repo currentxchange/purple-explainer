@@ -15,6 +15,12 @@ Purple is modeled after the Solar System.
 
 > The Sun gives us love each day. If we share that love with others, we grow together. If we don’t, the love is unmanifested and fades away. Either way, the Sun still shines the next day, giving us another chance to share and manifest this loving solar energy. 
 
+
+<p align="center">
+  <img width="auto" height="auto" src="Images/cxc-one-imager.png">
+</p>
+cxc-one-imager.png
+
 You receive 288 SOL tokens everyday, which enables you to “Up” creations you love on cXc.world, a map of music (and soon more). You can Up anything any number of times, costing 1 SOL per Up.  
 
 Your “Sol Up” is converted and received by the creator as 1 BLUx. This is like the Rain that brings life, as 1 BLUx can be spent for 1 “Blu Up”.  
@@ -24,6 +30,7 @@ Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are combined an
 Content that makes it into the top 64 on the daily Top Charts will earn rewards in PURPLE, the fruit from Sun and rain.  
 
 In addition to liquidity for WAX, 1 PURPLE can forge an Everstone NFT, which will automatically send 1 Up every day, without costing any BLUx or SOL.  
+
 
 ## Purple Overview
 Purple works with three `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, **[BLUx](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
