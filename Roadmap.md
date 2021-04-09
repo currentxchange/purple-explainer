@@ -1,4 +1,4 @@
-# Short-term Roadmap 🛣️ 
+# Short-term cXc Roadmap 🛣️ 
 
 :heavy_check_mark: [Purple](ttps://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) + [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) papers  
 :heavy_check_mark: [cXc.world](https://cxc.world) (Alpha) launched 🗺️
@@ -8,17 +8,17 @@
 :heavy_check_mark: cXc.world Gold Version - Hive -> Wax Transition  
 :heavy_check_mark: Purple Explainer on Github  
 :heavy_check_mark: BLUx Launched  
-- [ ] PURPLE Launched (April 17th)  
+- [ ] PURPLE [Launched](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) (April 17th)  
 - [ ] cXc.world Beta with Ups + BLUx rewards 
-- [ ] National + Local Top Charts Go Live 
+- [ ] Messenger Program
+- [ ] [National + Local Top Charts](Images/Top-Charts-Beta.pg) Rewards 🟣 Go Live 
 - [ ] Music NFT creator  🖼️
-- [ ] Top Chart rewards  🟣
-- [ ] Changer + Guardian role rewards  🔵
+- [ ] Changer + Guardian [guild](https://discord.gg/ZXmCpKszJR) rewards  🔵
 - [ ] Purple Staking via Everstone NFTs
 
-# Long-term Roadmap 🛣️ 
-- [ ] cXc Media (adds Video, Scribe, Art, Photo, News, Games)  
-- [ ] Native iOS and Android apps 
+# Long-term cXc Roadmap 🛣️ 
+- [ ] [cXc Media](https://currentxchange.com) (adds Video, Scribe, Art, Photo, News, Games)  
+- [ ] Native iOS and Android apps  
 - [ ] cXc Ideas  
 - [ ] cXc Solutions  
 - [ ] cXc Pueblo  
