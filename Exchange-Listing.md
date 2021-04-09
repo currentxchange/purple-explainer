@@ -19,11 +19,10 @@ Furthermore, **PURPLE** need only be unstaked for the holder to receive back the
 ## Today Musicians, Tomorrow All
 PURPLE has a unique utility for musicians as **cXc Music** is the first [**cXc.world**](https://cxc.world) mapp, but this utility will expand to all creators and creative collectives when **cXc Video**, **cXc Photo**, **cXc Scribe**, **cXc Art** + more mapps are available.  
 
-# First Ascending Sell Orders.
-On 4/17/2021, the first 1/12th of the first sell order will be with pricing starting at **20 WAX** per PURPLE. When this clears, another sell order will be placed with base price increasing 20 WAX, and then 10 more each increasing by 20 WAX.
+# IEO Sell Orders.
+On 4/17/2021, 1/12th of the 1/12 Max Supply to be sold will be listed with pricing starting at **20 WAX** per PURPLE. 
 
-
-> Amount of Tokens Per Sell Order: 1/12 Max Supply or 12^6 (2,985,984), issued + offered 12^5 (248,832) at a time. Here's how we'll price the 12^5 tokens.
+> Tokens for Sale: 1/12 Max Supply or 12^6 (2,985,984), issued + offered 12^5 (248,832) at a time. Here's how we'll price the 12^5 tokens.
 
 Price ~ # PURPLE Available (rounded)
 
@@ -40,10 +39,6 @@ Price ~ # PURPLE Available (rounded)
 33 WAX ~ 35,090 🟣  
 36 WAX ~ 38,280 🟣  
 
-
-
-# Second, Third, and Fourth Sell Orders
-Once all tokens are sold from the first orders, another 12^6 batch of 12^5 ascending sell orders will launch priced at **240 - 2880 WAX** per PURPLE. After that, a third batch will arrive priced **2880 - 34,560 WAX**, and a final sell order at **34,560 - 414,720 WAX**.
 
 > Prices subject to change / adjust with current WAX price.
 
