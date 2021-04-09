@@ -110,7 +110,7 @@ ___
 
 ☀️ SOL is spendable 1:1 for Sol Ups on [cXc.world](https://cxc.world). SOL is freely given, but cannot be bought, sold, or traded, and each user can hold up to 288 SOL at a time. SOL is indivisible.
 
-## Max Supply = Max Possible on EOSIO (2^<sup>64</sup>-1) ☀️ SOL
+## Max Supply = Max Possible on EOSIO (2<sup>64</sup>-1) ☀️ SOL
 
 **There is no trading of SOL.**
 
