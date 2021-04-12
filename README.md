@@ -19,7 +19,6 @@ Purple is modeled after the Solar System.
 <p align="center">
   <img width="auto" height="auto" src="Images/cxc-one-imager.png">
 </p>
-cxc-one-imager.png
 
 You receive 288 SOL tokens everyday, which enables you to “Up” creations you love on cXc.world, a map of music (and soon more). You can Up anything any number of times, costing 1 SOL per Up.  
 
