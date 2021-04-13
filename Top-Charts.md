@@ -1,7 +1,7 @@
 # Top 64 Charts
 
 <p align="center">
-  <img width="auto" height="auto" src="Charts-In-cXc-Music-cXc.world-beta.png">
+  <img width="auto" height="auto" src="Images/Charts-In-cXc-Music-cXc.world-beta.png">
 </p>
 
 
