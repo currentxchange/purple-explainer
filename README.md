@@ -7,7 +7,7 @@
 
 > This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLU](https://wax.bloks.io/account/blublublublu), [BLUx](https://wax.bloks.io/account/bluxbluxblux), and [SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) (above), staking PURPLE preview, [roadmap](Roadmap.md) and legal disclaimers.
 
-Purple is a **Cocreative Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the creator(s).
+Purple is a **Co-Creative Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the creator(s).
 
 # Solar Concept
 
@@ -28,7 +28,7 @@ Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are combined an
 
 Content that makes it into the top 64 on the daily Top Charts will earn rewards in PURPLE, the fruit from Sun and rain.  
 
-In addition to liquidity for WAX, 1 PURPLE can activate an [Everstone NFT](Everstones.md)), which will automatically send 1 Blu Up every day, without costing any BLUx or SOL.  
+In addition to liquidity for WAX, 1 PURPLE can activate an [Everstone NFT](Everstones.md), which will automatically send 1 Blu Up every day, without costing any BLUx or SOL.  
 
 
 ## Purple Overview
@@ -61,12 +61,14 @@ You can see trends for any region also! *Default is Global.*
 
 Project
 - [Roadmap](Roadmap.md)
-- [Economic Brief](Economic-Brief.md)
+- [Tokenomic Brief](Economic-Brief.md)
+- [Top Charts](Top-Charts.md)
 
 Tokens
 - [PURPLE](Purple.md)
 - [BLU + BLUx](Blu.md)
 - [SOL](Sol.md)
+- [Everstones](Everstones.md)
 
 Financial Info
 - [Exchange Listing](Exchange-Listing.md)
