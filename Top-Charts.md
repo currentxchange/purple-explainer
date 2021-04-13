@@ -5,7 +5,7 @@
 </p>
 
 
-## Rewards 
+# 🟣 PURPLE Rewards Creators People Up
 
 One 🟣 PURPLE is rewarded per time unit to Top 64 Charts in each cXc Music Dapp, starting with [cXc Music](https://music.cXc.world)
 
