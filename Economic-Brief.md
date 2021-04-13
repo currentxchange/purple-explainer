@@ -48,6 +48,8 @@ Price ~ # PURPLE Available (rounded)
 33 WAX ~ 35,090 🟣  
 36 WAX ~ 38,280 🟣  
 
+We'll list one sell order at a time, starting at the cheapest. We will wait at least 7 days after one sell order clears to list another sell order.  
+
 After all sell orders clear, we'll list 248,832 more 🟣 PURPLE priced from 40 - 60 WAX.
 
 > Some PURPLE budgeted for sell orders will be added directly to the DeFi pools, taking supply from the most expensive sell orders first.
