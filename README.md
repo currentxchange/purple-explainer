@@ -28,17 +28,17 @@ Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are combined an
 
 Content that makes it into the top 64 on the daily Top Charts will earn rewards in PURPLE, the fruit from Sun and rain.  
 
-In addition to liquidity for WAX, 1 PURPLE can forge an Everstone NFT, which will automatically send 1 Up every day, without costing any BLUx or SOL.  
+In addition to liquidity for WAX, 1 PURPLE can activate an [Everstone NFT](Everstones.md)), which will automatically send 1 Blu Up every day, without costing any BLUx or SOL.  
 
 
 ## Purple Overview
 Purple works with three `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, **[BLUx](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
 
-Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLU**/**BLUx**. Anyone can use **BLU**/**BLUx** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **Everstone NFTs**, which help creations to **shine forever** with daily Ups.
+Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLU**/**BLUx**. Anyone can use **BLU**/**BLUx** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **[Everstone NFTs](Everstones.md)**, which help creations to **shine forever** with daily Ups.
 
 All Ups (Blu, Sol + Everstone) are combined and counted to determine Top Charts.
 
-> Read about Everstone NFTs in [Purple.md](Purple.md)
+> Read about Everstone NFTs in [Everstones.md](Everstones.md)
 
 Mapps (map-dapps) are **geotemporal**, and every result has a timespan where Ups are counted. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **Everstones** an easy way not to disappear, and **BLU** Ups a shot to be seen at the top of local charts.
 
@@ -82,9 +82,14 @@ Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](
   <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/cXc-Music-Polaroid.png"></a>
 </p>
 
-> cXc.world launched in Alpha in Dec 2018. After two minor releases (Silver Edition + Gold Version), the upcoming Beta release will bring Purple online starting April 17, 2021.
+# cXc History
+cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autoformat  music posts on blogs, . Alpha had time-limited Ups, but not on-chain. After two minor releases (Silver Edition [2019] + Gold Version [2020]), the upcoming Beta release will enable the Purple Economy fully on WAX starting with the release of PURPLE on April 17, 2021.
 
-Discover more mapps we're bringing to Purple in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
+> All pre-beta Ups will be transitioned, so artists will get paid in BLUX for Ups happening now in Gold Version. 
+
+> Note: We have temporarily removed Hive integration until WAX transition is complete to avoid confusion. 
+
+🧠🗺️ Discover how Mapps work and what Mapps we've got planned in our [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
 
 
 # Quick Definitions
@@ -111,7 +116,7 @@ Discover more mapps we're bringing to Purple in the [Mapps](https://docs.google.
 
 **Solar Disk** - NFT needed to register a user as a valid recipient of SOL, and hold SOL.
 
-**cXc** - Current X Change LLC, Maryland, USA
+**cXc** - Short for Current X Change LLC, Maryland, USA
 
 
 
@@ -164,10 +169,10 @@ Instant Liquidity via Alcor Swap: [WAX/PURPLE](https://wax.alcor.exchange/swap?o
 Participating in the direct listing requires that you adhere and agree to the requirements, restrictions, terms and conditions laid out in [disclaimer.md](Legal/Disclaimer.md) and [legal-agreement.md](Legal/Legal-Agreement.md)
 
 
-> Please note: Staking and Everstones are not scheduled for the first release of cXc Music Beta (0.2.0), but are slated for soon after.
+> Please note: Staking and [Everstones](Everstones.md) are not scheduled for the first release of cXc Music Beta (0.2.0), but are slated for soon after.
 
 *As this is pre-beta, consider all elements subject to modifications except the total supply of tokens, founder pay, and liquidity promise*
 
-# [Roadmap](Roadmap.md)
+# (cXc) [Roadmap](Roadmap.md) 🛣️
 
 ### Find all cXc links in the pinned message on our [Telegram](https://t.me/joinchat/RcfWf3iGr-XEl08B)
