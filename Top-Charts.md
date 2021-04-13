@@ -25,11 +25,11 @@ Default Ranking on cXc.world = `Total Blu Ups + Sol Ups`
 
 In addition to the default ranking, users on cXc.world can choose to see Top Charts by the following:
 
-`Only Sol Ups`  
+`Only <img width="auto" height="auto" src="Images/Icons/up12.png">  Sol Ups`  
 
-`Only Blu Ups`  
+`Only <img width="auto" height="auto" src="Images/Icons/blueup12.png">  Blu Ups`  
 
-`Only Big Ups Ups`  
+`Only <img width="auto" height="auto" src="Images/Icons/bigup12.png">  Big Ups Ups`  
 
 
 `Total Blu Ups + Sol Ups` ranking is used when we send out emails and updates about current music trends. It's the default for everything *except* PURPLE rewards. 
