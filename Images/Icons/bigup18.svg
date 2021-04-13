@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-Elements-and-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1041.000000, -761.000000)" fill="#FFFF00" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(1042.000000, 761.000000)">
+                <g id="Group-2">
+                    <g id="BIG-UP-[Circled][Outlined]-Icon-v4.YW-Copy">
+                        <path d="M11.8459459,3.11351351 C11.8959459,3.11351351 11.9459459,3.16351351 11.9959459,3.16351351" id="Shape"></path>
+                        <g id="Group" stroke="#FFFFFF" stroke-width="0.5">
+                            <g transform="translate(5.108108, 0.000000)" id="Shape">
+                                <polygon points="7.66216216 4.54864865 5.10810811 0.121621622 2.55405405 4.54864865 5.10810811 4.54864865"></polygon>
+                                <polygon points="2.55405405 4.54864865 0.0243243243 9 5.10810811 9 3.81891892 6.76216216"></polygon>
+                                <polygon points="7.66216216 4.54864865 6.3972973 6.76216216 5.10810811 9 10.2162162 9"></polygon>
+                            </g>
+                            <g transform="translate(10.216216, 9.000000)" id="Shape">
+                                <polygon points="7.68648649 4.42702703 5.10810811 0 2.55405405 4.42702703 5.10810811 4.42702703"></polygon>
+                                <polygon points="2.55405405 4.42702703 0 8.85405405 5.10810811 8.85405405 3.86756757 6.66486486"></polygon>
+                                <polygon points="7.68648649 4.42702703 6.3972973 6.66486486 5.10810811 8.85405405 10.2162162 8.85405405"></polygon>
+                            </g>
+                            <g transform="translate(0.000000, 9.000000)" id="Shape">
+                                <polygon points="7.68648649 4.42702703 5.13243243 0 2.55405405 4.42702703 5.13243243 4.42702703"></polygon>
+                                <polygon points="2.55405405 4.42702703 0 8.85405405 5.13243243 8.85405405 3.81891892 6.66486486"></polygon>
+                                <polygon points="7.68648649 4.42702703 6.37297297 6.66486486 5.13243243 8.85405405 10.2162162 8.85405405"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
