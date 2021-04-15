@@ -11,24 +11,24 @@ Purple is a **Co-Creative Economy** where participants receive daily SOL to shin
 
 # Solar Concept
 
-Purple is modeled after the Solar System.
+Purple's design is modeled after the Solar System.
 
-> The Sun gives us love each day. If we share that love with others, we grow together. If we don’t, the love is unmanifested and fades away. Either way, the Sun still shines the next day, giving us another chance to share and manifest this loving solar energy. 
+> The Sun gives us lovelight each day. If we share that lovelight with others, we grow together. If we don’t, the lovelight is unmanifested and fades away. Either way, the Sun still shines the next day, giving us another chance to share and manifest this creative solar energy. 
 
 
 <p align="center">
   <img width="auto" height="auto" src="Images/cxc-one-imager.png">
 </p>
 
-You receive 288 SOL tokens everyday, which enables you to “Up” creations you love on cXc.world, a map of music (and soon more). You can Up anything any number of times, costing 1 SOL per Up.  
+You can claim up to 288 [SOL](Sol.md) tokens every day, which enable you to “Up” creations you love on cXc.world, a map of music (and soon more). You can Up content multiple times, anytime, spending 1 SOL per Up.  
 
-Your “Sol Up” is converted and received by the creator as 1 BLUx. This is like the Rain that brings life, as 1 BLUx can be spent for 1 “Blu Up”.  
+Your “Sol Up” is burned and the creator is rewarded 1 [BLUx](Blu.md). 1 BLUx can be spent for 1 “Blu Up”.  
 
-Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are combined and counted to rank music on the Top Charts.  
+Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are counted to rank music on the [Top Charts](Top-Charts).  
 
-Content that makes it into the top 64 on the daily Top Charts will earn rewards in PURPLE, the fruit from Sun and rain.  
+Music that makes it into the Top 64 on the daily Top Charts will earn additional rewards in [PURPLE](Purple.md).  
 
-In addition to liquidity for WAX, 1 PURPLE can activate an [Everstone NFT](Everstones.md), which will automatically send 1 Blu Up every day, without costing any BLUx or SOL.  
+In addition to [liquidity](https://wax.alcor.exchange/swap?output=WAX-eosio.token&input=PURPLE-purplepurple) for WAX, 1 PURPLE can activate an [Everstone NFT](Everstones.md), which will automatically send 1 Blu Up or 1 BLUX every day, without costing any BLUx or SOL.  
 
 
 ## Purple Overview
@@ -40,15 +40,18 @@ All Ups (Blu, Sol + Everstone) are combined and counted to determine Top Charts.
 
 > Read about Everstone NFTs in [Everstones.md](Everstones.md)
 
-Mapps (map-dapps) are **geotemporal**, and every result has a timespan where Ups are counted. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **Everstones** an easy way not to disappear, and **BLU** Ups a shot to be seen at the top of local charts.
+Mapps (map-dapps) are **geotemporal**, and every result has a timespan where Ups are counted. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **Everstones** an easy way not to disappear\*, and **Blu Ups** a shot to be seen at the top of local charts.
+
+
+\* - You may also do Up manually with your 288 Sol Ups
 
 ### How does a Geotemporal mapp work?
-You can look at the latest trends (Weekly, Daily, hourly, etc) or look into the past.* *Default is all-time.*
+You can look at the latest trends (Monthly, Weekly, Daily, etc) or look into the past.* *Default is all-time.*
 <p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
   <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Temporal-Selected.png"></a>
 </p>
 
-You can see trends for any region also! *Default is Global.*
+You can see trends for any nation. *Default is Global.*
 <p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
   <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Geo-France.png"></a>
 </p>
@@ -85,7 +88,7 @@ Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](
 </p>
 
 # cXc History
-cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autoformat  music posts on blogs, . Alpha had time-limited Ups, but not on-chain. After two minor releases (Silver Edition [2019] + Gold Version [2020]), the upcoming Beta release will enable the Purple Economy fully on WAX starting with the release of PURPLE on April 17, 2021.
+cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autoformat  music posts on blogs. Alpha had time-limited Ups, but not on-chain. After two minor releases (Silver Edition [2019] + Gold Version [2020]), the upcoming Beta release will enable the Purple Economy fully on WAX starting with the release of PURPLE on April 17, 2021.
 
 > All pre-beta Ups will be transitioned, so artists will get paid in BLUX for Ups happening now in Gold Version. 
 
@@ -96,7 +99,7 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autofo
 
 # Quick Definitions
 
-**cXc.world** - Home of Mapps, like cXc Music (music.cXc.world) the first Mapp
+**cXc.world** - Home of Mapps like [cXc Music](music.cxc.world)
 
 **Mapp** - Mapping application, or "Map dapp" used to refer to the mapps created by cXc using Purple
 
@@ -106,7 +109,7 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autofo
 
 **Top Charts** - Content sorted by Up count on a mapp, used to distribute rewards in PURPLE and determine which content should appear most prominently on the map. Top 64 content is rewarded daily. 
 
-**Time Unit** - 5-minute units used to run cXc geotemporal displays. 1 SOL signifies 1 time unit. Top Charts are calculated every time unit. Gregorian time spans (Month, Week, etc.) are calculated from aggregating time unit information and are used in Mapps to give rewards (ex. daily Top Chart rewards = 288 time units = 288 PURPLE).
+**Time Unit** - 5-minute units used to run cXc geotemporal Top Charts, and as the basis of the PURPLE. 1 PURPLE 1 SOL = 1 time unit. Top Charts are calculated every time unit. Gregorian time spans (Month, Week, etc.) are calculated in time units using GMT and displayed for easy access information and are used in Mapps to give rewards (ex. daily Top Chart rewards = 288 time units = 288 PURPLE).
 
 **SOL** - Abundant Time-Token that can be received freely up to 288 SOL per day by any user of [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview). Spent 1:1 to give Sol Ups
 
@@ -169,7 +172,6 @@ Instant Liquidity via Alcor Swap: [WAX/PURPLE](https://wax.alcor.exchange/swap?o
 
 # Requirements & Restrictions
 Participating in the direct listing requires that you adhere and agree to the requirements, restrictions, terms and conditions laid out in [disclaimer.md](Legal/Disclaimer.md) and [legal-agreement.md](Legal/Legal-Agreement.md)
-
 
 > Please note: Staking and [Everstones](Everstones.md) are not scheduled for the first release of cXc Music Beta (0.2.0), but are slated for soon after.
 
