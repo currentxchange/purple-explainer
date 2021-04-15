@@ -5,7 +5,7 @@
 </p>
 
 
-# 🟣 PURPLE Rewards Creators People Up
+# 🟣 PURPLE Rewards Creators People Up 🔌
 
 One 🟣 PURPLE is rewarded per time unit to Top 64 Charts in each cXc Music Dapp, starting with [cXc Music](https://music.cXc.world)
 
@@ -14,7 +14,7 @@ This 1 🟣 PURPLE / Time Unit reward will be given out daily as 288 🟣 PURPLE
 
 > 288 SOL per person, and 288 PURPLE for Top Charts for cXc.world dapps, every day. These are the gears of the Purple Economy. 
 
-# Top Charts
+# Top Charts 🌎 <img width="auto" height="auto" src="Images/Icons/up12.png"><img width="auto" height="auto" src="Images/Icons/blueup12.png">
 
 > Top Charts show up tailored to every search you do on cXc.world. 
 
@@ -35,11 +35,11 @@ In addition to the default ranking, users on cXc.world can choose to see Top Cha
 `Total Blu Ups + Sol Ups` ranking is used when we send out emails and updates about current music trends. It's the default for everything *except* PURPLE rewards. 
 
 
-# PURPLE Rewards + Top 64 Charts
+# PURPLE Rewards + Top 64 Charts 🌎🟣
 
 The Top 64 Charts used to reward creators in PURPLE use `Only Sol Ups` to determine who gets rewarded. 
 
-> Linear rewards are used where #1 gets 64 times what #64 gets.
+> Linear rewards are used where #1 gets 64 times what #64 gets 1.
 
 Using `Only Sol Ups` gives PURPLE rewards a more democratic nature, as no one can buy SOL (unlike BLUX). 
 
@@ -53,7 +53,7 @@ Also, because cXc executes the Sol Up actions on-chain (unlike BLUX) we can have
 We'll keep a record on how much each account is owed using the Youtube video's account information. Later, when they create an account, they will be able to claim all the PURPLE owed to them automatically by connecting the youtube account to their WAX account, used as cXc.world login. 
 
 
-# BLUX Value Beyond Charts
+# BLUX Value Beyond Charts 🧠🔮🧙‍♂️
 
 BLUX gives you the same exposure for people looking at the map. With this boost in exposure, good music should attract more Sol Ups, which in turn earns more 🔵 BLUX. So good music has a good ROI using 🔵 BLUX, subjectively bad music = bad ROI. 
 
