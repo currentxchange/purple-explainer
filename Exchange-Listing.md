@@ -1,7 +1,7 @@
 # PURPLE Exchange Listing April 17, 2021
 
 # Overview
-PURPLE's initial release starts **April 17, 2021** on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) and [Newdex](https://newdex.io). **You may place buy orders now.**
+PURPLE's initial release starts **April 17, 2021** on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) **You may place buy orders now.**
 
 
 Because of the very limited supply of PURPLE, ascending price sell orders will be used to ensure that hoarding doesn't happen, so everyone has a chance to acquire the PURPLE they need to benefit fully from cXc.world.  
@@ -19,8 +19,10 @@ Furthermore, **PURPLE** need only be unstaked for the holder to receive back the
 ## Today Musicians, Tomorrow All
 PURPLE has a unique utility for musicians as **cXc Music** is the first [**cXc.world**](https://cxc.world) mapp, but this utility will expand to all creators and creative collectives when **cXc Video**, **cXc Photo**, **cXc Scribe**, **cXc Art** + more mapps are available.  
 
-# IEO Sell Orders.
-On 4/17/2021, 1/12th of the 1/12 Max Supply to be sold will be listed with pricing starting at **20 WAX** per PURPLE. 
+# Initial Sell Orders
+Starting 4/17/2021, 1/12th of the 1/12 Max Supply to be sold will be listed with pricing starting at **20 WAX** per PURPLE. 
+
+These sell orders will be listed one at a time, with one week wait after one exhausts before the next will be offered. 
 
 > Tokens for Sale: 1/12 Max Supply or 12<sub>6</sub> (2,985,984), issued + offered 12<sub>5</sub> (248,832) at a time. Here's how we'll price the April 17th tokens.
 
@@ -53,7 +55,7 @@ It's easy to see that PURPLE's later sell orders go up rapidly in price. This is
 
 
 # Liquidity Promise
-Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less than **500,000 WAX** will serve as liquidity on Newdex and Alcor exchanges and Alcor's DeFi swap.
+Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less than **500,000 WAX** will serve as liquidity on Alcor exchanges and DeFi swap.
 
 
 # Founder Pay Promise  
