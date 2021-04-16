@@ -3,13 +3,13 @@
 </p>
 
 # 🟣 PURPLE
-[🟣 PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) is the [WAX](https://wax.io/) blockchain token at the center of Purple running on cXc.world.
+[🟣 PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple) is the [WAX](https://wax.io/) blockchain token at the center of Purple and cXc.world.
 
 # Functionality
-PURPLE can be **staked for NFTs** that enable special powers or privileges on cXc.world. PURPLE works across mapps, starting with [cXc Music](music.cXc.world)
+PURPLE can be **staked for NFTs** that enable special powers, Ups, BLUX or privileges on cXc.world. PURPLE works across mapps, starting with [cXc Music](music.cXc.world). Currently, [Everstones](Everstones.md) are the only announced function of PURPLE. 
 
 # Supply of 🟣 PURPLE
-[🟣 PURPLE](https://wax.bloks.io/account/dplug4purple) has an [**unchangeable maximum supply**](https://wax.bloks.io/transaction/2e9499407094dbcd521f7c7b012d3a38a20fc847707a0f6e90f4e7164dd95ea5) of 12<sup>7</sup> (**35,831,808**) PURPLE tokens, comparable with bitcoin (21,000,000) in terms of scarcity.
+[🟣 PURPLE](https://wax.bloks.io/account/purplepurple) has a [**maximum supply**](https://wax.bloks.io/transaction/2e9499407094dbcd521f7c7b012d3a38a20fc847707a0f6e90f4e7164dd95ea5) of 12<sup>7</sup> (**35,831,808**) PURPLE tokens, comparable with bitcoin (21,000,000) in terms of scarcity.
 
 > The [circulating supply](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple) of PURPLE is much smaller, currently well under one million.
 
@@ -17,10 +17,7 @@ PURPLE can be **staked for NFTs** that enable special powers or privileges on cX
 
 
 # 🟣 PURPLE on cXc.world
-PURPLE is given to artists that make the Top Music charts for time periods one day or greater.  
-
-PURPLE is also supplied to the BLU / PRP **Time-Pooling Exchange** (coming after verification).
-
+PURPLE is given to artists that make the Top 64 global daily charts.   
 
 ## Chart Rewards
 Artists are **rewarded in PURPLE for reaching the top of local and global charts.** The creators fund pays 288 PURPLE per day (1 PURPLE / TU), budgeted for 9+ years.
@@ -35,9 +32,9 @@ Artists are **rewarded in PURPLE for reaching the top of local and global charts
 
 # Staking PURPLE with Everstone NFTs
 
-> Staking PURPLE works by attaching PURPLE to an Everstone NFT.
+> Staking PURPLE works by attaching PURPLE to an [Everstone NFT](Everstones.md).
 
-Instead of a % return over time, staked PURPLE enables periodic **Ups over time** on content on cXc Music apps.
+Instead of a % return over time, staked PURPLE enables daily **Blu Ups over time** on content on cXc Music apps. 
 
 
 ## The True Value of an Everstone
@@ -57,9 +54,9 @@ This NFT is called an **Everstone**. *Yes, like the one you gave your [Pikachu](
 # Everstone NFTs
 **Everstones, forged by staking PURPLE, keep content alive on the cxc.world map forever.**
 
-After a 24 hour wait period, the content indicated on the NFT will receive an Up from the Everstone, represented using the Everstone's ID instead of a usual WAX account id.
+After a 24 hour wait period, the content indicated on the NFT will receive an Up from the Everstone, represented using the Everstone's ID instead of a usual WAX account id. 
 
-Unlike BLUx Ups, Ups from Everstones are **included in the main chart rankings** used to reward content creators for appearing on the Top Charts. 
+> Everstones send BLUX / Blu Ups so they are included in the default [Top Charts](Top-Charts), but not for Top 64 rewards.  
 
 
 # 🟣 Budget Brief (Fraction of Total Supply)
@@ -73,16 +70,36 @@ Unlike BLUx Ups, Ups from Everstones are **included in the main chart rankings**
 
 
 # 🟣 PURPLE Direct Listing
-PURPLE will be released on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) and Newdex on April 17, 2021. **You may place buy orders now.** For more information, go [here](Exchange-Listing.md).
+PURPLE will be released on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) on April 17, 2021 with 3,190 tokens available at 20 WAX each. For more information, see [Exchange-Listing.md](Exchange-Listing.md).
 
 ## Minted (Fractions are of Max Supply)
-- 1/144 (248,832) Direct Listed on Exchanges (Alcor + Newdex) [dplug4purple](https://wax.bloks.io/account/dplug4purple)
+- 1/144 (248,832) Direct Listed on Exchanges (Alcor) [dplug4purple](https://wax.bloks.io/account/dplug4purple)
 - 100,000 to Promo account [thx4dapurple](https://wax.bloks.io/account/thx4dapurple)
 - 100,000 for Team + Freelance work [currentxchng](https://wax.bloks.io/account/currentxchng)
 - 29,859 Founder Pay 2021 [godsolislove](https://wax.bloks.io/account/godsolislove)
 
+
+# Founder Pay Promise  
+Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by incremental % starting at 1%. All values in PURPLE and rounded.
+
+2021 = 1% = 29,859  
+2022 = 2% = 59,719  
+2023 = 3% = 89,580  
+2024 = 4% = 119,439  
+2025 = 5% = 149,299  
+2026 = 6% = 179,159  
+2027 = 7% = 209,018  
+2028 = 8% = 238,878  
+2029 = 9% = 268,738  
+2030 = 10% = 298,598  
+2031 = 11% = 328,458  
+2032 = 12% = 358,318  
+2033 = 13% = 388,177  
+2034 = <14% = 268,738 (Remaining balance)
+
+
 ## To Be Minted
-- 11/144 (2,737,152) Direct Listed on Exchanges (Alcor + Newdex)  [dplug4purple](https://wax.bloks.io/account/dplug4purple)  
+- 11/144 (2,737,152) Direct Listed on Exchanges (Alcor)  [dplug4purple](https://wax.bloks.io/account/dplug4purple)  
 - 4/12 (11,943,936) to Creators funds, approx 1 million per dapp, starting with cXc Music [creatorsfund](https://wax.bloks.io/account/thx4dapurple)
 - 2,885,984 to future promotion budget [thx4dapurple](https://wax.bloks.io/account/thx4dapurple)  
 - 1/12 (2,985,984) to founder, distributed over 14 years by incremental % starting at 1% (2021 = 1% [29,859], 2022 = 2% [59,719]...)  
