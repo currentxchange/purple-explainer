@@ -12,7 +12,6 @@ The more PURPLE an Everstone holds, the more efficient it becomes.
 
 # Everstone Harvest Levels + Rewards
 
-<p align="center">
 | 🟣 PURPLE staked  | Daily Reward in Blu Ups or BLUX | Everstone Efficiency |
 | :----:  | :-------------------: | :---------------: |
 | 1         | 1                   | 100%            | 
@@ -24,7 +23,7 @@ The more PURPLE an Everstone holds, the more efficient it becomes.
 | 16        | 48                  | 300%            | 
 | 32        | 144                 | 450%            | 
 | 64        | 432                 | 675%         🧠 | 
-</p>
+
 
 ## Everstone Rarity
 Everstones are released at a slow but steady pace. How we decide to do this, we have not yet determined. Everstones are sold for face value at market sell price of PURPLE. 
