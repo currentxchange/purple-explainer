@@ -42,9 +42,6 @@ Price ~ # PURPLE Available (rounded)
 36 WAX ~ 38,280 🟣  
 
 
-> Prices subject to change / adjust with current WAX price.
-
-
 # Liquidity Promise
 Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less than **500,000 WAX** will serve as liquidity on Alcor exchanges and DeFi swap.
 
