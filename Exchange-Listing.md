@@ -4,17 +4,17 @@
 PURPLE's initial release starts **April 17, 2021** on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) **You may place buy orders now.**
 
 
-Because of the very limited supply of PURPLE, ascending price sell orders will be used to ensure that hoarding doesn't happen, so everyone has a chance to acquire the PURPLE they need to benefit fully from cXc.world.  
+Because of the very limited supply of PURPLE, ascending price, time-limited sell orders will be used to ensure that hoarding doesn't happen, so everyone has a chance to acquire the PURPLE they need to benefit fully from cXc.world.  
 
 
 > BLUx is also listed on [Alcor](https://wax.alcor.exchange/trade/blux-bluxbluxblux_wax-eosio.token)
 
-# Functionality: Digital Advertising Gold
+# Utility: Digital Advertising Gold
 > What can you do with PURPLE?
 
 **PURPLE** can be staked for daily Ups to a piece of content; a rare form of digital advertising purchase that allows someone to buy once and hold **continual attention** for all of time. This attention means huge value, particularly to independent creators and creative organizations such as labels and artist collectives.
 
-Furthermore, **PURPLE** need only be unstaked for the holder to receive back the same amount of tokens. This means an artist can advertise their art and meanwhile hold something of increasing utility as each future cXc.world mapp is released.
+Furthermore, **PURPLE** need only be [unstaked](Everstones.md) for the holder to receive back the same amount of tokens. This means an artist can advertise their art and meanwhile hold something of increasing utility as each future cXc.world mapp is released.
 
 ## Today Musicians, Tomorrow All
 PURPLE has a unique utility for musicians as **cXc Music** is the first [**cXc.world**](https://cxc.world) mapp, but this utility will expand to all creators and creative collectives when **cXc Video**, **cXc Photo**, **cXc Scribe**, **cXc Art** + more mapps are available.  
@@ -22,9 +22,9 @@ PURPLE has a unique utility for musicians as **cXc Music** is the first [**cXc.w
 # Initial Sell Orders
 Starting 4/17/2021, 1/12th of the 1/12 Max Supply to be sold will be listed with pricing starting at **20 WAX** per PURPLE. 
 
-These sell orders will be listed one at a time, with one week wait after one exhausts before the next will be offered. 
+These sell orders will be offered one at a time, with one week gap between each listing starting after the listing's completion. 
 
-> Tokens for Sale: 1/12 Max Supply or 12<sub>6</sub> (2,985,984), issued + offered 12<sub>5</sub> (248,832) at a time. Here's how we'll price the April 17th tokens.
+> Tokens for Sale: 1/12 Max Supply or 12<sup>6</sup> (2,985,984), issued + offered 12<sup>5</sup> (248,832) at a time. Here's how we'll price the April 17th tokens.
 
 Price ~ # PURPLE Available (rounded)
 
@@ -44,43 +44,15 @@ Price ~ # PURPLE Available (rounded)
 
 > Prices subject to change / adjust with current WAX price.
 
-## Pricing Rationale
-It's easy to see that PURPLE's later sell orders go up rapidly in price. This is to ensure:
-
-1. Creators on cXc.world may find easier liquidity by undercutting our market orders.
-
-3. If large players in the music industry see high utility in PURPLE and want to buy as much as they can, they will run into **exponentially scaling economic barriers** after they eat up all the creator's sell orders. This ensures no shadowy interests will get to control what content appears on the map, and if they try, they will simply be paying creators handsomely, whom will likely be able to create better content with their earnings.
-
-> For perspective, the highest price of the final sell order equates to around 33,177 USD at current WAX rates (0.08), which would make the PURPLE market cap almost exactly the current bitcoin market cap at the current price (56,840). So although it seems astronomical, this amount has been proven to be acceptable for market valuation of a cryptocurrency.
-
 
 # Liquidity Promise
 Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less than **500,000 WAX** will serve as liquidity on Alcor exchanges and DeFi swap.
 
 
-# Founder Pay Promise  
-Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by incremental % starting at 1%. All values in PURPLE and rounded.
-
-2021 = 1% = 29,859  
-2022 = 2% = 59,719  
-2023 = 3% = 89,580  
-2024 = 4% = 119,439  
-2025 = 5% = 149,299  
-2026 = 6% = 179,159  
-2027 = 7% = 209,018  
-2028 = 8% = 238,878  
-2029 = 9% = 268,738  
-2030 = 10% = 298,598  
-2031 = 11% = 328,458  
-2032 = 12% = 358,318  
-2033 = 13% = 388,177  
-2034 = <14% = 268,738 (Remaining balance)
-
-
 # Proceeds
-Funds will be used to pay for all end-user transactions on cXc.world, and also purchase RAM for accounts who receive our NFTs.  
+WAX earned will be used to pay for all end-user transactions on cXc.world, and also purchase RAM for accounts who receive our NFTs.  
 
-Remaining Proceeds from direct listing will go towards development of cXc.world, including the final 1.0.0 release of cXc Music, native mobile apps, and the creation of other cXc.world [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) like cXc Video, cXc Art, cXc Ideas, cXc Pueblo and more. Funds will also pay for all other cXc operational costs, employees, promotion, events, etc.
+Remaining Proceeds from direct listing will go towards development of cXc.world, including the final 1.0.0 release of cXc Music, native mobile apps, and the creation of other cXc.world [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) like cXc Video, cXc Art, cXc Ideas, cXc Pueblo and more. Funds will also pay for all other cXc operational costs, employees, promotion, events, etc. cXc will publish an updating list of expenses with corresponding 
 
 
 cXc spending transactions are inherently transparent and can be tracked here: [dplug4purple](https://wax.bloks.io/account/dplug4purple) and here [currentxchng](https://wax.bloks.io/account/currentxchng).
