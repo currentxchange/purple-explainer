@@ -4,7 +4,7 @@
 PURPLE's initial release starts **April 17, 2021** on [Alcor](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) **You may place buy orders now.**  
 
 
-Because of the very limited supply of PURPLE, ascending pricing + time-limited sell orders will be used to ensure that everyone has a chance to acquire the PURPLE they need to benefit fully from cXc.world.  
+Because of the very limited supply of PURPLE, ascending pricing + time-limited sell orders will be used to ensure that everyone has a chance to acquire the PURPLE they need to benefit fully from cXc.world. There are no per-account limits on purchases.  
 
 
 > BLUx is also listed on [Alcor](https://wax.alcor.exchange/trade/blux-bluxbluxblux_wax-eosio.token)
@@ -43,7 +43,7 @@ These sell orders will be offered one at a time, with a one week gap between eac
 
 
 # Liquidity Promise
-Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less than **500,000 WAX** will serve as liquidity on Alcor exchanges and DeFi swap.
+Of the first **1,000,000 WAX** raised by the direct listing of PURPLE, no less than **500,000 WAX** will serve as liquidity on Alcor exchange and DeFi swap.
 
 
 # Proceeds
