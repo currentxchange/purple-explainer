@@ -26,20 +26,20 @@ These sell orders will be offered one at a time, with one week gap between each 
 
 > Tokens for Sale: 1/12 Max Supply or 12<sup>6</sup> (2,985,984), issued + offered 12<sup>5</sup> (248,832) at a time. Here's how we'll price the April 17th tokens.
 
-Price ~ # PURPLE Available (rounded)
-
-20 WAX ~ 3,190 🟣  
-21 WAX ~ 6,380 🟣  
-22 WAX ~ 9,570 🟣  
-23 WAX ~ 12,760 🟣  
-24 WAX ~ 15,950 🟣  
-25 WAX ~ 19,140 🟣  
-26 WAX ~ 22,330 🟣  
-27 WAX ~ 25,520 🟣  
-28 WAX ~ 28,710 🟣  
-29 WAX ~ 31,900 🟣  
-33 WAX ~ 35,090 🟣  
-36 WAX ~ 38,280 🟣  
+| Price  | 🟣 PURPLE Available | 
+| :----:  | :-------------------: |
+|20 WAX | 3,190   |
+|21 WAX | 6,380   |
+|22 WAX | 9,570   |
+|23 WAX | 12,760   |
+|24 WAX | 15,950   |
+|25 WAX | 19,140   |
+|26 WAX | 22,330   |
+|27 WAX | 25,520   |
+|28 WAX | 28,710 |
+|29 WAX | 31,900   |
+|33 WAX | 35,090   |
+|36 WAX | 38,280   |
 
 
 # Liquidity Promise
