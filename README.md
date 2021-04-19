@@ -146,9 +146,9 @@ If you prefer to be responsible for your private keys, any EOSIO wallet can hold
 
 # Buy PURPLE
 ## Acquire PURPLE with WAX
-WAX can be traded directly on the exchanges [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) and Newdex starting April 17, 2021.
+WAX can be traded directly on [Alcor.exchange](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) starting April 17, 2021.
 
-> Alcor has 0 transaction fees, Newdex has higher trading volume.
+> Alcor has 0 transaction fees
 
 1. Visit the desired exchange
 2. Switch to "WAX" blockchain
@@ -177,6 +177,46 @@ Participating in the direct listing requires that you adhere and agree to the re
 
 *As this is pre-beta, consider all elements subject to modifications except the total supply of tokens, founder pay, and liquidity promise*
 
-# (cXc) [Roadmap](Roadmap.md) 🛣️
 
-### Find all cXc links in the pinned message on our [Telegram](https://t.me/joinchat/RcfWf3iGr-XEl08B)
+- - - - - - - - - - - - - - - - - - - - - - - -
+## 💥 FIND OUT MORE ABOUT [cXc](https://cXc.world) 💥
+- - - - - - - - - - - - - - - - - - - - - - - -
+
+Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our media Mapps are just the start. As we refine Purple, we also seek to redefine what it means to come together as humans and co-create. We hope you'll enjoy the tools already here, and are infinitely stoked for what the future holds. 
+
+## 🗺️ Experience [cXc.world 🌎](https://currentxchange.com/vision)
+
+## 👁️ Step into our [vision](https://currentxchange.com/vision)
+
+## 🎥  [Add Music to cXc.world](https://www.youtube.com/watch?v=7NCaG2ZPHOQ)
+
+## 💸 Get to know our [Economy](https://github.com/currentxchange/purple-explainer)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - 
+# Follow cXc on Social Media 📱🌎
+- - - - - - - - - - - - - - - - - - - - - - -
+
+
+- [🖼️ Instagram](instagram.com/cxc.world)
+
+- [🐦 Twitter](twitter.com/currentxchange)
+
+- [📺 YouTube](youtube.com/channel/UCBjTUosp2R_FN6AFdHV-v-Q)
+
+- [🐝 Hive](peakd.com/@currentxchange)
+
+- **[🏘️ Hive Community](https://peakd.com/c/hive-179421)** 
+
+- **[🔑 Discord Musician Community](https://discord.gg/4fhWgZ5R5s)** (Collab channels + more) 
+
+- [🔺 Reddit](https://www.reddit.com/r/cXcMusic) 
+
+- [✈️ Telegram](https://t.me/joinchat/RcfWf3iGr-XEl08B)
+
+- [🌊 Wavvy Music Accolades](https://medium.com/wavvys) (NFT Music Awards)
+
+
+What are BLUx and PURPLE? Find out in our [Purple Explainer](https://github.com/currentxchange/purple-explainer)
+
+## (cXc) [Roadmap 🛣️ ](https://github.com/currentxchange/purple-explainer/blob/master/Roadmap.md)
