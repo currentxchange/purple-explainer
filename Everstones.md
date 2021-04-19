@@ -44,10 +44,16 @@ Once a day, we check how much PURPLE is staked on each Everstone, and if it's ov
 ## Everstone Art
 Each row in the "Everstone Harvest Levels + Rewards" table above has it's own art, description, and rarity that updates during the daily check (only if you stake more PURPLE). This art is TBA. 
 
-## Staking + Unstaking PURPLE from Everstones
-Everstones will automatically send back exact amount of PURPLE staked when burnt. If an Everstone is transfered and then burned, the owner at the time of burning will receive all PURPLE backed on the Everstone.
 
-Staking an Everstone is done by transfering PURPLE to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone NFT ID (ex 100000005145313) 
+# Staking
+
+## Staking PURPLE to an Everstone
+Staking an Everstone is done via a `transfer` of PURPLE or BLUX to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313) 
+
+
+## Unstaking from Everstones
+Everstones will automatically return all tokens staked when burned. If an Everstone is transferred and then burned, the owner at the time of burning will receive all tokens backed on the Everstone.
+
 
 
 # Tech + Contracts 🔌
