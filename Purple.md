@@ -17,12 +17,14 @@ PURPLE can be **staked for NFTs** that enable special powers, Ups, BLUX or privi
 
 
 # 🟣 PURPLE on cXc.world
-PURPLE is given to artists that make the Top 64 global daily charts.   
+PURPLE is given to artists that make the [Top 64 global daily charts](Top-Charts.md).   
 
 ## Chart Rewards
-Artists are **rewarded in PURPLE for reaching the top of local and global charts.** The creators fund pays 288 PURPLE per day (1 PURPLE / TU), budgeted for 9+ years.
+Artists are **rewarded in PURPLE for reaching the top of local and global charts.** The creators fund pays 288 PURPLE per day (1 PURPLE / TU), budgeted for 11,943,936.
 
->The the reward pool is this size, not bigger, to budget for each upcoming cXc.world, roughly 1,000,000 PURPLE for each upcoming mapp. 
+## Creators Fund Size in Perspective
+
+11,943,936 PURPLE is allocated to the creators fund. The fund Rewards about 105,120 PURPLE per mapp per year (288 x 365) so this budget will last approximately 100 years for one cXc.world app, or 10 years for 10 cXc.world apps 
 
 <p align="center"><a href="https://music.cxc.world" target="_blank" alt="Experience cXc Music">
   <img width="100%" height="auto" src="https://github.com/currentxchange/purple-explainer/blob/master/Images/Top-Charts-Beta.png"></a>
@@ -111,7 +113,7 @@ Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by increm
 
 # Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
 
-> Please note: Everstones are not scheduled for the first release of cXc Music Beta (0.2.0) on April 17, 2021. See [roadmap](Roadmap.md).
+> Please note: Everstones are not scheduled for the release date of cXc.world Beta. See [roadmap](Roadmap.md).
 
 
 >To learn more about the economics of cXc.world apps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) and [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and to see the first cXc.world mapp, cXc Music, visit [cXc.world](https://music.cxc.world)
