@@ -8,7 +8,8 @@
 :heavy_check_mark: cXc.world Gold Version - Hive -> Wax transition begins 
 :heavy_check_mark: Purple Explainer on Github  
 :heavy_check_mark: BLUx Launched  
-- [ ] PURPLE [Launched](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) (April 17th)  
+:heavy_check_mark: PURPLE token [Launched](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token)
+- [ ] Beta Bash (Invite + Rewards in 🔵 BLUX)
 - [ ] cXc.world Beta with Ups + BLUx rewards 
 - [ ] Messenger Program
 - [ ] [National + Local Top Charts](Images/Top-Charts-Beta.png) Rewards 🟣 Go Live 
