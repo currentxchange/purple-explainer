@@ -5,8 +5,6 @@ This brief highlights key numbers and concepts in the Purple Economy in one plac
 
 # 🟣 PURPLE Economic Brief
 
-ℹ️ PURPLE will be offered directly on Alcor Exchange and Newdex starting April 17, 2021.
-
 ## Tech
 `eosio.token`-based [purplepurple](https://wax.bloks.io/account/purplepurple) on WAX blockchain
 
@@ -31,12 +29,12 @@ PURPLE will be used across all current + future [cXc.world](https://cxc.world) m
 
 We will issue 105,120 per year for the Artist Rewards pool (365 x 288)
 
-## Here's the prices of April 17th sell orders
+## Here's the prices of our first sell orders
 
 Price ~ # PURPLE Available (rounded)
 
-20 WAX ~ 3,190 🟣  
-21 WAX ~ 6,380 🟣  
+20 WAX ~ 3,190 🟣  (Currently Active)
+21 WAX ~ 6,380 🟣  (TBA)
 22 WAX ~ 9,570 🟣  
 23 WAX ~ 12,760 🟣  
 24 WAX ~ 15,950 🟣  
@@ -76,9 +74,9 @@ ___
 ## Utility
 🔵 BLUx is a reward given to creators that receive 1 Up on a piece of content they created. Guardian and Changer roles can also earn BLUx. 
 
-1 BLUx can be spent to make 1 Blu Up. Ups make content appear bigger on the mapp, and higher on the charts. BLUx is indivisible.
+1 BLUx can be spent to make 1 Blu Up. Ups make content appear bigger on the mapp, and higher on the [charts](Top-Charts.md). BLUx is indivisible.
 
-Because SOL is limited, BLUx is the only way to Up a piece of content more than 288 times on one day. 
+Because SOL is limited, BLUx is the only way to Up a piece of content more than 288 times in one day. 
 
 
 ## Max Supply = Max Possible on EOSIO (2<sup>64</sup>-1) 🔵 BLUx
@@ -91,7 +89,7 @@ We will issue up to 5,500,000 BLUx during the promotion of [cXc.world](https://c
 
 Additionally, 1 BLUx is issued to be paid to artists for each Sol Up they receive  (batch pre-issued 1,000,000 at a time)
 
-*[1,100,000 Circulating 🔵 BLUx](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux)*
+# *[1,100,000 Circulating 🔵 BLUx](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux)*
 
 
 **We will not issue any further BLUx until rewards systems are in place.**
@@ -116,4 +114,4 @@ ___
 
 **There is no trading of SOL.**
 
-> Please Note: Staking PURPLE will not be available on April 17th, see [roadmap](Roadmap.md).
+> Please Note: Staking PURPLE will be added after Beta is released. See [roadmap](Roadmap.md).
