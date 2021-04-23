@@ -82,8 +82,8 @@ Because SOL is limited, BLUx is the only way to Up a piece of content more than 
 ## Max Supply = Max Possible on EOSIO (2<sup>64</sup>-1) 🔵 BLUx
 
 ## Here's exactly how many BLUx have been issued.
-1,000,000 🔵 - Promo Budget  
-100,000 🔵 - Liquidity pools
+2,000,000 🔵 - Promo Budget  
+200,000 🔵 - Liquidity pools
 
 We will issue up to 5,500,000 BLUx during the promotion of [cXc.world](https://cxc.world) Beta, 5,000,000 for promotion and 500,000 for liquidity. Also, we may add leftover Promo budget to liquidity pools.
 
