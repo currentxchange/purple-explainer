@@ -42,13 +42,13 @@ Everstones store info on whether the owner wants BLUX or Blu Ups, and if Blu Ups
 Once a day, we check how much PURPLE is staked on each Everstone, and if it's over 1, we distribute the owed Blu Ups or BLUX. There are no fractional Ups or BLUX, so rounding down to each level is used to calculate the rewards. For example, if you had 64 or 67 PURPLE staked to one Everstone, both would give 432 Blu Ups per day. We plan to provide a UI to help you avoid over-staking.
 
 ## Everstone Art
-Each row in the "Everstone Harvest Levels + Rewards" table above has it's own art, description, and rarity that updates during the daily check (only if you stake more PURPLE). This art is TBA. 
+Each row in the "Everstone Harvest Levels + Rewards" table above has it's own art, description, and rarity that updates during the daily check (only if you stake more PURPLE). This art is unreleased. 
 
 
 # Staking
 
 ## Staking PURPLE to an Everstone
-Staking an Everstone is done via a `transfer` of PURPLE or BLUX to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313) 
+Staking an Everstone is done via a `transfer` of PURPLE or BLUX to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313). This will be available through the UI of cXc.world. **If doing this manually, The nft must be registered before `transfer` with [simplebacked => tokenprep](https://wax.bloks.io/account/simplebacked?loadContract=true&tab=Actions&account=simplebacked&scope=simplebacked&limit=100&action=tokenprep) or it will fail**
 
 
 ## Unstaking from Everstones
@@ -64,4 +64,4 @@ Everstones are Simple Assets NFT backed in Purple on a [simpleassets](https://wa
 
 
 
-> Please note: We are still developing this feature and it probably will not be available on Beta's launch. Everstone's PURPLE-backing contract has been tested and is working as described above. Still, consider elements subject to change.
+> Please note: Everstone's PURPLE-backing contract has been tested and is working as described above. Still, consider elements subject to change. Release date unnannounced, but will come after Bets release. See [Roadmap.md](Roadmap.md)
