@@ -20,7 +20,7 @@ PURPLE can be **staked for NFTs** that enable special powers, Ups, BLUX or privi
 PURPLE is given to artists that make the [Top 64 global daily charts](Top-Charts.md).   
 
 ## Chart Rewards
-Artists are **rewarded in PURPLE for reaching the top of local and global charts.** The creators fund pays 288 PURPLE per day (1 PURPLE / TU), budgeted for 11,943,936.
+Artists are **rewarded in PURPLE for reaching the top of local and global charts.** The creators fund pays 288 PURPLE per day (1 PURPLE / TU), budgeted for 1/3 Max Supply of PURPLE (11,943,936)
 
 ## Creators Fund Size in Perspective
 
@@ -44,7 +44,7 @@ Instead of a % return over time, staked PURPLE enables daily **Blu Ups over time
 
 *Staking = Ups every day = Music is always on the map = Exposure*
 
-Thus, creators who want their music to be heard have a huge **incentive for long-term staking**, as do superfans who want to help local acts become international sensations.
+Thus, creators who want their music to be heard have an **incentive for long-term staking**, as do superfans who want to help local acts become international sensations.
 
 > An everstone will ensure any one piece of content will **show up on the map and on daily charts forever**.
 
@@ -113,7 +113,7 @@ Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by increm
 
 # Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
 
-> Please note: Everstones are not scheduled for the release date of cXc.world Beta. See [roadmap](Roadmap.md).
+> Please note: Everstones are scheduled for after the release date of cXc.world Beta. See [roadmap](Roadmap.md).
 
 
 >To learn more about the economics of cXc.world apps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) and [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and to see the first cXc.world mapp, cXc Music, visit [cXc.world](https://music.cxc.world)
