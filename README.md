@@ -217,6 +217,4 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 - [🌊 Wavvy Music Accolades](https://medium.com/wavvys) (NFT Music Awards)
 
 
-What are BLUx and PURPLE? Find out in our [Purple Explainer](https://github.com/currentxchange/purple-explainer)
-
 ## (cXc) [Roadmap 🛣️ ](https://github.com/currentxchange/purple-explainer/blob/master/Roadmap.md)
