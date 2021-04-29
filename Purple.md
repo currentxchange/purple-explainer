@@ -21,7 +21,7 @@ PURPLE can be **staked for NFTs** that enable special powers, Ups, BLUX or privi
 PURPLE is given to artists that make the [Top 64 global daily charts](Top-Charts.md).   
 
 ## Chart Rewards
-Artists are **rewarded in PURPLE for reaching the top of local and global charts.** The creators fund pays 288 PURPLE per day (1 PURPLE / TU), budgeted for 1/3 Max Supply of PURPLE (11,943,936)
+Artists are **rewarded in PURPLE for reaching the top of local and global charts.** The creators fund pays 288 PURPLE per day (1 PURPLE / 5 minutes), budgeted for 1/3 Max Supply of PURPLE (11,943,936)
 
 ## Creators Fund Size in Perspective
 
