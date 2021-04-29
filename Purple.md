@@ -16,6 +16,7 @@ PURPLE can be **staked for NFTs** that enable special powers, Ups, BLUX or privi
 *There is no inflation, but burned PURPLE may be re-issued.*
 
 
+
 # 🟣 PURPLE on cXc.world
 PURPLE is given to artists that make the [Top 64 global daily charts](Top-Charts.md).   
 
@@ -80,6 +81,8 @@ PURPLE will be released on [Alcor](https://wax.alcor.exchange/trade/purple-purpl
 - 100,000 for Team + Freelance work [currentxchng](https://wax.bloks.io/account/currentxchng)
 - 29,859 Founder Pay 2021 [godsolislove](https://wax.bloks.io/account/godsolislove)
 
+
+# *[478,691 Circulating 🟣 PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)*
 
 # Founder Pay Promise  
 Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by incremental % starting at 1%. All values in PURPLE and rounded.
