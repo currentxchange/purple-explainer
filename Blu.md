@@ -14,7 +14,7 @@ All cXc.world users can earn Blu for qualified actions, including posting origin
 BLU and BLUx are **burned for Blu Ups**. This form of Ups is recorded separately than Sol Ups, but both are combined to rank charts and determine what music shows up on cXc.world.
 
 # Earning 🔵 Blu
-BLU/BLUx is paid (1:1) to creators when they earn an Up. cXc Music (music.cXc.world) uses the **Google account of the Youtube video*** to determine which account to pay. A creator MUST link their Google account to their WAX account on-site to receive this payment, and MUST have a youtube video.
+BLU/BLUx is paid (1:1) to creators when they earn a Sol Up. cXc Music (music.cXc.world) uses the **Google account of the Youtube video*** to determine which account to pay. A creator MUST link their Google account to their WAX account on-site to receive this payment, and MUST have a youtube video.
 
 BLU is also given for completing role-specific actions, as described in the [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
 
