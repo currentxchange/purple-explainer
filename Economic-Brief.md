@@ -76,7 +76,7 @@ ___
 
 1 BLUx can be spent to make 1 Blu Up. Ups make content appear bigger on the mapp, and higher on the [charts](Top-Charts.md). BLUx is indivisible.
 
-Because SOL is limited, BLUx is the only way to Up a piece of content more than 288 times in one day. 
+Because SOL is limited, BLUx is the only way to Up a single or multiple pieces of content more than 288 times in one day (cumulative). 
 
 
 ## Max Supply = Max Possible on EOSIO (2<sup>64</sup>-1) 🔵 BLUx
@@ -89,7 +89,7 @@ We will issue up to 5,500,000 BLUx during the promotion of [cXc.world](https://c
 
 Additionally, 1 BLUx is issued to be paid to artists for each Sol Up they receive  (batch pre-issued 1,000,000 at a time)
 
-# *[1,100,000 Circulating 🔵 BLUx](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux)*
+# *[2,200,000 Circulating 🔵 BLUx](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux)*
 
 
 **We will not issue any further BLUx until rewards systems are in place.**
@@ -108,7 +108,7 @@ ___
 
 ## Utility
 
-☀️ SOL is spendable 1:1 for Sol Ups on [cXc.world](https://cxc.world). SOL is freely given, but cannot be bought, sold, or traded, and each user can hold up to 288 SOL at a time. SOL is indivisible.
+☀️ SOL is spendable 1:1 for Sol Ups on [cXc.world](https://cxc.world). SOL is freely given, but cannot be bought, sold, or traded, and each user can hold up to 288 SOL at a time. A user can receive up to 288 SOL per day. SOL is indivisible.
 
 ## Max Supply = Max Possible on EOSIO (2<sup>64</sup>-1) ☀️ SOL
 
