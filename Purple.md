@@ -112,6 +112,13 @@ Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by increm
 
 - Unallocated PURPLE will be issued as needed for rewards / scholarships / promotion of future cXc.world mapps, pay for future team members, fundraising, or other reasons TBD.
 
+# Add PURPLE to any Wallet 
+PURPLE
+purplepurple
+8 Decimals 
+Image: https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/purple.png
+
+
 # Buy 🟣 PURPLE on [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token)
 
 # Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
