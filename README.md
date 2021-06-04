@@ -92,7 +92,7 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autofo
 
 > All pre-beta Ups will be transitioned, so artists will get paid in BLUX for Ups happening now in Gold Version. 
 
-> Note: We have temporarily removed Hive integration until WAX transition is complete to avoid confusion. 
+> Note: We have temporarily removed Hive integration from cXc.world until WAX transition is complete to avoid confusion. 
 
 🧠🗺️ Discover how Mapps work and what Mapps we've got planned in our [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
 
@@ -179,7 +179,7 @@ Participating in the direct listing requires that you adhere and agree to the re
 
 
 - - - - - - - - - - - - - - - - - - - - - - - -
-## 💥 FIND OUT MORE ABOUT [cXc](https://cXc.world) 💥
+## 💥 FIND OUT MORE ABOUT [cXc](https://currentxchange.com) 💥
 - - - - - - - - - - - - - - - - - - - - - - - -
 
 Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our media Mapps are just the start. As we refine Purple, we also seek to redefine what it means to come together as humans and co-create. We hope you'll enjoy the tools already here, and are infinitely stoked for what the future holds. 
