@@ -88,7 +88,7 @@ Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](
 </p>
 
 # cXc History
-cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autoformat  music posts on blogs. Alpha had time-limited Ups, but not on-chain. After two minor releases (Silver Edition [2019] + Gold Version [2020]), the upcoming Beta release will enable the Purple Economy fully on WAX starting with the release of PURPLE on April 17, 2021.
+cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autoformat  music posts on these blogs. Alpha had time-limited Ups, but not on-chain. After two minor releases (Silver Edition [2019] + Gold Version [2020]), the upcoming Beta release will enable the Purple Economy fully on WAX. [Roadmap 🛣️ ](https://github.com/currentxchange/purple-explainer/blob/master/Roadmap.md)
 
 > All pre-beta Ups will be transitioned, so artists will get paid in BLUX for Ups happening now in Gold Version. 
 
@@ -146,7 +146,7 @@ If you prefer to be responsible for your private keys, any EOSIO wallet can hold
 
 # Buy PURPLE
 ## Acquire PURPLE with WAX
-WAX can be traded directly on [Alcor.exchange](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) starting April 17, 2021.
+WAX/PURPLE market is on [Alcor.exchange](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token).
 
 > Alcor has 0 transaction fees
 
