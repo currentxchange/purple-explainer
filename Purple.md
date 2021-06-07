@@ -5,6 +5,17 @@
 # 🟣 PURPLE
 [🟣 PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple) is the [WAX](https://wax.io/) blockchain token at the center of Purple and cXc.world.
 
+
+# [Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/purple-lg.png)
+
+![PURPLE Token Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/purple-lg.png)
+
+
+
+# [Small Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/purple.png)
+
+![PURPLE Token Logo Small](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/purple.png)
+
 # Functionality
 PURPLE can be **staked for NFTs** that enable special powers, Ups, BLUX or privileges on cXc.world. PURPLE works across mapps, starting with [cXc Music](music.cXc.world). Currently, [Everstones](Everstones.md) are the only announced function of PURPLE. 
 
@@ -121,7 +132,7 @@ Image: https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/purpl
 
 # Buy 🟣 PURPLE on [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token)
 
-# Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
+# Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUX/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
 
 > Please note: Everstones are scheduled for after the release date of cXc.world Beta. See [roadmap](Roadmap.md).
 
