@@ -7,15 +7,16 @@
 :heavy_check_mark: cXc.world Silver Edition - New UI  
 :heavy_check_mark: cXc.world Gold Version - Hive -> Wax transition begins 
 :heavy_check_mark: Purple Explainer on Github  
-:heavy_check_mark: BLUx Launched  
+:heavy_check_mark: BLUX + PURPLE (https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token)  
 :heavy_check_mark: PURPLE token [Launched](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token)
-- [ ] Beta Bash (Invite + Rewards in 🔵 BLUX)
+:heavy_check_mark: Beta Bash (Invite + Rewards in 🔵 BLUX)
+- [ ] Purple Staking via Everstone NFTs
 - [ ] cXc.world Beta with Ups + BLUx rewards 
 - [ ] Messenger Program
 - [ ] [National + Local Top Charts](Images/Top-Charts-Beta.png) Rewards 🟣 Go Live 
 - [ ] Music NFT creator  🖼️
 - [ ] Changer + Artist + Guardian [Guild](https://discord.gg/ZXmCpKszJR) rewards  🔵
-- [ ] Purple Staking via Everstone NFTs
+
 
 # Long-term cXc Roadmap 🛣️ 
 - [ ] [cXc Media](https://currentxchange.com) (adds Video, Scribe, Art, Photo, News, Games)  
