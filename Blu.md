@@ -10,6 +10,27 @@ Blu tokens (BLU, BLUX) **reward musicians** on cXc.world who receive Ups, and re
 All cXc.world users can earn Blu for qualified actions, including posting original creations, Upping content, moderation, and trading in time-pools.
 
 
+# [BLU Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blu-lg.png)
+
+![BLU Token Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blu-lg.png)
+
+
+
+# [Small BLU Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blu.png)
+
+![BLU Token Logo Small](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blu.png)
+
+
+# [BLUX Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blux-lg.png)
+
+![BLU Token Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blux-lg.png)
+
+
+
+# [Small BLUX Logo](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blux.png)
+
+![BLU Token Logo Small](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blux.png)
+
 # Functionality
 BLU and BLUX are **burned for Blu Ups**. This form of Ups is recorded separately than Sol Ups, but both are combined to rank charts and determine what music shows up on cXc.world.
 
@@ -78,11 +99,12 @@ Note: BLUX is issued to [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux
 
 
 ## Track your BLUX in any wallet
-BLUX 
-bluxbluxblux
-0 Decimals 
-Image: https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blux.png
+BLUX  
+bluxbluxblux  
+0 Decimals  
+Image: https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/blux.png  
 
+> Tip: Some wallets may have trouble sending 0-decimal coins. If this happens, try another wallet or use [bloks](https://wax.bloks.io) to send.
 
 # Buy BLUX on [Alcor](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token)
 
