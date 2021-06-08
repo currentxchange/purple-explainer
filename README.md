@@ -198,21 +198,21 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 - - - - - - - - - - - - - - - - - - - - - - -
 
 
-- [🖼️ Instagram](instagram.com/cxc.world)
+- [🖼️ Instagram](https://instagram.com/cxc.world)
 
-- [🐦 Twitter](twitter.com/currentxchange)
+- [🐦 Twitter](https://twitter.com/currentxchange)
 
-- [📺 YouTube](youtube.com/channel/UCBjTUosp2R_FN6AFdHV-v-Q)
+- [📺 YouTube](https://youtube.com/channel/UCBjTUosp2R_FN6AFdHV-v-Q)
 
-- [🐝 Hive](peakd.com/@currentxchange)
+- [🐝 Hive](https://peakd.com/@currentxchange)
 
-- **[🏘️ Hive Community](https://peakd.com/c/hive-179421)** 
+- [🏘️ Hive Community](https://peakd.com/c/hive-179421) 
 
 - **[🔑 Discord Musician Community](https://discord.gg/4fhWgZ5R5s)** (Collab channels + more) 
 
 - [🔺 Reddit](https://www.reddit.com/r/cXcMusic) 
 
-- [✈️ Telegram](https://t.me/joinchat/RcfWf3iGr-XEl08B)
+- **[✈️ Telegram](https://t.me/cXc_world)**
 
 - [🌊 Wavvy Music Accolades](https://medium.com/wavvys) (NFT Music Awards)
 
