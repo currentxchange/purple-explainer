@@ -5,7 +5,7 @@
 
 # Purple Empowers Creators
 
-> This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLU](https://wax.bloks.io/account/blublublublu), [BLUx](https://wax.bloks.io/account/bluxbluxblux), and [SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) (above), staking PURPLE preview, [roadmap](Roadmap.md) and legal disclaimers.
+> This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLU](https://wax.bloks.io/account/blublublublu), [BLUX](https://wax.bloks.io/account/bluxbluxblux), and [SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) (above), staking PURPLE preview, [roadmap](Roadmap.md) and legal disclaimers.
 
 Purple is a **Co-Creative Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the creator(s).
 
@@ -22,19 +22,19 @@ Purple's design is modeled after the Solar System.
 
 You can claim up to 288 [SOL](Sol.md) tokens every day, which enable you to “Up” creations you love on cXc.world, a map of music (and soon more). You can Up content multiple times, anytime, spending 1 SOL per Up.  
 
-Your “Sol Up” is burned and the creator is rewarded 1 [BLUx](Blu.md). 1 BLUx can be spent for 1 “Blu Up”.  
+Your **Sol Up** is burned and the creator is rewarded 1 [BLUX](Blu.md). 1 BLUX can be spent for 1 **Blu Up**”.  
 
 Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are counted to rank music on the [Top Charts](Top-Charts).  
 
-Music that makes it into the Top 64 on the daily Top Charts will earn additional rewards in [PURPLE](Purple.md).  
+Music that makes it into the **Top 64** on the daily Top Charts will earn additional rewards in [PURPLE](Purple.md) but only for Sol Ups. This is done to limit the financial influence on the charts. Blu Ups make content appear bigger on the mapp, and can even #1 on the global charts for a short time. If the extra exposure leads to a 
 
-In addition to [liquidity](https://wax.alcor.exchange/swap?output=WAX-eosio.token&input=PURPLE-purplepurple) for WAX, 1 PURPLE can activate an [Everstone NFT](Everstones.md), which will automatically send 1 Blu Up or 1 BLUX every day, without costing any BLUx or SOL.  
+In addition to [liquidity](https://wax.alcor.exchange/swap?output=WAX-eosio.token&input=PURPLE-purplepurple) for WAX, 1 PURPLE can activate an [Everstone NFT](Everstones.md), which will automatically send 1 Blu Up or 1 BLUX every day, without costing any BLUX or SOL.  
 
 
 ## Purple Overview
-Purple works with three `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, **[BLUx](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
+Purple works with three `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, **[BLUX](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
 
-Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLU**/**BLUx**. Anyone can use **BLU**/**BLUx** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **[Everstone NFTs](Everstones.md)**, which help creations to **shine forever** with daily Ups.
+Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLU**/**BLUX**. Anyone can use **BLU**/**BLUX** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **[Everstone NFTs](Everstones.md)**, which help creations to **shine forever** with daily Ups.
 
 All Ups (Blu, Sol + Everstone) are combined and counted to determine Top Charts.
 
@@ -69,7 +69,7 @@ Project
 
 Tokens
 - [PURPLE](Purple.md)
-- [BLU + BLUx](Blu.md)
+- [BLU + BLUX](Blu.md)
 - [SOL](Sol.md)
 - [Everstones](Everstones.md)
 
@@ -168,7 +168,7 @@ To acquire PURPLE without an existing WAX wallet, follow these steps:
 
 # DeFi Liquidity Pools
 
-Instant Liquidity via Alcor Swap: [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token), [WAX/BLUx](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token), and [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple).
+Instant Liquidity via Alcor Swap: [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token), [WAX/BLUX](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token), and [BLUX/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple).
 
 # Requirements & Restrictions
 Participating in the direct listing requires that you adhere and agree to the requirements, restrictions, terms and conditions laid out in [disclaimer.md](Legal/Disclaimer.md) and [legal-agreement.md](Legal/Legal-Agreement.md)
