@@ -184,7 +184,7 @@ Participating in the direct listing requires that you adhere and agree to the re
 
 Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our media Mapps are just the start. As we refine Purple, we also seek to redefine what it means to come together as humans and co-create. We hope you'll enjoy the tools already here, and are infinitely stoked for what the future holds. 
 
-## 🗺️ Experience [cXc.world 🌎](https://currentxchange.com/vision)
+## 🗺️ Experience [cXc.world 🌎](https://cXc.world)
 
 ## 👁️ Step into our [vision](https://currentxchange.com/vision)
 
