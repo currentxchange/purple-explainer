@@ -193,6 +193,15 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 ## 💸 Get to know our [Economy](https://github.com/currentxchange/purple-explainer)
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# 💰 TRADE + Swap cXc.world tokens on Alcor 📈
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+## 🟣🟡 [PURPLE/WAX](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) ~~ 🔵🟡 [BLUx/WAX](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token)
+💵🟣 [USDT/PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_waxusdt-eth.token) ~~ 🔵💵 [BLUX/USDT](https://wax.alcor.exchange/trade/waxusdt-eth.token_blux-bluxbluxblux)
+
+
 - - - - - - - - - - - - - - - - - - - - - - - 
 # Follow cXc on Social Media 📱🌎
 - - - - - - - - - - - - - - - - - - - - - - -
