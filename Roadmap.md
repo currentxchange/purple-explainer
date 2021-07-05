@@ -7,7 +7,7 @@
 :heavy_check_mark: cXc.world Silver Edition - New UI  
 :heavy_check_mark: cXc.world Gold Version - Hive -> Wax transition begins    
 :heavy_check_mark: Purple Explainer on Github   
-:heavy_check_mark: BLUX + PURPLE Markets + Swap (https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token)  
+:heavy_check_mark: [BLUX](https://wax.alcor.exchange/trade/blux-bluxbluxblux_wax-eosio.token) + [PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token) Markets + Swap   
 :heavy_check_mark: PURPLE token [Launched](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token)   
 :heavy_check_mark: Beta Bash (Invite + Rewards in 🔵 BLUX)   
 :heavy_check_mark: [PURPLE/USDT](https://wax.alcor.exchange/trade/purple-purplepurple_waxusdt-eth.token) = [USDT/BLUX](https://wax.alcor.exchange/trade/waxusdt-eth.token_blux-bluxbluxblux) Markets on Alcor   
