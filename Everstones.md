@@ -1,7 +1,7 @@
 # Everstone NFTs
 Everstones are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)-backed NFTs that send out 🔵 [BLUX](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux) or Blu Ups daily. One Everstone is backed by between 1-64 PURPLE, and has a daily harvest between 1-432 BLUX or Blu Ups. When an Everstone is destroyed, the PURPLE is sent back to the Everstone's owner.
 
-> [👁️ See an Everstone in the wild](https://wax.simplemarket.io/products/asset/100000016933308)
+> [👁️  See an Everstone in the wild](https://wax.simplemarket.io/products/asset/100000016933308)
 
 
 When you own an Everstone NFT, you get the choice to automatically Up chosen content every day or take a set reward in BLUX everyday. *Switching reward type will pause payment by 1 day.* 
@@ -24,7 +24,7 @@ The more PURPLE an Everstone holds, the more efficient it becomes.
 | 32        | 144                 | 450%            | 
 | 64        | 432                 | 675%         🧠 | 
 
-> Each Everstone level will have unique art, revealed at a later date. We currently have a wonderful placeholder. 
+> Each Everstone level will have unique art, revealed at a later date. We currently have a wonderful placeholder gif. 
 
 ## Everstone Release 
 Everstone supply is limited via a trickling supply to avoid any one person/group controlling cXc.world's [Top Charts](Top-Charts.md). We will release already-staked Everstones for auction on [Simple Market](https://wax.simplemarket.io/explorer/main?skip=0&limit=20&searchString=everstone&locale=en) at regular intervals, as well as for direct sale on Simple Market and [Alcor](https://wax.alcor.exchange/nft-market). PURPLE-backed Everstones are sold for face value at the current cXc sell price of PURPLE (Currently 20 WAX/PURPLE). 
@@ -42,23 +42,25 @@ Fans may collect BLUX to Blu Up their favorite artist's latest release. This can
 
 Everstones are a [Simple Assets](https://wax.bloks.io/account/simpleassets) NFT.
 
-Everstones store info (mdata) on whether the owner wants BLUX or Blu Ups, and if Blu Ups is chosen, the owner can also specify which content to send the daily Blu Ups to. 
+Everstones store info (mdata) on whether the owner wants BLUX or Blu Ups, and if Blu Ups is chosen, the owner can also specify which content to send the daily Blu Ups. 
 
-Once a day, we check how much PURPLE is staked on each Everstone, and if it's over 1, we distribute the owed Blu Ups or BLUX. There are no fractional Ups or BLUX, so rounding down to each level is used to calculate the rewards. For example, if you had 64 or 67 PURPLE staked to one Everstone, both would give 432 Blu Ups per day. We plan to provide a UI to help you avoid over-staking. 
+Once a day, we check how much PURPLE is staked on each Everstone, and if it's over 1, we distribute the owed Blu Ups or BLUX. There are no fractional Ups or BLUX, so rounding down to each level is used to calculate the rewards. For example, if you had 64 or 67 PURPLE staked to one Everstone, both would give 432 Blu Ups per day. 
 
-If you choose BLUX payments, weekly or monthly recharge of Solar Disk may be required to receive the full amount. This is TBD as we consider what's best for all stakeholders, currently there is no restriction. 
+If you choose BLUX payments, weekly or monthly recharge of [Solar Disk](Sol.md) may be required to receive the full amount. This is TBD as we consider what's best for all stakeholders. Currently there is no restriction. 
 
 
 
 
 # Staking
 
-## Staking PURPLE to an Everstone
+## Staking PURPLE to an Everstone 
 Staking additional PURPLE to an Everstone is done via a `transfer` of PURPLE to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313). This **will** be available through the UI of cXc.world (Beta). 
 
+Only the current owner of the Everstone can stake more PURPLE to it, so you don't need to worry about typing the wrong ID, as the `simplebacked` contract will return any PURPLE sent without an ID of an Everstone you currently own. 
 
-## Unstaking from Everstones
-Everstones will automatically return all tokens staked when burned. If an Everstone is transferred and then burned, the owner at the time of burning will receive all tokens backed on the Everstone. Only the current owner of the Everstone can stake more PURPLE to it, so you don't need to worry about typing the wrong ID, as the `simplebacked` contract will return any PURPLE sent without an ID of an Everstone you currently own. 
+
+## Unstaking PURPLE from Everstones
+Everstones will automatically return all tokens staked when burned. If an Everstone is transferred and then burned, the owner at the time of burning will receive all tokens backed on the Everstone. 
 
 
 
