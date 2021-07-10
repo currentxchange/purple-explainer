@@ -1,10 +1,12 @@
 # Everstone NFTs
 Everstones are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)-backed NFTs that send out 🔵 [BLUX](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux) or Blu Ups daily. One Everstone is backed by between 1-64 PURPLE, and has a daily harvest between 1-432 BLUX or Blu Ups. When an Everstone is destroyed, the PURPLE is sent back to the Everstone's owner.
 
+> [👁️ See an Everstone in the wild](https://wax.simplemarket.io/products/asset/100000016933308)
 
-When you own an Everstone NFT, you get the choice to automatically Up chosen content every day or take a set reward in BLUX everyday. You may switch reward up to once per day. 
 
-> Each Everstone level has Art and a description, revealed at a later date
+When you own an Everstone NFT, you get the choice to automatically Up chosen content every day or take a set reward in BLUX everyday. *Switching reward type will pause payment by 1 day.* 
+
+> Each Everstone level has Art and a description, revealed at a later date.
 
 The more PURPLE an Everstone holds, the more efficient it becomes. 
 
@@ -24,47 +26,70 @@ The more PURPLE an Everstone holds, the more efficient it becomes.
 
 
 ## Everstone Rarity
-Everstones are released at a slow but steady pace. How we decide to do this, we have not yet determined. Empty everstones are free, but PURPLE-backed Everstones are sold for face value at the current market sell price of PURPLE. 
+Everstones are limited, in a trickling supply to avoid any one person/group controlling cXc.world's [Top Charts](Top-Charts.md). We will release already-staked Everstones for auction on [Simple Market](https://wax.simplemarket.io/explorer/main?skip=0&limit=20&searchString=everstone&locale=en) at regular intervals, as well as for direct sale on Simple Market and [Alcor](https://wax.alcor.exchange/nft-market). PURPLE-backed Everstones are sold for face value at the current cXc sell price of PURPLE (Currently 20 WAX/PURPLE). 
+
+> We no longer plan to distribute non-backed Everstones, as this is harder for us to sort through.  
 
 ## Empowering Creators 👨‍🎤🎤
 Everstones are particularly useful for creators, as daily Ups on their content gives them exposure on the mapp and [Top Charts](Top-Charts.md).
 
 ## Empowering Fans 🧝‍
-Fans may collect BLUX to Up their favorite artist's latest release. This can really help new artists, because local chart topping gives way to bigger charts, earning more BLUx from Sol Ups, new opportunities, and measurable exposure. 
+Fans may collect BLUX to Blu Up their favorite artist's latest release. This can really help new artists, because local chart topping gives way to bigger charts, earning more BLUX from Sol Ups, new opportunities, and measurable exposure. 
 
 
 # How it Works
 
-Everstones are a [Simple Assets](https://wax.bloks.io/account/simpleassets) NFT that will be offered periodically from cXc already staked (backed) with PURPLE in limited amounts (Sale info TBA). Everstones can also be requested once per day by anyone (mined by cXc and send daily), though these free Everstones will contain 0 PURPLE and won't do anything useful until PURPLE is staked to them. 
+Everstones are a [Simple Assets](https://wax.bloks.io/account/simpleassets) NFT.
 
-Everstones store info on whether the owner wants BLUX or Blu Ups, and if Blu Ups is chosen, the owner can also specify which content to send the daily Blu Ups to. 
+Everstones store info (mdata) on whether the owner wants BLUX or Blu Ups, and if Blu Ups is chosen, the owner can also specify which content to send the daily Blu Ups to. 
 
 Once a day, we check how much PURPLE is staked on each Everstone, and if it's over 1, we distribute the owed Blu Ups or BLUX. There are no fractional Ups or BLUX, so rounding down to each level is used to calculate the rewards. For example, if you had 64 or 67 PURPLE staked to one Everstone, both would give 432 Blu Ups per day. We plan to provide a UI to help you avoid over-staking. 
 
-If you choose BLUX payments, daily or monthly recharge of Solar Disk may be required to receive the full amount. This is TBD as we consider what's best for all stakeholders. 
+If you choose BLUX payments, weekly or monthly recharge of Solar Disk may be required to receive the full amount. This is TBD as we consider what's best for all stakeholders, currently there is no restriction. 
 
+> Currently, only direct BLUX payments are available. 
 
 ## Everstone Art
-Each row in the "Everstone Harvest Levels + Rewards" table above has it's own art, description, and rarity that updates during the daily check (only if you stake more PURPLE). This art is unreleased. 
+Each row in the "Everstone Harvest Levels + Rewards" table above will have it's own art, description, and rarity that updates during the daily check (only if you stake more PURPLE). This art is TBA, and we currently have a wonderful placeholder. 
 
 
 # Staking
 
 ## Staking PURPLE to an Everstone
-Staking an Everstone is done via a `transfer` of PURPLE or BLUX to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313). This will be available through the UI of cXc.world. **If doing this manually, The nft must be registered before `transfer` with [simplebacked => tokenprep](https://wax.bloks.io/account/simplebacked?loadContract=true&tab=Actions&account=simplebacked&scope=simplebacked&limit=100&action=tokenprep) or it will fail (no loss)**
+Staking additional PURPLE to an Everstone is done via a `transfer` of PURPLE to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313). This **will** be available through the UI of cXc.world (Beta). 
 
 
 ## Unstaking from Everstones
-Everstones will automatically return all tokens staked when burned. If an Everstone is transferred and then burned, the owner at the time of burning will receive all tokens backed on the Everstone.
+Everstones will automatically return all tokens staked when burned. If an Everstone is transferred and then burned, the owner at the time of burning will receive all tokens backed on the Everstone. Only the current owner of the Everstone can stake more PURPLE to it, so you don't need to worry about typing the wrong ID, as the `simplebacked` contract will return any PURPLE sent without an ID of an Everstone you currently own. 
 
 
 
 # Tech + Contracts 🔌
 
-> *Everstones emit Blu Ups* not considered in the Top 64 PURPLE rewards system, but displayed in the default Top Charts.
-
 Everstones are Simple Assets NFT backed in Purple on a [simpleassets](https://wax.bloks.io/account/simpleassets) NFT using the [simplebacked](https://wax.bloks.io/account/simplebacked) contract to ensure all Everstones return their PURPLE to the rightful owner upon burning. ([example tx](https://wax.bloks.io/transaction/7a390ecf24f97e57482db730c2cfdc001d8bcda6a98d45fb7427d2afdcfdc052?tab=traces))
 
 
+Everstones store several pieces of data we use to ensure you get paid fairly. All Everstone data is `mdata` or mutable data, so it can be updated by our `currentxchng` account.  
+ 
+Here's all the mdata on an Everstone.  
 
-> Please note: Everstone's PURPLE-backing contract has been tested and is working as described above. Still, consider elements subject to change. Release date unnannounced, but will come after Bets release. See [Roadmap.md](Roadmap.md)
+```javascript
+{
+  "name":"Everstone",
+  "img":"QmbYghSQZRU8vTxU9nCsiJQ8hgV2g8PkvvNhY32idz42kn",
+  "level":"6",
+  "staked_purple":"12",
+  "daily_blux":"30",
+  "lifetime_blux":"360",
+  "last":"09-07-2021",
+  "todays_blux":"30"
+}
+```
+
+> [See it on an Everstone](https://wax.simplemarket.io/products/asset/100000016933308)
+
+Each time an Everstone is paid, the `mdata` is updated to reflect the payment in the `lifetime_blux`, `todays_blux`, and `last` field. The `last` field hold the date of the last payment, and in the event you don't receive a payment for any reason, *you'll be paid all you are owed in the next payment.*  
+
+
+
+> Please note: *Everstones will emit Blu Ups* not considered in the Top 64 PURPLE rewards system, but displayed in the default Top Charts. Blu Ups help content get exposure, which may lead to organic Sol Ups + PURPLE rewards.
