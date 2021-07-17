@@ -1,4 +1,10 @@
 # Everstone NFTs
+
+<p align="center">
+  <img width="auto" height="auto" src="Images/BLUE-everstone-slower.gif">
+</p>
+
+
 Everstones are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)-backed NFTs that send out 🔵 [BLUX](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux) or Blu Ups daily. One Everstone is backed by between 1-64 PURPLE, and has a daily harvest between 1-432 BLUX or Blu Ups. When an Everstone is destroyed, the PURPLE is sent back to the Everstone's owner.
 
 > [👁️  See an Everstone in the wild](https://wax.simplemarket.io/products/asset/100000016933308)
