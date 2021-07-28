@@ -13,7 +13,7 @@
 :heavy_check_mark: [PURPLE/USDT](https://wax.alcor.exchange/trade/purple-purplepurple_waxusdt-eth.token) = [USDT/BLUX](https://wax.alcor.exchange/trade/waxusdt-eth.token_blux-bluxbluxblux) Markets on Alcor   
 :heavy_check_mark: [cXc Music NFT Standard](https://github.com/currentxchange/Music-NFT-Standard)    
 :heavy_check_mark: Purple Staking via [Everstone NFTs](Everstones.md) buy [here](https://wax.simplemarket.io/authors/currentxchng)   
-:heavy_check_mark: [cxcmusicnfts](https://wax.atomichub.io/market?collection_name=cxcmusicnfts) Collection launched    
+:heavy_check_mark: [cxcmusicnfts](https://wax.atomichub.io/market?collection_name=cxcmusicnfts) Exclusive Music NFT Collection launched    
 - [ ] cXc.world Beta with Ups + BLUX/PURPLE [rewards](Top-Charts.md)   
 - [ ] Messenger Program   
 - [ ] [National + Local Top Charts](Images/Top-Charts-Beta.png) Rewards 🟣 Go Live   
