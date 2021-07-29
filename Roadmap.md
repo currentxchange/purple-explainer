@@ -2,7 +2,7 @@
 
 :heavy_check_mark: [Purple](ttps://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) + [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) papers   
 :heavy_check_mark: [cXc.world](https://cxc.world) (Alpha) launched 🗺️    
-:heavy_check_mark: "Up" system with 5-minute Time Tokens (☀️ [SOL](Sol.md))    
+:heavy_check_mark: "Up" system modeling future 5-minute Time Tokens (☀️ [SOL](Sol.md))    
 :heavy_check_mark: [National](Images/Geo-France.png) Top Charts + USA States, Counties, Cities   
 :heavy_check_mark: cXc.world Silver Edition - New UI  
 :heavy_check_mark: cXc.world Gold Version - Hive -> Wax transition begins    
@@ -13,7 +13,7 @@
 :heavy_check_mark: [PURPLE/USDT](https://wax.alcor.exchange/trade/purple-purplepurple_waxusdt-eth.token) = [USDT/BLUX](https://wax.alcor.exchange/trade/waxusdt-eth.token_blux-bluxbluxblux) Markets on Alcor   
 :heavy_check_mark: [cXc Music NFT Standard](https://github.com/currentxchange/Music-NFT-Standard)    
 :heavy_check_mark: Purple Staking via [Everstone NFTs](Everstones.md) buy [here](https://wax.simplemarket.io/authors/currentxchng)   
-:heavy_check_mark: [cxcmusicnfts](https://wax.atomichub.io/market?collection_name=cxcmusicnfts) Exclusive Music NFT Collection launched    
+:heavy_check_mark: [cxcmusicnfts](https://wax.atomichub.io/market?collection_name=cxcmusicnfts) Exclusive Music NFT Collection launched with [drops site](https://drops.cxc.world)    
 - [ ] cXc.world Beta with Ups + BLUX/PURPLE [rewards](Top-Charts.md)   
 - [ ] Messenger Program   
 - [ ] [National + Local Top Charts](Images/Top-Charts-Beta.png) Rewards 🟣 Go Live   
