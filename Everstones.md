@@ -10,6 +10,8 @@ Everstones are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple
 > [👁️  See an Everstone in the wild](https://wax.simplemarket.io/products/asset/100000016933308)
 
 
+# Now, you can finally [Buy an Everstone 🟦 💸](nfthive.io/market?collection=currentxchng&name=Everstone)
+
 When you own an Everstone NFT, you get the choice to automatically Up chosen content every day or take a set reward in BLUX everyday. *Switching reward type will pause payment by 1 day.* 
 
 > Currently, only direct BLUX payments are available. 
@@ -96,6 +98,8 @@ Here's all the mdata on an Everstone.
 
 Each time an Everstone is paid, the `mdata` is updated to reflect the payment in the `lifetime_blux`, `todays_blux`, and `last` field. The `last` field hold the date of the last payment, and in the event you don't receive a payment for any reason, *you'll be paid all you are owed in the next payment.*  
 
+# [Buy an Everstone 🟦 💸](nfthive.io/market?collection=currentxchng&name=Everstone)
 
+> Also available on [Simple Market](https://wax.simplemarket.io/products?authors=currentxchng)
 
 > Please note: *Everstones will emit Blu Ups* not considered in the Top 64 PURPLE rewards system, but displayed in the default Top Charts. Blu Ups help content get exposure, which may lead to organic Sol Ups + PURPLE rewards.
