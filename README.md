@@ -71,7 +71,7 @@ Tokens
 - [PURPLE](Purple.md)
 - [BLU + BLUX](Blu.md)
 - [SOL](Sol.md)
-- [Everstones](Everstones.md)
+- [Everstones](Everstones.md) - Buy an Everstone [here](https://nfthive.io/market?collection=currentxchng)
 
 Financial Info
 - [Exchange Listing](Exchange-Listing.md)
@@ -117,7 +117,7 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autofo
 
 **PURPLE** - Scarce token that can be staked for Everstones
 
-**Everstone** - PURPLE-backed NFT that Ups a specific piece of content on a mapp periodically automatically
+**Everstone** - PURPLE-backed NFT that Ups a specific piece of content on a mapp periodically automatically [Buy Everstones](https://nfthive.io/market?collection=currentxchng)
 
 **Solar Disk** - NFT needed to register a user as a valid recipient of SOL, and hold SOL.
 
