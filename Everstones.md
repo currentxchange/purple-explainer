@@ -5,7 +5,7 @@
 </p>
 
 
-Everstones are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)-backed NFTs that send out 🔵 [BLUX](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux) or Blu Ups daily. One Everstone is backed by between 1-64 PURPLE, and has a daily harvest between 1-432 BLUX or Blu Ups. When an Everstone is destroyed, the PURPLE is sent back to the Everstone's owner.
+Everstones are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)-backed NFTs that send out 🔵 [BLUX](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux) or Blu Ups daily. One Everstone is backed by between 1-64 PURPLE, and has a daily auto-harvest of between 1-432 BLUX or Blu Ups. *When an Everstone is destroyed, the PURPLE is sent back to the Everstone's owner.*
 
 > [👁️  See an Everstone in the wild](https://wax.simplemarket.io/products/asset/100000016933308)
 
@@ -13,7 +13,7 @@ Everstones are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple
 # Now, you can finally [Buy an Everstone 🟦 💸](https://nfthive.io/market?collection=currentxchng&name=Everstone)
 > Also available on [Simple Market](https://wax.simplemarket.io/products?authors=currentxchng)
 
-When you own an Everstone NFT, you get the choice to automatically Up chosen content every day or take a set reward in BLUX everyday. *Switching reward type will pause payment by 1 day.* 
+When you own an Everstone NFT, you get the choice to automatically Blu Up chosen content every day or receive a set reward in BLUX everyday. *Switching reward type may pause payment by 1 day.* 
 
 > Currently, only direct BLUX payments are available. 
 
@@ -33,12 +33,15 @@ The more PURPLE an Everstone holds, the more efficient it becomes.
 | 32        | 144                 | 450%            | 
 | 64        | 432                 | 675%         🧠 | 
 
-> Each Everstone level will have unique art, revealed at a later date. We currently have a wonderful placeholder gif. 
 
 ## Everstone Release 
 Everstone supply is limited via a trickling supply to avoid any one person/group controlling cXc.world's [Top Charts](Top-Charts.md). We will release already-staked Everstones for auction on [Simple Market](https://wax.simplemarket.io/explorer/main?skip=0&limit=20&searchString=everstone&locale=en) at regular intervals, as well as for direct sale on Simple Market and [Alcor](https://wax.alcor.exchange/nft-market). PURPLE-backed Everstones are sold for face value at the current cXc sell price of PURPLE (Currently 20 WAX/PURPLE). 
 
-> We no longer plan to distribute non-backed Everstones, as this is harder for us to sort through.  
+> We no longer plan to distribute non-backed Everstones, as this is harder for us to sort through. 
+
+## Everstone Deals 
+ 
+When buying an Everstone, consider if it's cheaper to buy a Level 1 Everstone and upgrade it or to purchase a higher-level stone with the PURPLE already staked. If the current PURPLE price is above 20 WAX, it's cheaper to buy a higher-level, already-staked Everstone. Otherwise, it's cheaper to buy the PURPLE from Alcor and then stake it manually to the Everstone.     
 
 ## Empowering Creators 👨‍🎤🎤
 Everstones are particularly useful for creators, as daily Ups on their content gives them exposure on the mapp and [Top Charts](Top-Charts.md).
@@ -55,7 +58,7 @@ Everstones store info (mdata) on whether the owner wants BLUX or Blu Ups, and if
 
 Once a day, we check how much PURPLE is staked on each Everstone, and if it's over 1, we distribute the owed Blu Ups or BLUX. There are no fractional Ups or BLUX, so rounding down to each level is used to calculate the rewards. For example, if you had 64 or 67 PURPLE staked to one Everstone, both would give 432 Blu Ups per day. 
 
-If you choose BLUX payments, weekly or monthly recharge of [Solar Disk](Sol.md) may be required to receive the full amount. This is TBD as we consider what's best for all stakeholders. Currently there is no restriction. 
+*Open Possibility: If you choose BLUX payments, weekly or monthly recharge of [Solar Disk](Sol.md) may be required to receive the full amount. This is TBD as we consider what's best for all stakeholders. Currently there is no restriction.*  
 
 
 
@@ -63,7 +66,7 @@ If you choose BLUX payments, weekly or monthly recharge of [Solar Disk](Sol.md) 
 # Staking
 
 ## Staking PURPLE to an Everstone 
-Staking additional PURPLE to an Everstone is done via a `transfer` of PURPLE to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313). This **will** be available through the UI of cXc.world (Beta). 
+Staking additional PURPLE to an Everstone is done via a `transfer` of PURPLE to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313). Eventually, we'll let you do stake more PURPLE right from [cXc.world](https://music.cxc.world).
 
 Only the current owner of the Everstone can stake more PURPLE to it, so you don't need to worry about typing the wrong ID, as the `simplebacked` contract will return any PURPLE sent without an ID of an Everstone you currently own. 
 
