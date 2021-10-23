@@ -9,7 +9,7 @@ This brief highlights key numbers and concepts in the Purple Economy in one plac
 `eosio.token`-based [purplepurple](https://wax.bloks.io/account/purplepurple) on WAX blockchain
 
 ## Utility
-🟣 PURPLE provides 1 Upvote per day on 1 piece of content when held by an Everstone NFT. Each Everstone can hold 288 PURPLE, equal to 288 daily Ups max. Everstones give content a boost, while also limiting how much influence one PURPLE holder can have on the Top Charts.
+🟣 PURPLE provides 1 Upvote per day on 1 piece of content when held by an Everstone NFT. Each Everstone can hold 64 PURPLE, equal to 432 daily Ups max through scaling rewards. Everstones give content a boost, while also limiting how much influence one PURPLE holder can have on the Top Charts.
 
 PURPLE will be used across all current + future [cXc.world](https://cxc.world) mapps. PURPLE is divisible up to 8 decimal places.
 
