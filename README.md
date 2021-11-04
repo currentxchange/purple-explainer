@@ -5,13 +5,13 @@
 
 # Purple Empowers Creators
 
-> This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLU](https://wax.bloks.io/account/blublublublu), [BLUX](https://wax.bloks.io/account/bluxbluxblux), and [SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) (above), staking PURPLE preview, [roadmap](Roadmap.md) and legal disclaimers.
+> This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLUX](https://wax.bloks.io/account/bluxbluxblux), and [SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) (above), staking PURPLE preview, [roadmap](Roadmap.md) and legal disclaimers.
 
-Purple is a **Co-Creative Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the creator(s).
+Purple is a **Biomimetic Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the creator(s).
 
 # Solar Concept
 
-Purple's design is modeled after the Solar System.
+Purple is modeled after the Solar System.
 
 > The Sun gives us lovelight each day. If we share that lovelight with others, we grow together. If we don’t, the lovelight is unmanifested and fades away. Either way, the Sun still shines the next day, giving us another chance to share and manifest this creative solar energy. 
 
@@ -20,30 +20,30 @@ Purple's design is modeled after the Solar System.
   <img width="auto" height="auto" src="Images/cxc-one-imager.png">
 </p>
 
-You can claim up to 288 [SOL](Sol.md) tokens every day, which enable you to “Up” creations you love on cXc.world, a map of music (and soon more). You can Up content multiple times, anytime, spending 1 SOL per Up.  
+You can claim up to 288 [SOL](Sol.md) tokens every day, which enable you to “Up” creations you love on cXc.world, a map of music (and soon more). You can Up content multiple times, anytime, spending 1 SOL or BLUX per Up.  
 
-Your **Sol Up** is burned and the creator is rewarded 1 [BLUX](Blu.md). 1 BLUX can be spent for 1 **Blu Up**”.  
+Your **Sol Up** is burned and the creator is rewarded 1 [BLUX](Blu.md). 1 BLUX can be spent for 1 **Blu Up**, which is recycled back to pay creators.  
 
 Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are counted to rank music on the [Top Charts](Top-Charts).  
 
-Music that makes it into the **Top 64** on the daily Top Charts will earn additional rewards in [PURPLE](Purple.md) but only for Sol Ups. This is done to limit the financial influence on the charts. Blu Ups make content appear bigger on the mapp, and can even #1 on the global charts for a short time. If the extra exposure leads to a 
+Music that makes it into the **Top 64** on the daily [Top Charts](Top-Charts.md) will earn additional rewards in [PURPLE](Purple.md) but only for Sol Ups. 288 PURPLE is sent out every day creator's rewards.
 
-In addition to [liquidity](https://wax.alcor.exchange/swap?output=WAX-eosio.token&input=PURPLE-purplepurple) for WAX, 1 PURPLE can activate an [Everstone NFT](Everstones.md), which will automatically send 1 Blu Up or 1 BLUX every day, without costing any BLUX or SOL.  
+In addition to [swaping for WAX](https://wax.alcor.exchange/swap?output=WAX-eosio.token&input=PURPLE-purplepurple), PURPLE is the fuel for [Everstone NFTs](Everstones.md), which automatically send 1 Blu Up or 1 BLUX every day to the holder, and can be upgraded with more PURPLE for higher efficiency + rewards.  
 
 
 ## Purple Overview
-Purple works with three `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLU](https://wax.bloks.io/account/blublublu)**, **[BLUX](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
+Purple works with two `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLUX](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
 
-Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLU**/**BLUX**. Anyone can use **BLU**/**BLUX** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **[Everstone NFTs](Everstones.md)**, which help creations to **shine forever** with daily Ups.
+Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLUX**. Anyone can use**BLUX** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **[Everstone NFTs](Everstones.md)**, which help creations to **shine forever** with daily Ups.
 
-All Ups (Blu, Sol + Everstone) are combined and counted to determine Top Charts.
+All Ups (Blu Ups, Sol Ups + Blu Ups from Everstones) are combined and counted to determine Top Charts.
 
 > Read about Everstone NFTs in [Everstones.md](Everstones.md)
 
-Mapps (map-dapps) are **geotemporal**, and every result has a timespan where Ups are counted. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **Everstones** an easy way not to disappear\*, and **Blu Ups** a shot to be seen at the top of local charts.
+Mapps (map-dapps) are **geotemporal**, and every mapp paint shows only a timespan's Upped content in a defined location. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **[Everstones](Everstones.md)** an easy way not to disappear\*, and **Blu Ups** a shot to be seen at the top of local charts.
 
 
-\* - You may also do Up manually with your 288 Sol Ups
+\* - You may also Up content manually with your 288 Sol Ups
 
 ### How does a Geotemporal mapp work?
 You can look at the latest trends (Monthly, Weekly, Daily, etc) or look into the past.* *Default is all-time.*
@@ -58,7 +58,7 @@ You can see trends for any nation. *Default is Global.*
 
 
 
-\* - Past searches work from Summer Solstice 2019 onward. Songs posted before Beta, all Ups are assigned to the post date of the music. In Beta, the Time Machine will function with the time of the Up, and show trends down to 5-minutes. 
+\* - Past searches work from Summer Solstice 2019 onward. For songs posted before Beta, all Ups are assigned to the post date of the music. In Beta, the Time Machine will function with the time of the Up, and show trends down to 5-minutes, the length of one time unit. 
 
 # Learn Everything About Purple
 
@@ -88,32 +88,34 @@ Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](
 </p>
 
 # cXc History
-cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autoformat  music posts on these blogs. Alpha had time-limited Ups, but not on-chain. After two minor releases (Silver Edition [2019] + Gold Version [2020]), the upcoming Beta release will enable the Purple Economy fully on WAX. [Roadmap 🛣️ ](https://github.com/currentxchange/purple-explainer/blob/master/Roadmap.md)
+cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (later Hive) to autoformat music posts and on-chain. Alpha had time-limited Ups, but not on-chain. After two minor releases (Silver Edition [2019] + Gold Version [2020]), the upcoming Beta release will enable the Purple Economy on WAX on cXc.world. [Roadmap 🛣️ ](https://github.com/currentxchange/purple-explainer/blob/master/Roadmap.md)
 
 > All pre-beta Ups will be transitioned, so artists will get paid in BLUX for Ups happening now in Gold Version. 
 
-> Note: We have temporarily removed Hive integration from cXc.world until WAX transition is complete to avoid confusion. 
+> Note: We have temporarily removed Hive integration from cXc.world until WAX transition is complete to avoid confusion.  
 
-🧠🗺️ Discover how Mapps work and what Mapps we've got planned in our [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.
+🧠🗺️ Discover how Mapps work and what Mapps we've got planned in our [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) paper.  
 
 
 # Quick Definitions
 
-**cXc.world** - Home of Mapps like [cXc Music](music.cxc.world)
+**cXc.world** - Home of Mapps like [cXc Music](music.cxc.world
 
 **Mapp** - Mapping application, or "Map dapp" used to refer to the mapps created by cXc using Purple
 
 **Purple** - CoCreative Economy developed by cXc
 
-**Up** - Signifies love and support of content. Comes as Sol Up or Blu Up. 
+**Up** - One unit of positive vibes, like a 'like', sent by clicking a yellow or blue triangle. Manifests as a `transfer` action. Sol Ups pay the creator in BLUX, while Blu Ups cost 1 BLUX.
 
-**Top Charts** - Content sorted by Up count on a mapp, used to distribute rewards in PURPLE and determine which content should appear most prominently on the map. Top 64 content is rewarded daily. 
+**Top Charts** - Content sorted by Up count, used to distribute rewards in PURPLE and determine which content should appear most prominently on the map. Top 64 content is rewarded 288 PURPLE daily. 
 
-**Time Unit** - 5-minute units used to run cXc geotemporal Top Charts, and as the basis of the PURPLE. 1 PURPLE 1 SOL = 1 time unit. Top Charts are calculated every time unit. Gregorian time spans (Month, Week, etc.) are calculated in time units using GMT and displayed for easy access information and are used in Mapps to give rewards (ex. daily Top Chart rewards = 288 time units = 288 PURPLE).
+**Geotemporal** - Having to do with time and location, both of which are associated with a Up; the location the content was created (geo) and the Time Unit the Up happened (temporal). 
+
+**Time Unit** - 5-minute units used to run cXc.world's geotemporal economy, and as the basis of the PURPLE. 1 PURPLE 1 SOL = 1 time unit. Top Charts are calculated every time unit. Gregorian time spans (Month, Week, etc.) are calculated in time units using GMT and displayed for easy access information and are used in Mapps to give rewards (ex. daily Top Chart rewards = 288 time units = 288 PURPLE).
 
 **SOL** - Abundant Time-Token that can be received freely up to 288 SOL per day by any user of [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview). Spent 1:1 to give Sol Ups
 
-**BLU** - Abundant token distributed to recipients of Sol Ups, and for completion of Role-based tasks. Burnt 1:1 to give Blu Ups
+**BLUX** - Abundant token distributed to recipients of Sol Ups, and for completion of Role-based tasks. Burnt 1:1 to give Blu Ups
 
 **PURPLE** - Scarce token that can be staked for Everstones
 
@@ -121,7 +123,7 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (Hive) to autofo
 
 **Solar Disk** - NFT needed to register a user as a valid recipient of SOL, and hold SOL.
 
-**cXc** - Short for Current X Change LLC, Maryland, USA
+**cXc** - Short for Current X Change LLC, Maryland, USA. Name signifies Delta, the triangular symbol of change and the essence of our geotemporal curation system. 
 
 
 
@@ -192,19 +194,22 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 
 ## 💸 Get to know our [Economy](https://github.com/currentxchange/purple-explainer)
 
+## 🖼️🎶  Shop our [Curated NFT Collection](https://drops.cxc.world)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # 💰 TRADE + Swap cXc.world tokens on Alcor 📈
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
-## 🟣🟡 [PURPLE/WAX](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) ~~ 🔵🟡 [BLUx/WAX](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token)
+## 🟣🟡 [PURPLE/WAX](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) ~~ 🔵🟡 [BLUX/WAX](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token)
 💵🟣 [USDT/PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_waxusdt-eth.token) ~~ 🔵💵 [BLUX/USDT](https://wax.alcor.exchange/trade/waxusdt-eth.token_blux-bluxbluxblux)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - 
 # Follow cXc on Social Media 📱🌎
 - - - - - - - - - - - - - - - - - - - - - - -
+
+## >> [All Links 🔗🌳 linktr.ee/cxc.world](https://linktr.ee/cxc.world) <<
 
 
 - [🖼️ Instagram](https://instagram.com/cxc.world)
