@@ -34,7 +34,7 @@ In addition to [swaping for WAX](https://wax.alcor.exchange/swap?output=WAX-eosi
 ## Purple Overview
 Purple works with two `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLUX](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
 
-Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLUX**. Anyone can use**BLUX** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **[Everstone NFTs](Everstones.md)**, which help creations to **shine forever** with daily Ups.
+Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLUX**. Anyone can use **BLUX** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **[Everstone NFTs](Everstones.md)**, which help creations to **shine forever** with daily Ups.
 
 All Ups (Blu Ups, Sol Ups + Blu Ups from Everstones) are combined and counted to determine Top Charts.
 
@@ -58,7 +58,7 @@ You can see trends for any nation. *Default is Global.*
 
 
 
-\* - Past searches work from Summer Solstice 2019 onward. For songs posted before Beta, all Ups are assigned to the post date of the music. In Beta, the Time Machine will function with the time of the Up, and show trends down to 5-minutes, the length of one time unit. 
+\* - Past searches work from Summer Solstice, June 2019 onward. For songs posted before Beta, all Ups are assigned to the post date of the music. In Beta, the Time Machine will function with the time of the Up, and show trends down to 5-minutes, the length of one time unit. 
 
 # Learn Everything About Purple
 
