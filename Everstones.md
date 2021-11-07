@@ -61,18 +61,41 @@ Once a day, we check how much PURPLE is staked on each Everstone, and if it's ov
 *Open Possibility: If you choose BLUX payments, weekly or monthly recharge of [Solar Disk](Sol.md) may be required to receive the full amount. This is TBD as we consider what's best for all stakeholders. Currently there is no restriction.*  
 
 
+# Daily Rewards
 
+You'll get sent BLUX daily! No claims. When you reveive your BLUX, check the Memo to learn how much BLUX is staked. 
 
-# Staking
+<p align="center">
+  <img width="auto" height="auto" src="Images/Everpay-Memo.png">
+</p>
+
+> What if I don't get paid one day?
+
+Thngs happen, and payments are occasionally missed, but your Everstone is prepared. Everstones store the last time you got paid in the metadata. If you miss a payment, even two, we'll automatically pay you all the BLUX you're owed in the next payment. If you got a new Everstone that's not paying you, or have another issue, please message [godsolislove](https://t.me/godsolislove).
+
 
 ## Staking PURPLE to an Everstone 
 Staking additional PURPLE to an Everstone is done via a `transfer` of PURPLE to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313). Eventually, we'll let you do stake more PURPLE right from [cXc.world](https://music.cxc.world).
 
 Only the current owner of the Everstone can stake more PURPLE to it, so you don't need to worry about typing the wrong ID, as the `simplebacked` contract will return any PURPLE sent without an ID of an Everstone you currently own. 
 
+> Important!! Double check before you don't stake more than 64 PURPLE to an Everstone, as any more than 64 PURPLE won't add additional benefits, and will be locked on `simplebacked` until the Everstone is liquidated (burnt)
+
+## Verify your PURPLE has been Staked
+
+Visit the [`simplebacked` contract's table](https://wax.bloks.io/account/simplebacked?loadContract=true&tab=Tables&account=simplebacked&scope=simplebacked&limit=100). Ensure scope says "simplebacked". Under BOTH the `Lower Bound:` and `Upper Bound:` fields, paste your Everstone's asset id (eg. `100000017584903`)
+
+<p align="center">
+  <img width="auto" height="auto" src="Images/Verify-PURPLE-staked.png">
+</p>
+
+
+## Wait for Everstone to Automagically Evolve
+
+Your Everstone NFT's metadata (and title) will update right before the next payment, and that payment will reflect your new level. 
 
 ## Unstaking PURPLE from Everstones
-Everstones will automatically return all tokens staked when burned. If an Everstone is transferred and then burned, the owner at the time of burning will receive all tokens backed on the Everstone. 
+Everstones will automatically return all tokens staked when the NFT is burned. If an Everstone is transferred and then burned, the owner at the time of burning will receive all tokens staked to the Everstone. Partial unstake isn't possible. *You must shatter the stone.* 
 
 
 
@@ -100,7 +123,7 @@ Here's all the mdata on an Everstone.
 
 > [See it on an Everstone](https://wax.simplemarket.io/products/asset/100000016933308)
 
-Each time an Everstone is paid, the `mdata` is updated to reflect the payment in the `lifetime_blux`, `todays_blux`, and `last` field. The `last` field hold the date of the last payment, and in the event you don't receive a payment for any reason, *you'll be paid all you are owed in the next payment.*  
+Each time an Everstone is paid, the `mdata` is updated to reflect the payment in the `lifetime_blux`, `todays_blux`, and `last` field. The `last` field holds the date of the last payment, and in the event you don't receive a payment for any reason, *you'll be paid all you are owed in the next payment.*  
 
 # [Buy an Everstone 🟦 💸](https://wax.simplemarket.io/authors/currentxchng)
 
