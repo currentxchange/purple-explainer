@@ -63,7 +63,7 @@ Once a day, we check how much PURPLE is staked on each Everstone, and if it's ov
 
 # Daily Rewards
 
-You'll get sent BLUX daily! No claims. When you reveive your BLUX, check the Memo to learn how much BLUX is staked. 
+You'll get sent BLUX daily! No claims. When you receive your BLUX, check the Memo to learn how much BLUX is staked. 
 
 <p align="center">
   <img width="auto" height="auto" src="Images/Everpay-Memo.png">
@@ -127,6 +127,4 @@ Each time an Everstone is paid, the `mdata` is updated to reflect the payment in
 
 # [Buy an Everstone 🟦 💸](https://wax.simplemarket.io/authors/currentxchng)
 
-> Also available on [Simple Market](https://wax.simplemarket.io/products?authors=currentxchng)
-
-> Please note: *Everstones will emit Blu Ups* not considered in the Top 64 PURPLE rewards system, but displayed in the default Top Charts. Blu Ups help content get exposure, which may lead to organic Sol Ups + PURPLE rewards.
+> Lvl 1 Everstone auctions available once per day at a random time. [Get the auction info in our Telegram](https://wax.simplemarket.io/products?authors=currentxchng) or go [here](https://wax.simplemarket.io/auctions?locale=en) and search "lvl" in the 'Filter by name' field to find active auctions.
