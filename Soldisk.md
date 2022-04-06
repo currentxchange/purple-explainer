@@ -2,7 +2,9 @@
 
 <p align="center">
   <img width="auto" height="auto" src="Images/Icons/sdgencc12.png">
-</p>
+</p> 
+
+ 
 > Soldisk NFTs' outside triangles appear and disappear according to the level of charge, in SOL 
 
 > This document reflects changes that were made which aren't yet reflected in the rest of the Purple Explainer
