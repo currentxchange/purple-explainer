@@ -42,6 +42,8 @@ In addition to the default ranking, users on cXc.world can choose to see Top Cha
 
 The Top 64 Charts used to reward creators in PURPLE use `Only Sol Ups` to determine who gets rewarded. 
 
+> Update: We are considering allowing up to a 4:1 ratio of Blu Ups to Sol Ups to be considered in rewards algorithm.
+
 > Linear rewards are used where #1 gets 64 times what #64 gets 1.
 
 Using `Only Sol Ups` gives PURPLE rewards a more democratic nature, as no one can buy SOL (unlike BLUX). 
