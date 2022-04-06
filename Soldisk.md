@@ -1,7 +1,7 @@
 # Soldisk NFTs 
 
 <p align="center">
-  <img width="auto" height="auto" src="Images/icons/sdgencc12.png">
+  <img width="auto" height="auto" src="Images/Icons/sdgencc12.png">
 </p>
 > Soldisk NFTs' outside triangles appear and disappear according to the level of charge, in SOL 
 
