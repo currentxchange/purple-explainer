@@ -3,13 +3,15 @@
 </p>
 
 
-# Purple Empowers Creators
+# 👨‍🎤 Purple Empowers Creators 
 
 > This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLUX](https://wax.bloks.io/account/bluxbluxblux), and [SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL) (above), staking PURPLE with [Everstones](Everstones.md), [roadmap](Roadmap.md) and legal disclaimers.
 
-Purple is a **Biomimetic Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the creator(s).
+🟣Purple is a **Biomimetic Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the content's creator a "BLUX".
 
-# Solar Concept
+🗺[cXc.world](https://cxc.world) is a music map-dapp that runs it's top charts and results algorithms on Purple. So what is Purple all about?
+
+# 🌞 Solar Concept
 
 Purple is modeled after the Solar System.
 
@@ -26,7 +28,7 @@ Your **Sol Up** is burned and the creator is rewarded 1 [BLUX](Blu.md). 1 BLUX c
 
 Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are counted to rank music on the [Top Charts](Top-Charts).  
 
-Music that makes it into the **Top 64** on the daily [Top Charts](Top-Charts.md) will earn additional rewards in [PURPLE](Purple.md). 288 PURPLE is sent out every day creator's rewards.
+Music that makes it into the **Top 64** on the daily [Top Charts](Top-Charts.md) will earn additional rewards in [PURPLE](Purple.md). 288 PURPLE is sent out every day as creator's rewards.
 
 In addition to [swaping for WAX](https://wax.alcor.exchange/swap?output=WAX-eosio.token&input=PURPLE-purplepurple), PURPLE is the fuel for [Everstone NFTs](Everstones.md), which automatically send 1 Blu Up or 1 BLUX every day to the holder, and can be upgraded with more PURPLE for higher efficiency + rewards.  
 
@@ -34,6 +36,7 @@ In addition to [swaping for WAX](https://wax.alcor.exchange/swap?output=WAX-eosi
 ## Purple Overview
 Purple works with two `eosio.token`s on [WAX](https://on.wax.io/wax-io/): **[PURPLE](https://wax.bloks.io/account/purplepurple)**, **[BLUX](https://wax.bloks.io/account/bluxbluxblux)**, and a [Simple Assets](https://github.com/CryptoLions/SimpleAssets) fungible token, **[SOL](https://wax.simplemarket.io/trading/ft/currentxchng/SOL)**.
 
+> We originally planned BLU to be BLUX for verified accounts. This two-tier model has been replaced with just BLUX, and blux has been empowered in PURPLE rewards
 
 Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1 in **BLUX**. Anyone can use **BLUX** (Abundant) to Blu Up, or trade it for **PURPLE** (scarce) or WAX. **PURPLE** can be staked for ultra-rare **[Everstone NFTs](Everstones.md)**, which help creations to **shine forever** with daily Ups.
 
