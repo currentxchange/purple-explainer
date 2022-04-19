@@ -11,12 +11,16 @@
 
 # Get to know SOL
 
-**SOL is the spark of the cXc.world economy.** Soldisks are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)-backed NFTs that allow the holder to claim [SOL](Sol.md) based on time passed since last claim (called a recharge). One Soldisk is backed by between 1-256 PURPLE, and has a daily claimable amount up to 288 SOL. 1 SOL is used for 1 Sol Up on cXc.world (learn about [Top Charts](Top-Charts.md)). Each Sol Up pays the artist 1 BLUX, and the listener 1 BLUX.
+**SOL is the spark of the cXc.world economy.** Soldisks are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)-backed NFTs that allow the holder to claim [SOL](Sol.md) based on time passed since last claim (called a recharge). One Soldisk is backed by between 1-256 PURPLE, and has a daily claimable amount from 24 to 288 SOL. 1 SOL is used for 1 Sol Up on cXc.world (learn about [Top Charts](Top-Charts.md)). Each Sol Up pays the artist 1 BLUX, and the listener 1 BLUX.
 
 
 # How it Works
 
-Soldisks are a [Simple Assets](https://wax.bloks.io/account/simpleassets) NFT that allows users to claim daily [SOL](Sol.md), used for Sol Ups. The amount claimable is based on the level of the Soldisk (See table below.)
+Soldisks are a WAX NFT that allows users to claim daily [SOL](Sol.md), used for Sol Ups. The amount claimable is based on the level of the Soldisk. See table below.
+
+**If a Soldisk has been charging for more than a day, 1 day's worth of SOL is claimable (max).** So listen to music everyday.
+
+There's also a 'leveling' effect that makes low-PURPLE Solar Disks more efficient (as PURPLE per SOL), but less powerful (as SOL per day). This was designed to make it more democratic, while also giving an opportunity to those who would like to maximize their power + earnings on cXc.world, and also enrich the PURPLE economy by buying and staking PURPLE. 
 
 ## Empowering Listeners + Fans 🧝‍ 
 Soldisks give listeners the power (via Sol Ups) to generate exposure for undiscovered music they enjoy, and also support artists financially without spending money. This changes the dynamics of fandom, allowing a dedicated grassroots group to catapult any song to the [Top Charts](Top-Charts.md) with a little patience and organization. Not only that, these fan groups (and individual fans) will help to financially support independent musicians on their journey.
@@ -26,19 +30,19 @@ Soldisks require the scarce 🟣 [PURPLE](https://wax.alcor.exchange/swap?output
 
 # How to get a free Soldisk 🤲
 
-You can fill out [this form *not live*]() to apply for early adoption.
+You can fill out [a form *linked when live*](https://linktr.ee/cxc.world) to pre-register for your free Soldisk. We may evolve into an on-chain verification for the free Soldisk NFTs in the future.
 
 
 ## New Paradigm: SOL v3.0
 
-We had planned to make SOL a token that only our `currentxchng` account could control. We did this to try to keep our tokemonics sane + beneficial to artists and listeners alike. Now, this isn't needed as we've figured out how to do it with a normal `eosio.token` contract. 
+We had planned to make SOL a token that only our `currentxchng` account could control. We did this to try to keep our tokemonics sane + beneficial to artists and listeners alike. Now, this isn't needed as we've figured out how to do it with a normal `eosio.token` contract by using our [new contracts](https://github.com/dougbutner/beta-pseudo) to act as gatekeeper for SOL . 
 
-This new SOL model allows anyone to send Ups on cXc.world even before they buy/claim a Soldisk. By using SOL on the front-end, we put full control of votes in the hands of the voter (we don't approve each Up as it happens, but later in batch).
+This new SOL model allows anyone to send Ups on cXc.world even before they buy/claim a Soldisk. By using SOL on the front-end, we put full control of votes in the hands of the voter.
 
 SOL v3.0 will give charts a wider democratic effect, as people can easily buy SOL to support artists they find on cXc.world. It also gives them more options to support. BLUX will likely be cheaper to purchase and promote a song, but the artist doesn't get paid more BLUX for these UPs (though they do have a shot at PURPLE rewards.)
 
 
-> [👁️  See a Soldisk in the wild]()
+> [Check back to 👁️  Soldisks in the wild](https://linktr.ee/cxc.world)
 
 # Soldisk Levels 🌅
 
@@ -89,7 +93,7 @@ Visit the [`simplebacked` contract's table](https://wax.bloks.io/account/simpleb
 
 
 ## Wait for Soldisk to Automagically Evolve
-Your Soldisk NFT's metadata (and title) will update when you send the PURPLE to `simplebacked` and that payment will reflect your new level. 
+Your Soldisk NFT's metadata (and title) will update when you send the PURPLE to `simplebacked` and your next recharge will reflect your new level. 
 
 ## Unstaking PURPLE from Soldisk
 Soldisk will automatically return all tokens staked when the NFT is burned. If a Soldisk is transferred and then burned, the owner at the time of burning will receive all tokens staked to the Soldisk. Partial unstake isn't possible. *You must go supernova.* 
@@ -111,7 +115,7 @@ Each time a Soldisk is paid, the `mdata` is updated to reflect the payment in th
 Here's all the mdata on a Soldisk.  
 
 ```javascript
-{ // needs update / will change
+{ // needs update / will change with new contracts
   "name":"Soldisk",
   "img":"", // Changes based on level
   "level":"6",
@@ -141,6 +145,6 @@ diskImgs = [
 ```
 
 ## Ownership Requirements
-To prevent gaming of the 20% participation requirement and blacklist system, only one Soldisk can be registered per account. Registering a different Soldisk will unregister the one you have registered. 
+To prevent gaming of the 20% participation requirement and blacklist system, only one Soldisk can be registered per account. Registering a different Soldisk will unregister the one you have registered, and first unregister it if it was already registered to another account.
 
-> [See it on a Soldisk](https://wax.simplemarket.io/products/asset/100000016933308)
+> [👁‍ See it on a (old version) Soldisk](https://wax.simplemarket.io/products/asset/100000016933308)
