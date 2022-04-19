@@ -106,7 +106,7 @@ Soldisk are Simple Assets NFT backed in Purple on a [simpleassets](https://wax.b
 
 ## Mechanics of SOL and Sol Ups
 
-> Contract pseudocode is now published
+> [Contract pseudocode](https://github.com/dougbutner/beta-pseudo) is now published, join in contract development in same [repo](https://github.com/dougbutner/beta-pseudo)
 
 Soldisk store several pieces of data we use to ensure you get paid fairly. All Soldisk data is `mdata` or mutable data, so it can be updated by our `currentxchng` account.  
 
@@ -115,15 +115,15 @@ Each time a Soldisk is paid, the `mdata` is updated to reflect the payment in th
 Here's all the mdata on a Soldisk.  
 
 ```javascript
-{ // needs update / will change with new contracts
+{ // WARN will change slightly with new contracts, images won't change
   "name":"Soldisk",
   "img":"", // Changes based on level
-  "level":"6",
-  "staked_purple":"12",
-  "daily_sol":"30",
-  "lifetime_blux":"360",
-  "last":"164476", // Time Unit of last recharge
-  "todays_sol":"30"
+  "level":"4",
+  "staked_purple":"4",
+  "daily_sol":"96",
+  "lifetime_sol":"86400",
+  "last_charge":"164476", // Time Unit of last recharge
+  "charged_sol":"96"
 }
 
 // --- Image Metadata IPFS --- \\
