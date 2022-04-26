@@ -17,7 +17,9 @@
 ![PURPLE Token Logo Small](https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/purple.png)
 
 # Functionality
-PURPLE can be **staked for NFTs** that enable special powers, Ups, BLUX or privileges on cXc.world. PURPLE works across mapps, starting with [cXc Music](music.cXc.world). Currently, [Everstones](Everstones.md) are the only announced function of PURPLE. 
+PURPLE can be **staked for NFTs** that enable special powers, Ups, BLUX or privileges on cXc.world. PURPLE works across mapps, starting with [cXc Music](music.cXc.world). Currently, [Everstones](Everstones.md) are activating the BLUX generating capabilities of PURPLE. 
+
+[Soldisk NFTs](Soldisk.md) will provide additional functionality to 
 
 # Supply of 🟣 PURPLE
 [🟣 PURPLE](https://wax.bloks.io/account/purplepurple) has a [**maximum supply**](https://wax.bloks.io/transaction/2e9499407094dbcd521f7c7b012d3a38a20fc847707a0f6e90f4e7164dd95ea5) of 12<sup>7</sup> (**35,831,808**) PURPLE tokens, comparable with bitcoin (21,000,000) in terms of scarcity.
@@ -130,9 +132,9 @@ purplepurple
 Image: https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/purple.png
 
 
-# Buy 🟣 PURPLE on [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token)
+# Trade for 🟣 PURPLE on [Alcor Spot](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) or [Defibox Reward Pools](https://wax.defibox.io/marketDetail/45)
 
-# Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUX/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
+# Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token), [WAX/USDT](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUX/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
 
 > Please note: Everstones are scheduled for after the release date of cXc.world Beta. See [roadmap](Roadmap.md).
 
