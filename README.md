@@ -5,11 +5,13 @@
 
 # 👨‍🎤 Purple Empowers Creators 
 
-> This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLUX](https://wax.bloks.io/account/bluxbluxblux), and [SOL](Soldisk.md) (above), staking PURPLE with [Everstones](Everstones.md), [roadmap](Roadmap.md) and legal disclaimers. You can also browse our [tokenomic contracts](https://github.com/dougbutner/beta-pseudo)
+> This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLUX](https://wax.bloks.io/account/bluxbluxblux), and [SOL](Soldisk.md) (above), staking PURPLE with [Everstones](Everstones.md), [roadmap](Roadmap.md) and legal disclaimers. You can also browse our [tokenomic contracts](https://github.com/dougbutner/beta-pseudo).
 
-🟣Purple is a **Biomimetic Economy** where participants receive daily SOL to shine their light on content they love with an "Up" that pays the content's creator a "BLUX".
+🟣Purple is a three-token **Biomimetic Economy** where participants receive daily **SOL** to shine their light on content they love with a "Sol Up" (costs 1 SOL) that pays the content's creator a **BLUX**, which can Blu Up (costs 1 BLUX). Whoever gets the most Ups each day earns the real prize, **PURPLE**.
 
-🗺[cXc.world](https://cxc.world) is a music map-dapp that runs it's top charts and results algorithms on Purple. So what is Purple all about?
+🗺[cXc.world](https://cxc.world) is a music map-dapp that runs on Purple (PURPLE, BLUX, SOL). 
+
+***So what is Purple all about?***
 
 # 🌞 Solar Concept
 
@@ -122,11 +124,11 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (later Hive) to 
 
 **BLUX** - Abundant token distributed to recipients of Sol Ups, and for completion of Role-based tasks. Spent 1:1 to give Blu Ups, recycled to creators
 
-**PURPLE** - Scarce token that can be staked for [Everstones](Everstones.md) or to [Solar Disks](Solar-Disk.md)
+**PURPLE** - Scarce token that can be staked to activate [Everstone NFTs](Everstones.md) for daily rewards, or to [Solar Disks](Solar-Disk.md)
 
-**Everstone** - PURPLE-backed NFT that Ups a specific piece of content on a mapp periodically automatically [Read about Everstones](Everstones.md) and then [Buy Everstones](https://nfthive.io/market?collection=currentxchng)
+**Everstone** - PURPLE-backed NFT that Blu Ups a specific piece of content on a mapp daily automatically [Read about Everstones](Everstones.md) or offers daily BLUX ([direct to wallet](https://wax.bloks.io/account/everpay.cxc)) of the same value. [Buy Everstones](https://nfthive.io/market?collection=currentxchng)
 
-**Solar Disk** - NFT needed to register a user as a valid recipient of SOL, and hold SOL. [Learn about Solar Disks](Solar-Disk.md)
+**Solar Disk** - NFT needed to register a user as a valid recipient of daily claimable SOL. [Learn about Solar Disks](Solar-Disk.md)
 
 **cXc** - Short for Current X Change LLC, Maryland, USA. Name signifies Delta, the triangular symbol of change and the essence of our geotemporal curation system. 
 
