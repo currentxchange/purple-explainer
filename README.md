@@ -32,7 +32,7 @@ Ups (Sol Ups + Blu Ups) make content grow bigger on the map, and are counted to 
 
 Music that makes it into the **Top 64** on the daily [Top Charts](Top-Charts.md) will earn additional rewards in [PURPLE](Purple.md). 288 PURPLE is sent out every day as creator's rewards.
 
-In addition to [swaping for WAX](https://wax.alcor.exchange/swap?output=WAX-eosio.token&input=PURPLE-purplepurple), PURPLE is the fuel for [Everstone NFTs](Everstones.md), which automatically send 1 Blu Up or 1 BLUX every day to the holder, and can be upgraded with more PURPLE for higher efficiency + rewards.  
+In addition to [swaping for WAX](https://wax.alcor.exchange/swap?output=WAX-eosio.token&input=PURPLE-purplepurple), PURPLE is the fuel for [Everstone NFTs](Everstones.md), which automatically [send 1 Blu Up or 1 BLUX every day]() to the holder, and can be upgraded with more PURPLE for higher efficiency + rewards.  
 
 
 ## Purple Overview
@@ -139,7 +139,7 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (later Hive) to 
 
 ## Eco-Friendly
 
-Purple lives on [**WAX**](https://on.wax.io/wax-io/), an [EOSIO](https://eos.io/about/) blockchain.
+Purple lives on [**WAX**](https://on.wax.io/co2/), an [EOSIO](https://eos.io/about/) blockchain.
 
 “EOSIO is 66,000 times more energy efficient than Bitcoin and 17,000 times more energy efficient than Ethereum” [GenerEOS](https://www.genereos.io/eosenergyconsumption/), 2018.
 
@@ -187,56 +187,59 @@ Participating in the direct listing requires that you adhere and agree to the re
 
 
 - - - - - - - - - - - - - - - - - - - - - - - -
-## 💥 FIND OUT MORE ABOUT [cXc](https://currentxchange.com) 💥
+## 💥 WALK WITH [cXc](https://cXc.world) 💥
 - - - - - - - - - - - - - - - - - - - - - - - -
 
-Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our media [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) are just the start. As we refine [Purple](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview), we also seek to redefine what it means to come together as humans and co-create. We hope you'll enjoy the tools already here, and are infinitely stoked for what the future holds. 
+Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our media Mapps are just the start. As we refine Purple, we also seek to redefine what it means to come together as humans and co-create. We hope you'll enjoy the tools already here, and we're infinitely stoked for what our future holds. 
 
-## 🗺️ Experience [cXc.world 🌎](https://cXc.world)
+## 👨‍🎤 Experience [cXc.world 🌎](https://cXc.world)
 
-## 👁️ Step into our [vision](https://currentxchange.com/vision)
+## 🤝 Get to know [🟣 Purple](https://github.com/currentxchange/purple-explainer)
 
 ## 🎥  [Add Music to cXc.world](https://www.youtube.com/watch?v=7NCaG2ZPHOQ)
 
-## 💸 Get to know our [Economy](https://github.com/currentxchange/purple-explainer)
+- - - - - - - - - - - - - - - - - - - 
+# 🎁 Music NFTs on WAX 🚀 
+- - - - - - - - - - - - - - - - - - - 
 
-## 🖼️🎶  Shop our [Curated NFT Collection](https://drops.cxc.world)  
-
-## 🟦🎶  Treat yourself to an [Everstone](Everstones.md)
+### 🗺 [Music NFT Map](https://cxc.world/?format=nft)  
+### 🛍  Curated (cXc) Collection [drops.cxc.world](https://drops.cxc.world)  
+### 🛠  [Music NFT standard](https://github.com/currentxchange/Music-NFT-Standard)  
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# 💰 TRADE + Swap cXc.world tokens on Alcor 📈
+# 💰 BARTER [🟣PURPLE](ttps://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token), [🔵BLUX](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token) on Alcor 📈 [🎁Defibox](https://wax.defibox.io/addMarket?pairId=45) 🏊‍♂️
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
-## 🟣🟡 [PURPLE/WAX](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token) ~~ 🔵🟡 [BLUX/WAX](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token)
-💵🟣 [USDT/PURPLE](https://wax.alcor.exchange/trade/purple-purplepurple_waxusdt-eth.token) ~~ 🔵💵 [BLUX/USDT](https://wax.alcor.exchange/trade/waxusdt-eth.token_blux-bluxbluxblux)
+🧭 Explore these tokens in our [Purple Explainer](https://github.com/currentxchange/purple-explainer/)
 
+
+- - - - - - - - - - - - - - - - - - - 
+# 👕 WEAR cXc [High-fashion](https://artofwhere.com/artists/cxc-world-merch) 🇨🇦 🛍️ [Redbubble](https://www.redbubble.com/people/currentxchange/shop?artistUserName=CurrentXChange&iaCode=all-stickers) 🔴
+- - - - - - - - - - - - - - - - - - - 
+
+[cXc Tribe](https://peakd.com/hive-179421/@currentxchange/tribe-temple-for-cxcworld-cxc-tribe-working-document) perks include additional 👕 designs, all with 100% rebate in PURPLE 🟣  
 
 - - - - - - - - - - - - - - - - - - - - - - - 
-# Follow cXc on Social Media 📱🌎
+# 🦁🐻🦉 Find home in [cXc Tribe 🔥](https://lu.ma/cxc)
 - - - - - - - - - - - - - - - - - - - - - - -
 
-## >> [All Links 🔗🌳 linktr.ee/cxc.world](https://linktr.ee/cxc.world) <<
+
+## **[🎶 Sing and Dance: cXc Discord](https://discord.gg/yqtQawvrzV)** 
+
+## [Share Vision in 🌕 Moon Meets](https://lu.ma/community/com-OQYy00VHiRJmA0S/join) for tribe and villagers
+
+- We're also on [✈️ Telegram](https://t.me/cXc_world)
+
+- And welcome music posts in our [🏘️ Hive Community](https://peakd.com/c/hive-179421) 
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - 
 
 
-- [🖼️ Instagram](https://instagram.com/cxc.world)
 
-- [🐦 Twitter](https://twitter.com/currentxchange)
+##### (cXc) [📺 YouTube](youtube.com/channel/UCBjTUosp2R_FN6AFdHV-v-Q) --- [🐝 Hive](peakd.com/@currentxchange) --- [🔺 Reddit](https://www.reddit.com/r/cXcMusic)  --- [🖼️ Instagram](instagram.com/cxc.world) --- [🐦 Twitter](twitter.com/currentxchange)
 
-- [📺 YouTube](https://youtube.com/channel/UCBjTUosp2R_FN6AFdHV-v-Q)
+- - - - - - - - - - - - - - - - - - - - - - -
 
-- [🐝 Hive](https://peakd.com/@currentxchange)
-
-- [🏘️ Hive Community](https://peakd.com/c/hive-179421) 
-
-- **[🔑 Discord Musician Community](https://discord.gg/4fhWgZ5R5s)** (Collab channels + more) 
-
-- [🔺 Reddit](https://www.reddit.com/r/cXcMusic) 
-
-- **[✈️ Telegram](https://t.me/cXc_world)**
-
-- [🌊 Wavvy Music Accolades](https://medium.com/wavvys) (NFT Music Awards)
-
-
-## (cXc) [Roadmap 🛣️ ](https://github.com/currentxchange/purple-explainer/blob/master/Roadmap.md)
+##  [🛣️ Roadmap](https://github.com/currentxchange/purple-explainer/blob/master/Roadmap.md) [ 👁 OG Vision](https://currentxchange.com/vision) [🟣 OG Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview)
