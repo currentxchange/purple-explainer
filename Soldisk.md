@@ -9,12 +9,12 @@
 
 > This document reflects changes that were made which aren't yet reflected in the rest of the Purple Explainer
 
-# Get to know SOL
+# Get to know SOL ☀️
 
 **SOL is the spark of the cXc.world economy.** Soldisks are 🟣 [PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)-backed NFTs that allow the holder to claim [SOL](Sol.md) based on time passed since last claim (called a recharge). One Soldisk is backed by between 1-256 PURPLE, and has a daily claimable amount from 24 to 288 SOL. 1 SOL is used for 1 Sol Up on cXc.world (learn about [Top Charts](Top-Charts.md)). Each Sol Up pays the artist 1 BLUX, and the listener 1 BLUX.
 
 
-# How it Works
+# How it Works 🔧
 
 Soldisks are a WAX NFT that allows users to claim daily [SOL](Sol.md), used for Sol Ups. The amount claimable is based on the level of the Soldisk. See table below.
 
