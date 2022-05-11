@@ -106,6 +106,10 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (later Hive) to 
 
 # Quick Definitions
 
+**[cXc Tribe](https://cxc-world.medium.com/cxc-tribe-is-lighting-our-fire-walk-beside-us-to-a-more-musical-world-%EF%B8%8F-1dc4fdded4aa)** - Holotropic cXc Community of empowered self- and world-brightening souls.
+
+**[cXc Tribe Temple](https://cxc-world.medium.com/tribal-temple-for-cxc-world-cxc-tribe-working-document-b92079f6927c)** - Vision, Mission, Pillars, and Foundation of everything we do.
+
 **cXc.world** - Home of Mapps like [cXc Music](music.cxc.world)
 
 **Mapp** - or "Map dapp" used to refer to the [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) created by cXc using Purple
@@ -218,7 +222,7 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 # 👕 WEAR cXc [High-fashion](https://artofwhere.com/artists/cxc-world-merch) 🇨🇦 🛍️ [Redbubble](https://www.redbubble.com/people/currentxchange/shop?artistUserName=CurrentXChange&iaCode=all-stickers) 🔴
 - - - - - - - - - - - - - - - - - - - 
 
-[cXc Tribe](https://peakd.com/hive-179421/@currentxchange/tribe-temple-for-cxcworld-cxc-tribe-working-document) perks include additional 👕 designs, all with 100% rebate in PURPLE 🟣  
+[cXc Tribe perks](https://peakd.com/hive-179421/@currentxchange/tribe-temple-for-cxcworld-cxc-tribe-working-document) include additional 👕 designs, all with 100% rebate in PURPLE 🟣  
 
 - - - - - - - - - - - - - - - - - - - - - - - 
 # 🦁🐻🦉 Find home in [cXc Tribe 🔥](https://lu.ma/cxc)
@@ -227,7 +231,7 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 
 ## **[🎶 Sing and Dance: cXc Discord](https://discord.gg/yqtQawvrzV)** 
 
-## [Share Vision in 🌕 Moon Meets](https://lu.ma/community/com-OQYy00VHiRJmA0S/join) for tribe and villagers
+## [Share Vision in 🌕 Moon Meets](https://lu.ma/cxc) 
 
 - We're also on [✈️ Telegram](https://t.me/cXc_world)
 
