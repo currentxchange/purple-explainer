@@ -24,7 +24,7 @@ Purple is modeled after the Solar System.
   <img width="auto" height="auto" src="Images/cxc-one-imager.png">
 </p>
 
-You can claim up to 288 [SOL](Sol.md) tokens every day once you hold a [Solar Disk NFT](Solar-Disk.md), which enable you to “Up” creations you love on [cXc.world](https://cxc.world/), a map of music (and soon more). You can Up content **multiple times**, anytime, spending 1 SOL or BLUX per Up.  
+You can claim up to 288 [SOL](Sol.md) tokens every day once you hold a [Soldisk NFT](Soldisk.md), which enable you to “Up” creations you love on [cXc.world](https://cxc.world/), a map of music (and soon more). You can Up content **multiple times**, anytime, spending 1 SOL or BLUX per Up.  
 
 Your **Sol Up** is burned and the creator is rewarded 1 [BLUX](Blu.md). 1 BLUX can be spent for 1 **Blu Up**, in which case the BLUX is recycled to pay creators.  
 
@@ -45,7 +45,7 @@ Free daily **SOL** facilitates collaboration via Sol Ups, which pay creators 1:1
 All Ups (Blu Ups, Sol Ups + Blu Ups from Everstones) are combined and counted to determine Top Charts.
 
 > Read about Everstone NFTs in [Everstones.md](Everstones.md)  
-> Read about Solar Disks in [Solar-Disk.md](Solar-Disk.md)  
+> Read about Soldisks in [Soldisk.md](Soldisk.md)  
 
 Mapps (map-dapps) are **geotemporal**, and every mapp paint shows only a timespan's Upped content in a defined location. *With no Ups, it won't show up.* The latest displays only count Ups in the past day, making **[Everstones](Everstones.md)** an easy way not to disappear\*, and **Blu Ups** a shot to be seen at the top of local charts.
 
@@ -106,11 +106,7 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (later Hive) wit
 
 # Quick Definitions
 
-**[cXc Tribe](https://cxc-world.medium.com/cxc-tribe-is-lighting-our-fire-walk-beside-us-to-a-more-musical-world-%EF%B8%8F-1dc4fdded4aa)** - Holotropic cXc Community of empowered self- and world-brightening souls.
-
-**[cXc Tribe Temple](https://cxc-world.medium.com/tribal-temple-for-cxc-world-cxc-tribe-working-document-b92079f6927c)** - Vision, Mission, Pillars, and Foundation of everything we do.
-
-**cXc.world** - Home of Mapps like [cXc Music](music.cxc.world)
+**cXc.world** - Home of Mapps like [cXc Music](https://music.cxc.world) with Top 64 music charts and NFT-enabled music map, curated democratically through Purple's double-fractal system of Geography and Time.  
 
 **Mapp** - or "Map dapp" used to refer to the [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) created by cXc using Purple
 
@@ -118,23 +114,23 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (later Hive) wit
 
 **Up** - One unit of positive vibes, like a 'like', sent by clicking a yellow or blue triangle. Manifests as a `transfer` action. Sol Ups pay the creator in BLUX, while Blu Ups cost 1 BLUX.
 
-**Top Charts** - Content sorted by Up count, used to distribute rewards in PURPLE and determine which content should appear most prominently on the map. Top 64 content is rewarded 288 PURPLE daily. 
+**Top Charts** - Content sorted by Up count, used to distribute rewards in PURPLE and determine which content should appear most prominently on the map. Top 64 global content is rewarded 288 PURPLE daily. Daily, weekly, monthly and yearly global charts will be [published on Hive](https://peakd.com/cxc-music/@currentxchange/cxc-music-top-hip-hop-charts-week-20-2020-dapp-music-cxc-world).
 
-**Geotemporal** - Having to do with time and location, both of which are associated with a Up; the location the content was created (geo) and the Time Unit the Up happened (temporal). 
+**Geotemporal** - Geographic + Temporal. Every Up happens at a time (temporal, token transfer Tx) and location (of the song). Systemically manifesting as iterated, self-similar levels corresponding to Top Charts, geography as *city, county, state, nation, globe* and time building from a *Time Unit*, with Gregorian-calander charts for *days, weeks, months, and years*. This fractal system's base iteration being city charts at one time unit, and all city charts making the county charts, all counties the state charts, etc. Every geotemporal display can be filtered by genre, format, and mood to reveal detailed charts and painted music maps on [cXc.world](https://cxc.world). 
 
-**Time Unit** - 5-minute units (288 per day) used to run cXc.world's geotemporal charts, and as the basis of Purple. 1 SOL = 1 time unit per Solar Disk-holding account, as this is the allowance of SOL cXc gives. Top Charts are calculated every time unit, with a 1 PURPLE reward, so 1 PURPLE = 1 time unit. Gregorian calander charts (Month, Week, etc.) are available, as well as down to the 5- minute time unit.
+**Time Unit** - 5-minute units (288 per day) used to run cXc.world's geotemporal charts, and as the basis of Purple. 1 SOL = 1 time unit per Soldisk-holding account, as this is the allowance of SOL cXc gives. Top Charts are calculated every time unit, with a 1 PURPLE reward (288/day), so 1 PURPLE = 1 time unit. Gregorian calendar charts (Month, Week, etc.) are available, as well as down to the 5- minute time unit.
 
-**SOL** - Abundant Time Token that can be received freely up to 288 SOL per day by any user of [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) holding a Solar Disk. Spent 1:1 to give Sol Ups. Controlled by cXc.
+**SOL** - Abundant Time Token that can be received freely up to 288 SOL per day by any user of [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) holding a Soldisk. Spent 1:1 to give Sol Ups. Controlled by cXc.
 
 **BLUX** - Abundant token distributed to recipients of Sol Ups, and for completion of Role-based tasks. Spent 1:1 to give Blu Ups, recycled to creators
 
-**PURPLE** - Scarce token that can be staked to activate [Everstone NFTs](Everstones.md) for daily rewards, or to [Solar Disks](Solar-Disk.md)
+**PURPLE** - Scarce token that can be staked to activate [Everstone NFTs](Everstones.md) for daily rewards, or to [Soldisks](Soldisk.md)
 
 **Everstone** - PURPLE-backed NFT that Blu Ups a specific piece of content on a mapp daily automatically [Read about Everstones](Everstones.md) or offers daily BLUX ([direct to wallet](https://wax.bloks.io/account/everpay.cxc)) of the same value. [Buy Everstones](https://nfthive.io/market?collection=currentxchng)
 
-**Solar Disk** - NFT needed to register a user as a valid recipient of daily claimable SOL. [Learn about Solar Disks](Solar-Disk.md)
+**Soldisk** - NFT held to register a user as a valid claimer of SOL. [Learn about Soldisks](Soldisk.md)
 
-**cXc** - Short for Current X Change LLC, Maryland, USA. Name signifies Delta, the triangular symbol of change and the essence of our geotemporal curation system. 
+**cXc** - Short for Current X Change LLC, Maryland, USA. X is usually pronounced as letter. Our name has many meanings, including "Current Times Change" or meaning exchanging energy (current), or exchanging now (current), "Current eXChange". In Maths, the change of x (a variable) is represented by Δ (Delta), the same triangular symbol of Ups, with SOL's logo being a [Tetrahedron](https://en.wikipedia.org/wiki/Platonic_solid) (four triangles, X), and two tetrahedrons combining to form a Merkaba, BLUX's symbol, and connecting all vertices of the Merkaba to reveal the Cube, the next platonic solid. Purple is the final platonic solid, representing crystallization of the highest now-energy.
 
 
 
