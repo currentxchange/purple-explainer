@@ -221,7 +221,7 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 [cXc Tribe perks](https://peakd.com/hive-179421/@currentxchange/tribe-temple-for-cxcworld-cxc-tribe-working-document) include additional 👕 designs, all with 100% rebate in PURPLE 🟣  
 
 - - - - - - - - - - - - - - - - - - - - - - - 
-# 🦁🐻🦉 Find home in [cXc Tribe 🔥](https://lu.ma/cxc)
+# 🦁🐻🦉 Find home in [cXc Tribe 🪶](https://lu.ma/cxc)
 - - - - - - - - - - - - - - - - - - - - - - -
 
 
