@@ -16,9 +16,10 @@
 :heavy_check_mark: [BLUX Bash Invite Program](https://beta.peakd.com/hive-179421/@currentxchange/cxcworld-announces-blux-bash-airdrop--music-nft-prizes) Airdrip Daily 🔵 BLUX   
 :heavy_check_mark: [PURPLE/USDT](https://wax.alcor.exchange/trade/purple-purplepurple_waxusdt-eth.token) = [USDT/BLUX](https://wax.alcor.exchange/trade/waxusdt-eth.token_blux-bluxbluxblux) Markets on Alcor   
 :heavy_check_mark: cXc releases a [Music NFT Standard](https://github.com/currentxchange/Music-NFT-Standard) compatible with [Atomichub](https://wax.atomichub.io/explorer/collection/cxcmusicnfts#accounts)    
-:heavy_check_mark: Purple Staking via [Everstone NFTs](Everstones.md) buy [here](https://wax.simplemarket.io/authors/currentxchng)   
+:heavy_check_mark: Purple Staking via [Everstone NFTs](Everstones.md) [(buy 🟦)](https://wax.simplemarket.io/authors/currentxchng)   
 :heavy_check_mark: [cxcmusicnfts](https://wax.atomichub.io/market?collection_name=cxcmusicnfts) Exclusive Music NFT Collection launched with [drops site](https://drops.cxc.world)    
-:heavy_check_mark: [Music NFT Map on WAX](https://music.cxc.world/?format=nft) Launched seamlessly on cXc.world via new NFT format with Template ID requirement       
+:heavy_check_mark: [Music NFT Map on WAX](https://music.cxc.world/?format=nft) Launched seamlessly on cXc.world via new NFT format with Template ID requirement    
+:heavy_check_mark: [cXc Tribe 🪶](https://lu.ma/cxc)    
 - [ ] cXc.world Beta with Ups + BLUX [rewards](Blu.md)   
 - [ ] [National + Local Top Charts](Images/Top-Charts-Beta.png) Go Live   
 - [ ] [Global Top 64](Top-Charts.md) PURPLE rewards 🟣 (Requires activity level to activate)
