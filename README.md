@@ -95,7 +95,7 @@ Try the first **cXc.world** Mapp using Purple, **cXc Music:** [music.cXc.world](
 </p>
 
 # cXc History
-cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (later Hive) with a music-to-blockchain one-click posting feature. Alpha had time-limited Ups, but not on-chain. After two minor releases (Silver Edition [2019] + Gold Version [2020]), the upcoming Beta release will enable the Purple Economy on WAX on cXc.world. We had previously announces a SMT token, but thankfully SMT tokens were never fully released by Steemit, and we all are much better off on WAX, in speed, free transactions, and community. [Roadmap 🛣️ ](https://github.com/currentxchange/purple-explainer/blob/master/Roadmap.md)
+cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (later Hive) with a music-to-blockchain one-click posting feature. Alpha had time-limited Ups, but not on-chain. After two minor releases (Silver Edition [2019] + Gold Version [2020]), the upcoming Beta release will enable the Purple Economy on WAX on cXc.world. [Roadmap 🛣️ ](https://github.com/currentxchange/purple-explainer/blob/master/Roadmap.md)
 
 > All pre-beta Ups will be transitioned, so artists will get paid in BLUX for Ups happening now in Gold Version. 
 
