@@ -20,7 +20,7 @@
 :heavy_check_mark: [cxcmusicnfts](https://wax.atomichub.io/market?collection_name=cxcmusicnfts) Exclusive Music NFT Collection launched with [drops site](https://drops.cxc.world)    
 :heavy_check_mark: [Music NFT Map on WAX](https://music.cxc.world/?format=nft) Launched seamlessly on cXc.world via new NFT format with Template ID requirement    
 :heavy_check_mark: [cXc Tribe 🪶](https://lu.ma/cxc) Monthly 🌕 Moon Meets   
-- [ ] cXc.world Beta with Ups + BLUX [rewards](Blu.md)   
+- [ ] [cXc.world Beta](https://bit.ly/cxcbeta) with Ups + BLUX [rewards](Blu.md)   
 - [ ] [National + Local Top Charts](Images/Top-Charts-Beta.png) Go Live   
 - [ ] [Global Top 64](Top-Charts.md) PURPLE rewards 🟣 (Requires activity level to activate)
 - [ ] Messenger Program    
