@@ -7,7 +7,7 @@
 :heavy_check_mark: [Purple](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) + [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) papers   
 :heavy_check_mark: [cXc.world](https://cxc.world) (Alpha) launched 🗺️    
 :heavy_check_mark: "Up" system modeling future 5-minute Time Tokens (☀️ [SOL](Sol.md))    
-:heavy_check_mark: [National Geotemporal Top Charts]](https://bit.ly/cxcbeta) + USA States, Counties, Cities   
+:heavy_check_mark: [National Geotemporal Top Charts](https://bit.ly/cxcbeta) + USA States, Counties, Cities   
 :heavy_check_mark: cXc.world Silver Edition 🥈  New UI  
 :heavy_check_mark: cXc.world Gold Version 🥇  Hive -> Wax transition begins    
 :heavy_check_mark: [Purple Explainer](https://github.com/currentxchange/purple-explainer) on Github   
