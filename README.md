@@ -5,7 +5,7 @@
 
 # 👨‍🎤 Purple Empowers Creators 
 
-> This repo will cover cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLUX](https://wax.bloks.io/account/bluxbluxblux), and [SOL](Soldisk.md) (above), staking PURPLE with [Everstones](Everstones.md), [roadmap](Roadmap.md) and legal disclaimers. You can also browse our [tokenomic contracts](https://github.com/dougbutner/beta-pseudo).
+> 🧭 You've arrived to the first stop on your tour with cXc. This is your opener to cXc.world's economy, called Purple, made of the tokens [PURPLE](https://wax.bloks.io/account/purplepurple), [BLUX](https://wax.bloks.io/account/bluxbluxblux), and [SOL](Soldisk.md) (above), staking PURPLE with [Everstones](Everstones.md), [roadmap](Roadmap.md) and legal disclaimers. You can also browse our [tokenomic contracts](https://github.com/dougbutner/beta-pseudo).
 
 🟣Purple is a three-token **Biomimetic Economy** where participants receive daily **SOL** to shine their light on content they love with a "Sol Up" (costs 1 SOL) that pays the content's creator a **BLUX**, which can Blu Up (costs 1 BLUX). Whoever gets the most Ups each day earns the real prize, **PURPLE**.
 
