@@ -110,7 +110,7 @@ cXc.world (Alpha) launched in Dec 2018, integrated with Steemit (later Hive) wit
 
 **Mapp** - or "Map dapp" used to refer to the [mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) created by cXc using Purple
 
-**Purple** - CoCreative, Biomimetic Economy developed by cXc
+**Purple** - Biomimetic Economy developed by cXc.
 
 **Up** - One unit of positive vibes, like a 'like', sent by clicking a yellow or blue triangle. Manifests as a `transfer` action. Sol Ups pay the creator in BLUX, while Blu Ups cost 1 BLUX.
 
@@ -238,7 +238,7 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 
 
 
-##### (cXc) [📺 YouTube](youtube.com/channel/UCBjTUosp2R_FN6AFdHV-v-Q) --- [🐝 Hive](peakd.com/@currentxchange) --- [🔺 Reddit](https://www.reddit.com/r/cXcMusic)  --- [🖼️ Instagram](instagram.com/cxc.world) --- [🐦 Twitter](twitter.com/currentxchange)
+##### (cXc) [📺 YouTube](https://youtube.com/channel/UCBjTUosp2R_FN6AFdHV-v-Q) --- [🐝 Hive](https://peakd.com/@currentxchange) --- [🔺 Reddit](https://www.reddit.com/r/cXcMusic)  --- [🖼️ Instagram](https://instagram.com/cxc.world) --- [🐦 Twitter](https://twitter.com/currentxchange)
 
 - - - - - - - - - - - - - - - - - - - - - - -
 
