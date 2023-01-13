@@ -1,7 +1,7 @@
 
 # Purple Economic Brief
 
-This brief highlights key numbers and concepts in the Purple Economy in one place, covering 🟣 PURPLE, 🔵 BLUx, and ☀️ Sol.
+This brief highlights key numbers and concepts in the Purple Economy in one place, covering 🟣 PURPLE, 🔵 BLUX, and ☀️ Sol.
 
 # 🟣 PURPLE Economic Brief
 
@@ -62,41 +62,44 @@ After all sell orders clear, we'll list 248,832 more 🟣 PURPLE priced from 40 
 
 # Buy 🟣 PURPLE on [Alcor](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token)
 
-# Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
+# Swap [WAX/PURPLE](https://wax.alcor.exchange/swap?output=PURPLE-purplepurple&input=WAX-eosio.token) + [BLUX/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
 
 ___
 
-# 🔵 BLUx Economic Brief
+# 🔵 BLUX Economic Brief
 
 ## Tech
 `eosio.token`-based [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) contract on WAX blockchain
 
 ## Utility
-🔵 BLUx is a reward given to creators that receive 1 Up on a piece of content they created. Guardian and Changer roles can also earn BLUx. 
+🔵 BLUX is a reward given to creators that receive 1 Up on a piece of content they created. Guardian and Changer roles can also earn BLUX. 
 
-1 BLUx can be spent to make 1 Blu Up. Ups make content appear bigger on the mapp, and higher on the [charts](Top-Charts.md). BLUx is indivisible.
+1 BLUX can be spent to make 1 Blu Up. Ups make content appear bigger on the mapp, and higher on the [charts](Top-Charts.md). BLUX is indivisible.
 
-Because SOL is limited, BLUx is the only way to Up a single or multiple pieces of content more than 288 times in one day (cumulative). 
+Because SOL is limited, BLUX is the only way to Up a single or multiple pieces of content more than 288 times in one day (cumulative). 
 
 
-## Max Supply = Max Possible on EOSIO (2<sup>64</sup>-1) 🔵 BLUx
+## Max Supply = Max Possible on EOSIO (2<sup>64</sup>-1) 🔵 BLUX
 
-## Here's exactly how many BLUx have been issued.
+## Here's exactly how many BLUX have been issued (At Publication)
 2,000,000 🔵 - Promo Budget  
 200,000 🔵 - Liquidity pools
 
-We will issue up to 5,500,000 BLUx during the promotion of [cXc.world](https://cxc.world) Beta, 5,000,000 for promotion and 500,000 for liquidity. Also, we may add leftover Promo budget to liquidity pools.
+We will issue up to 5,500,000 BLUX during the promotion of [cXc.world](https://cxc.world) Beta, 5,000,000 for promotion and 500,000 for liquidity. Also, we may add leftover Promo budget to liquidity pools.
 
-Additionally, 1 BLUx is issued to be paid to artists for each Sol Up they receive  (batch pre-issued 1,000,000 at a time)
+Additionally, 1 BLUX is issued to be paid to artists for each Sol Up they receive  (batch pre-issued 1,000,000 at a time)
 
-# *[2,200,000 Circulating 🔵 BLUx](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux)*
+# *[2,200,000 Circulating 🔵 BLUX](https://wax.bloks.io/tokens/BLUX-wax-bluxbluxblux)*
+
+BLUX is paid daily to holders of Everstone NFTs.  
+
+BLUX is being minted at 1,000,000 BLUX at a time for Everstone rewards when BLUX is depleted (2020-2023). Starting in 2023, the minting amount may be raised no greater than 10,000,000 at one time to ease manual minting frequency. 
 
 
-**We will not issue any further BLUx until rewards systems are in place.**
 
-# Buy/Sell 🔵 BLUx on [Alcor](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token)
+# Buy/Sell 🔵 BLUX on [Alcor](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token)
 
-# Swap [WAX/BLUX](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token) + [BLUx/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
+# Swap [WAX/BLUX](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token) + [BLUX/PURPLE](https://wax.alcor.exchange/swap?input=BLUX-bluxbluxblux&output=PURPLE-purplepurple)
 
 ___
 
