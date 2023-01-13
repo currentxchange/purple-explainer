@@ -75,7 +75,7 @@ Thngs happen, and payments are occasionally missed, but your Everstone is prepar
 
 
 ## Staking PURPLE to an Everstone 
-Staking additional PURPLE to an Everstone is done via a `transfer` of PURPLE to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313). Eventually, we'll let you do stake more PURPLE right from [cXc.world](https://music.cxc.world).
+Staking additional PURPLE to an Everstone is done via a `transfer` of PURPLE to [simplebacked](https://wax.bloks.io/account/simplebacked) with a memo of the Everstone's Simple Assets NFT ID (ex 100000005145313). Eventually, we'll let you stake more PURPLE right from [cXc.world](https://music.cxc.world).
 
 Only the current owner of the Everstone can stake more PURPLE to it, so you don't need to worry about typing the wrong ID, as the `simplebacked` contract will return any PURPLE sent without an ID of an Everstone you currently own. 
 
