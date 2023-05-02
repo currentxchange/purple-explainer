@@ -1,5 +1,5 @@
 
-## REFER TO [disclaimer.md](disclaimer.md) for definitions binding to this document
+## REFER TO [disclaimer.md](https://github.com/currentxchange/purple-explainer/blob/master/Legal/Disclaimer.md) for definitions binding to this document
 
 # PURPLE Token Direct Listing End Consumer Agreement
 This Tokens Purchase Agreement (the “Agreement”) summarizes the principal terms proposed by Current X Change LLC, a company incorporated in the jurisdiction of Maryland, USA, employer identification number 47-2831733 (the “Seller”) regarding sale of digital tokens which will be issued and then transferred by the Seller to You (the “Buyer”).
