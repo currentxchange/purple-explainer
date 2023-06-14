@@ -221,10 +221,10 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 - - - - - - - - - - - - - - - - - - - 
 
 
-## **[🎶 Sing and Dance: cXc Discord](https://discord.gg/yqtQawvrzV)** 
+## **[🎶 Jam with us in cXc's 🎮 Discord](https://discord.gg/u3kpj7xEWZ)** 
 
 
-- We're also on [✈️ Telegram](https://t.me/cXc_world) + [🎮 Discord](https://)
+- We're also on [✈️ Telegram](https://t.me/cXc_world) 
 
 - And welcome music posts in our [🏘️ Hive Community](https://peakd.com/c/hive-179421) 
  
