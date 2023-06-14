@@ -187,7 +187,7 @@ Participating in the direct listing requires that you adhere and agree to the re
 
 
 - - - - - - - - - - - - - - - - - - - - - - - -
-## 💥 WALK WITH [cXc](https://cXc.world) 💥
+## 💥 WALK WITH [cXc](https://linktr.ee/cXc.world) 💥
 - - - - - - - - - - - - - - - - - - - - - - - -
 
 Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our media Mapps are just the start. As we refine Purple, we also seek to redefine what it means to come together as humans and co-create. We hope you'll enjoy the tools already here, and we're infinitely stoked for what our future holds. 
@@ -198,6 +198,8 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 
 ## 🎥  [Add Music to cXc.world](https://www.youtube.com/watch?v=7NCaG2ZPHOQ)
 
+# [🖇🌳](https://linktr.ee/cXc.world)
+
 - - - - - - - - - - - - - - - - - - - 
 # 🎁 Music NFTs on WAX 🚀 
 - - - - - - - - - - - - - - - - - - - 
@@ -207,7 +209,7 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 ### 🛠  [Music NFT standard](https://github.com/currentxchange/Music-NFT-Standard)  
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# 💰 BARTER [🟣PURPLE](ttps://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token), [🔵BLUX](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token) on Alcor 📈 [🎁Defibox](https://wax.defibox.io/addMarket?pairId=45) 🏊‍♂️
+# 💰 BARTER [🟣PURPLE](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token), [🔵BLUX](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token) on Alcor DEX 📈🏊‍♂️
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
@@ -218,18 +220,11 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 # 👕 WEAR cXc [High-fashion](https://artofwhere.com/artists/cxc-world-merch) 🇨🇦 🛍️ [Redbubble](https://www.redbubble.com/people/currentxchange/shop?artistUserName=CurrentXChange&iaCode=all-stickers) 🔴
 - - - - - - - - - - - - - - - - - - - 
 
-[cXc Tribe perks](https://peakd.com/hive-179421/@currentxchange/tribe-temple-for-cxcworld-cxc-tribe-working-document) include additional 👕 designs, all with 100% rebate in PURPLE 🟣  
-
-- - - - - - - - - - - - - - - - - - - - - - - 
-# 🦁🐻🦉 Find home in [cXc Tribe 🪶](https://lu.ma/cxc)
-- - - - - - - - - - - - - - - - - - - - - - -
-
 
 ## **[🎶 Sing and Dance: cXc Discord](https://discord.gg/yqtQawvrzV)** 
 
-## [Share Vision in 🌕 Moon Meets](https://lu.ma/cxc) 
 
-- We're also on [✈️ Telegram](https://t.me/cXc_world)
+- We're also on [✈️ Telegram](https://t.me/cXc_world) + [🎮 Discord](https://)
 
 - And welcome music posts in our [🏘️ Hive Community](https://peakd.com/c/hive-179421) 
  
