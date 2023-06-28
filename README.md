@@ -209,11 +209,11 @@ Current X Change is dedicated to harmonizing Humans, Collectives, and Gaia. Our 
 ### 🛠  [Music NFT standard](https://github.com/currentxchange/Music-NFT-Standard)  
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# 💰 BARTER [🟣PURPLE](https://wax.alcor.exchange/trade/PURPLE-purplepurple_WAX-eosio.token), [🔵BLUX](https://wax.alcor.exchange/trade/BLUX-bluxbluxblux_WAX-eosio.token) on Alcor DEX 📈🏊‍♂️
+# 💰 BARTER [🟣PURPLE](https://wax.alcor.exchange/swap/?input=WAX-eosio.token&output=PURPLE-purplepurple), [🔵BLUX](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=BLUX-bluxbluxblux) on Alcor DEX 📈🏊‍♂️
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
-🧭 Explore these tokens in our [Purple Explainer](https://github.com/currentxchange/purple-explainer/)
+🧭 Explore these tokens in our [Purple Explainer](https://github.com/currentxchange/purple-explainer/) 📍 You Are Here
 
 
 - - - - - - - - - - - - - - - - - - - 
