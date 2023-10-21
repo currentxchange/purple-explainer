@@ -6,6 +6,7 @@
 Blu tokens (BLU, BLUX) **reward musicians** on cXc.world who receive Ups, and reward role (Artist, Changer, Guardian) actions.
 
 > BLUX, not BLU, will be on cXc.world in Beta. BLU won't be released until users can be human-verified. After that, both will co-exist.
+> UPDATE: Because another project is using the BLUX name, and new mechanics do not require verified accounts, BLUX is the only token planned to be released. Minting of BLUX has been increased to 10,000,000 at a time and can be tracked at the contract address [bluxbluxblux](https://waxblock.io/account/bluxbluxblux). Minting mechanics have not changed, and BLUX is currently being minted obly got [Everstone](Everstones.md) rewards.
 
 All cXc.world users can earn Blu for qualified actions, including posting original creations, Upping content, moderation, and trading in time-pools.
 
@@ -97,6 +98,8 @@ Note: BLUX is issued to [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux
 - 5,000,000 BLUX to Promo fund [thx4dapurple](https://wax.bloks.io/account/thx4dapurple) (2/5 issued so far)
 - 500,000 BLUX to put into [Alcor Liquidity pool](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token) (2/5 issued so far)
 
+# Market Making
+A BLUX / WAXP market maker was added October 21, 2023, it follows the same rules and conditions as the PURPLE / WAXP market maker described at [Purple.md](Purple.md)
 
 ## Track your BLUX in any wallet
 BLUX  
