@@ -93,10 +93,11 @@ BLUX is issued according to the same conditions as BLU, but to unverified accoun
 
 BLUX is also issued periodically for Airdrops and other promotions. All issuances of BLUX are public knowledge via the [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) contract, and listed below.
 
-Note: BLUX is issued to [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) 1,000,000 at a time, in advance, where it is then distributed.
+Note: BLUX is issued to [bluxbluxblux](https://wax.bloks.io/account/bluxbluxblux) 10,000,000 at a time, in advance, where it is then distributed.
 
 - 5,000,000 BLUX to Promo fund [thx4dapurple](https://wax.bloks.io/account/thx4dapurple) (2/5 issued so far)
 - 500,000 BLUX to put into [Alcor Liquidity pool](https://wax.alcor.exchange/swap?output=BLUX-bluxbluxblux&input=WAX-eosio.token) (2/5 issued so far)
+- Feb 7, 2024 - 10,000,000 BLUX for 360 day PURPLE/BLUX reward pool on [Alcor])(https://wax.alcor.exchange/farm)
 
 # Market Making
 A BLUX / WAXP market maker was added October 21, 2023, it follows the same rules and conditions as the PURPLE / WAXP market maker described at [Purple.md](Purple.md)
