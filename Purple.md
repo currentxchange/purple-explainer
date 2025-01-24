@@ -142,5 +142,11 @@ Image: https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/purpl
 # Market Making
 In fall 2023, a market maker was added to the [Alcor Exchange WAX/PURPLE Market](https://wax.alcor.exchange/trade/purple-purplepurple_wax-eosio.token). This market maker reads the lowest ask price, and places an ask slightly below that, and then reads the highest bid price, and places a bid slightly above it. If you look at the history graph, you can see the large gap in liquidity that was addressed with this market maker. This strategy may result in higher than natural volume, which is a result of the buy and sell orders coming together, as well as arbitrage bots trading with liquidity pools. This bot was adjusted in October 2023 to reduce the likelihood of arbitrage bots' success. This market maker's service may be discontinued or adjusted at any time without notice. The service operates completely within the bounds of the regular smart contracts, from a local machine, and acts with a handful of accounts placing these orders at regular intervals, with a degree of randomness in aspects of the order. 
 
+In fall 2024 this market maker was pausued due to losing value. 
+
+# 2025 Airdrop
+
+43,200 PURPLE has been allocated for the 2025 airdrop to promote the release of cXc Beta, and the new [PURPLE staking system](https://tools.cxc.world). This is considered part of the promotion budget.  [Tx](https://wax.bloks.io/transaction/233e36788e800110d02315fd145f033939a3d9e1b94d28a3f971aca7a216a3b6)
+
 
 >To learn more about the economics of cXc.world apps, see the [Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) and [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview), and to see the first cXc.world mapp, cXc Music, visit [cXc.world](https://music.cxc.world)
