@@ -58,6 +58,8 @@ Everstones store info (mdata) on whether the owner wants BLUX or Blu Ups, and if
 
 Once a day, we check how much PURPLE is staked on each Everstone, and if it's over 1, we distribute the owed Blu Ups or BLUX. There are no fractional Ups or BLUX, so rounding down to each level is used to calculate the rewards. For example, if you had 64 or 67 PURPLE staked to one Everstone, both would give 432 Blu Ups per day. 
 
+Rewards are sent from [everpay.cxc](https://wax.bloks.io/account/everpay.cxc)
+
 *Open Possibility: If you choose BLUX payments, weekly or monthly recharge of [Solar Disk](Sol.md) may be required to receive the full amount. This is TBD as we consider what's best for all stakeholders. Currently there is no restriction.*  
 
 
