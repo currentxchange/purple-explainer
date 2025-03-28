@@ -20,7 +20,7 @@
 :heavy_check_mark: [cxcmusicnfts](https://wax.atomichub.io/market?collection_name=cxcmusicnfts) Exclusive Music NFT Collection launched with [drops site](https://drops.cxc.world)    
 :heavy_check_mark: [Music NFT Map on WAX](https://music.cxc.world/?format=nft) Launched seamlessly on cXc.world via new NFT format with Template ID requirement    
 :heavy_check_mark: [Grant completed for Loot + Ups smart contracts](https://labs.wax.io/proposals/84)  
-:heavy_check_mark: [cXc.world Beta](https://cXc.world) with BLUX [upvoting](Blu.md)   
+:heavy_check_mark: [cXc.world Beta](https://cXc.world) with BLUX upvoting [(Demo)](https://www.youtube.com/watch?v=_obJ2-nPFDA)   
 :heavy_check_mark: [National + Local Top Charts](Images/Top-Charts-Beta.png) Go Live   
 - [ ] BLUX rewards for creators + curators
 - [ ] [Global Top 64](Top-Charts.md) PURPLE rewards 🟣 (Requires activity level to activate)
