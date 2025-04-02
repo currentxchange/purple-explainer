@@ -92,10 +92,10 @@ PURPLE will be released on [Alcor](https://wax.alcor.exchange/trade/purple-purpl
 - 1/144 (248,832) Direct Listed on Exchanges (Alcor) [dplug4purple](https://wax.bloks.io/account/dplug4purple)
 - 100,000 to Promo account [thx4dapurple](https://wax.bloks.io/account/thx4dapurple)
 - 100,000 for Team + Freelance work [currentxchng](https://wax.bloks.io/account/currentxchng)
-- 29,859 Founder Pay 2021 [godsolislove](https://wax.bloks.io/account/godsolislove)
-- 59,719 Founder Pay 2022 [godsolislove](https://wax.bloks.io/account/godsolislove)
-- 89,580 Founder Pay 2023 [godsolislove](https://wax.bloks.io/account/godsolislove)
-- 119,439 Founder Pay 2024 [godsolislove](https://wax.bloks.io/account/godsolislove)
+- 29,859 Founder Pay 2021 [godsolislove](https://wax.bloks.io/account/godsolislove) [Tx](https://wax.bloks.io/transaction/27bb6a6c945fe4d1390e9b27dc36543d352ba211343d360ba20b5ac6fd13477d)
+- 59,719 Founder Pay 2022 [godsolislove](https://wax.bloks.io/account/godsolislove) [Tx](https://wax.bloks.io/transaction/27bb6a6c945fe4d1390e9b27dc36543d352ba211343d360ba20b5ac6fd13477d)
+- 89,580 Founder Pay 2023 [godsolislove](https://wax.bloks.io/account/godsolislove) [Tx](https://wax.bloks.io/transaction/27bb6a6c945fe4d1390e9b27dc36543d352ba211343d360ba20b5ac6fd13477d)
+- 119,439 Founder Pay 2024 [godsolislove](https://wax.bloks.io/account/godsolislove) [Tx](https://wax.bloks.io/transaction/27bb6a6c945fe4d1390e9b27dc36543d352ba211343d360ba20b5ac6fd13477d)
 
 
 # *[747,429 Circulating 🟣 PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)*
