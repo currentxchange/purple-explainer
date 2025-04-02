@@ -93,17 +93,20 @@ PURPLE will be released on [Alcor](https://wax.alcor.exchange/trade/purple-purpl
 - 100,000 to Promo account [thx4dapurple](https://wax.bloks.io/account/thx4dapurple)
 - 100,000 for Team + Freelance work [currentxchng](https://wax.bloks.io/account/currentxchng)
 - 29,859 Founder Pay 2021 [godsolislove](https://wax.bloks.io/account/godsolislove)
+- 59,719 Founder Pay 2022 [godsolislove](https://wax.bloks.io/account/godsolislove)
+- 89,580 Founder Pay 2023 [godsolislove](https://wax.bloks.io/account/godsolislove)
+- 119,439 Founder Pay 2024 [godsolislove](https://wax.bloks.io/account/godsolislove)
 
 
-# *[478,691 Circulating 🟣 PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)*
+# *[747,429 Circulating 🟣 PURPLE](https://wax.bloks.io/tokens/PURPLE-wax-purplepurple)*
 
 # Founder Pay Promise  
 Pay to the Founder (1/12 Max Supply) will be distributed over 14 years by incremental % starting at 1%. All values in PURPLE and rounded.
 
-2021 = 1% = 29,859  
-2022 = 2% = 59,719  
-2023 = 3% = 89,580  
-2024 = 4% = 119,439  
+2021 = 1% = 29,859 ✓  
+2022 = 2% = 59,719 ✓  
+2023 = 3% = 89,580 ✓  
+2024 = 4% = 119,439 ✓  
 2025 = 5% = 149,299  
 2026 = 6% = 179,159  
 2027 = 7% = 209,018  
