@@ -22,9 +22,12 @@
 :heavy_check_mark: [Grant completed for Loot + Ups smart contracts](https://labs.wax.io/proposals/84)  
 :heavy_check_mark: [cXc.world Beta](https://cXc.world) with BLUX upvoting [(Demo)](https://www.youtube.com/watch?v=_obJ2-nPFDA)   
 :heavy_check_mark: [National + Local Top Charts](Images/Top-Charts-Beta.png) Go Live   
+- [ ] Global Ambassador Program    
 - [ ] BLUX rewards for creators + curators
+- [ ] cXc.world comes to [Tonomy](https://tonomy.foundation/) 
+- [ ] cXc.world comes to Polygon
+- [ ] cXc.world comes to Solana
 - [ ] [Global Top 64](Top-Charts.md) PURPLE rewards 🟣 (Requires activity level to activate)
-- [ ] Messenger Program    
 - [ ] On-site Music NFT creator  🖼️   
 - [ ] Changer + Artist + Guardian [Guild](https://discord.gg/ZXmCpKszJR) rewards  🔵   
 
